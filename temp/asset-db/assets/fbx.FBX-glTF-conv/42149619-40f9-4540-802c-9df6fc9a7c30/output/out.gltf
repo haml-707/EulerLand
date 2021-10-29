@@ -1,0 +1,334 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 792,
+      "max": [
+        0.7273128628730774,
+        1.1633632183074951,
+        0.6938125491142273
+      ],
+      "min": [
+        -0.7273128628730774,
+        0.5483679175376892,
+        -0.6938125491142273
+      ],
+      "name": "对称_4/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 792,
+      "name": "对称_4/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 792,
+      "name": "对称_4/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 3840,
+      "name": "对称_4/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 20880,
+      "max": [
+        0.9448833465576172,
+        0.8719596266746521,
+        0.9448833465576172
+      ],
+      "min": [
+        -0.9448833465576172,
+        -0.8887369632720947,
+        -0.9448833465576172
+      ],
+      "name": "球体_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 20880,
+      "name": "球体_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 20880,
+      "name": "球体_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 104400,
+      "name": "球体_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 720,
+      "max": [
+        1.9518065452575684,
+        3.7797768115997314,
+        1.9518065452575684
+      ],
+      "min": [
+        -1.9518065452575684,
+        2.8421708795129297e-16,
+        -1.9518065452575684
+      ],
+      "name": "身体/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 720,
+      "name": "身体/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 720,
+      "name": "身体/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5125,
+      "count": 3600,
+      "name": "身体/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 25344,
+      "byteStride": 32,
+      "name": "对称_4",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15360,
+      "byteOffset": 25344
+    },
+    {
+      "buffer": 0,
+      "byteLength": 668160,
+      "byteOffset": 40704,
+      "byteStride": 32,
+      "name": "球体_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 417600,
+      "byteOffset": 708864
+    },
+    {
+      "buffer": 0,
+      "byteLength": 23040,
+      "byteOffset": 1126464,
+      "byteStride": 32,
+      "name": "身体",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14400,
+      "byteOffset": 1149504
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1163904,
+      "uri": "out.bin"
+    }
+  ],
+  "materials": [
+    {
+      "name": "材质.4",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4675471782684326,
+          0.5899999737739563,
+          0.33952829241752625,
+          1.0
+        ],
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.24253562092781067
+      }
+    },
+    {
+      "name": "材质.3",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7372549176216125,
+          0.06666667014360428,
+          0.25882354378700256,
+          1.0
+        ],
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.24253562092781067
+      }
+    },
+    {
+      "name": "材质.1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.13429999351501465,
+          0.1396549940109253,
+          0.17000000178813934,
+          1.0
+        ],
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.24253562092781067
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "对称_4",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "球体_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1
+        }
+      ]
+    },
+    {
+      "name": "身体",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Cinema_4D_编辑器",
+      "rotation": [
+        -0.03926808759570122,
+        0.7115325331687927,
+        -0.03865862265229225,
+        0.7004891037940979
+      ],
+      "translation": [
+        0.6594425439834595,
+        0.9998006224632263,
+        8.775550842285156
+      ]
+    },
+    {
+      "children": [
+        2,
+        3,
+        4
+      ],
+      "name": "树莓派_1",
+      "scale": [
+        0.4658571481704712,
+        0.4658571481704712,
+        0.4658571481704712
+      ],
+      "translation": [
+        0.0,
+        -1.1200307607650757,
+        6.62022819774934e-17
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "对称_4",
+      "scale": [
+        2.146580696105957,
+        2.146580696105957,
+        2.146580696105957
+      ],
+      "translation": [
+        0.0,
+        2.4042365550994873,
+        -1.4210854397564648e-16
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "球体_1",
+      "scale": [
+        2.146580696105957,
+        2.146580696105957,
+        2.146580696105957
+      ],
+      "translation": [
+        0.0,
+        1.8705674409866333,
+        -1.4210854397564648e-16
+      ]
+    },
+    {
+      "mesh": 2,
+      "name": "身体"
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ]
+}

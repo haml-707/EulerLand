@@ -1,0 +1,8 @@
+{
+  "options": {
+    "wechatgame": {
+      "separateEngine": true,
+      "appid": "wx223ef841448136a7"
+    }
+  }
+}

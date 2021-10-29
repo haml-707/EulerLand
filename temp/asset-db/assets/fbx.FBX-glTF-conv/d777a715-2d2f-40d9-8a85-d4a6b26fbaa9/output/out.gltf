@@ -1,0 +1,376 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 7424,
+      "max": [
+        0.26436689496040344,
+        -0.00806643720716238,
+        0.08590815216302872
+      ],
+      "min": [
+        -0.16486315429210663,
+        -0.06514523923397064,
+        -0.08590815216302872
+      ],
+      "name": "轮子/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 7424,
+      "name": "轮子/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 7424,
+      "name": "轮子/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 43008,
+      "name": "轮子/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1820,
+      "max": [
+        0.4157150685787201,
+        0.1098843663930893,
+        0.08013585954904556
+      ],
+      "min": [
+        -0.3353675603866577,
+        0.005870369262993336,
+        -0.08130135387182236
+      ],
+      "name": "滑板/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1820,
+      "name": "滑板/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1820,
+      "name": "滑板/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 10368,
+      "name": "滑板/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 28333,
+      "max": [
+        -0.09546896815299988,
+        0.009080179035663605,
+        0.08443617075681686
+      ],
+      "min": [
+        -0.17927095293998718,
+        -0.056786082684993744,
+        -0.08500954508781433
+      ],
+      "name": "group31_group30_polySurface59/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 28333,
+      "name": "group31_group30_polySurface59/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 28333,
+      "name": "group31_group30_polySurface59/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5125,
+      "count": 154848,
+      "name": "group31_group30_polySurface59/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 28333,
+      "max": [
+        0.2784103453159332,
+        0.009080179035663605,
+        0.08442705124616623
+      ],
+      "min": [
+        0.19460850954055786,
+        -0.056786082684993744,
+        -0.08501866459846497
+      ],
+      "name": "group31_group30_pPlane8/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 28333,
+      "name": "group31_group30_pPlane8/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 28333,
+      "name": "group31_group30_pPlane8/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5125,
+      "count": 154848,
+      "name": "group31_group30_pPlane8/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 237568,
+      "byteStride": 32,
+      "name": "轮子",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 172032,
+      "byteOffset": 237568
+    },
+    {
+      "buffer": 0,
+      "byteLength": 58240,
+      "byteOffset": 409600,
+      "byteStride": 32,
+      "name": "滑板",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 41472,
+      "byteOffset": 467840
+    },
+    {
+      "buffer": 0,
+      "byteLength": 906656,
+      "byteOffset": 509312,
+      "byteStride": 32,
+      "name": "group31_group30_polySurface59",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 619392,
+      "byteOffset": 1415968
+    },
+    {
+      "buffer": 0,
+      "byteLength": 906656,
+      "byteOffset": 2035360,
+      "byteStride": 32,
+      "name": "group31_group30_pPlane8",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 619392,
+      "byteOffset": 2942016
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3561408,
+      "uri": "out.bin"
+    }
+  ],
+  "materials": [
+    {
+      "name": "lambert3SG",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.11999999731779099,
+          0.11999999731779099,
+          0.11999999731779099,
+          1.0
+        ],
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.24253562092781067
+      }
+    },
+    {
+      "name": "pasted__lambert14_1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5608935356140137,
+          0.5436451435089111,
+          0.6710349917411804,
+          1.0
+        ],
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.24253562092781067
+      }
+    },
+    {
+      "name": "pasted__lambert16",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.43157655000686646,
+          0.009829331189393997,
+          0.011555048637092113,
+          1.0
+        ],
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.24253562092781067
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "轮子",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "滑板",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1
+        }
+      ]
+    },
+    {
+      "name": "group31_group30_polySurface59",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2
+        }
+      ]
+    },
+    {
+      "name": "group31_group30_pPlane8",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 2
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Cinema_4D_编辑器",
+      "rotation": [
+        -0.12694747745990753,
+        0.49219515919685364,
+        -0.21507735550403595,
+        0.8338884711265564
+      ],
+      "translation": [
+        -0.4808885455131531,
+        0.6984184980392456,
+        0.9466323852539063
+      ]
+    },
+    {
+      "children": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "滑板_obj"
+    },
+    {
+      "mesh": 0,
+      "name": "轮子"
+    },
+    {
+      "mesh": 1,
+      "name": "滑板"
+    },
+    {
+      "mesh": 2,
+      "name": "group31_group30_polySurface59"
+    },
+    {
+      "mesh": 3,
+      "name": "group31_group30_pPlane8"
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ]
+}

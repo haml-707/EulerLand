@@ -1,0 +1,165 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2244,
+      "max": [
+        0.75,
+        0.0,
+        -2.2737367036103438e-15
+      ],
+      "min": [
+        -0.75,
+        0.0,
+        -24.000001907348633
+      ],
+      "name": "Default/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 2244,
+      "name": "Default/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 2244,
+      "name": "Default/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 12000,
+      "name": "Default/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 71808,
+      "byteStride": 32,
+      "name": "Default",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 48000,
+      "byteOffset": 71808
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 119808,
+      "uri": "out.bin"
+    }
+  ],
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "C:\\Users\\86152\\Desktop\\EulerLand\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\f00a2bd2-0c6d-4753-886b-05edc277cdde\\output\\.fbm\\7F8E3738\\路面02.fbm/路面02.png",
+          "relativeFileName": "..\\..\\..\\..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\f00a2bd2-0c6d-4753-886b-05edc277cdde\\output\\.fbm\\7F8E3738\\路面02.fbm\\路面02.png"
+        }
+      },
+      "name": "路面02.png",
+      "uri": "路面02.png"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "C:\\Users\\86152\\Desktop\\EulerLand\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\f00a2bd2-0c6d-4753-886b-05edc277cdde\\output\\.fbm\\7F8E3738\\路面02.fbm/路面02.png",
+          "relativeFileName": "..\\..\\..\\..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\f00a2bd2-0c6d-4753-886b-05edc277cdde\\output\\.fbm\\7F8E3738\\路面02.fbm\\路面02.png"
+        }
+      },
+      "name": "路面02.png",
+      "uri": "路面02.png"
+    }
+  ],
+  "materials": [
+    {
+      "name": "材质",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.24253562092781067
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Default",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Cinema_4D_编辑器",
+      "rotation": [
+        -0.09891048073768616,
+        0.7143067717552185,
+        -0.09502679109573364,
+        0.6862597465515137
+      ],
+      "translation": [
+        0.37551650404930115,
+        2.2123453617095947,
+        3.7551000118255615
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "Default"
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "路面02.png",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "路面02.png",
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}

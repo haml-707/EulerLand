@@ -1,0 +1,86 @@
+[
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "Cinema_4D_编辑器",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "树1_obj",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "圆环",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "圆环_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "克隆",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "树干",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "树叶",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 0,
+    "message": "Local time: [0.000000, 1.000000]"
+  },
+  {
+    "level": 0,
+    "message": "Reference time: [0.000000, 1.000000]"
+  }
+]

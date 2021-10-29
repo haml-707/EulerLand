@@ -1,0 +1,165 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1105,
+      "max": [
+        4.22545051574707,
+        0.672587513923645,
+        -7.638181686401367
+      ],
+      "min": [
+        -4.22545051574707,
+        0.5087512135505676,
+        -7.658181667327881
+      ],
+      "name": "绳子/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1105,
+      "name": "绳子/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1105,
+      "name": "绳子/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 6144,
+      "name": "绳子/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 35360,
+      "byteStride": 32,
+      "name": "绳子",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24576,
+      "byteOffset": 35360
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 59936,
+      "uri": "out.bin"
+    }
+  ],
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "C:\\Users\\86152\\Desktop\\EulerLand\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\2c29d8fb-6c47-46f8-b561-2c69478bdbb0\\output\\.fbm\\13F036E5\\绳子.fbm/FabricRope001_COL_3K.jpg",
+          "relativeFileName": "..\\..\\..\\..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\2c29d8fb-6c47-46f8-b561-2c69478bdbb0\\output\\.fbm\\13F036E5\\绳子.fbm\\FabricRope001_COL_3K.jpg"
+        }
+      },
+      "name": "FabricRope001_COL_3K.jpg",
+      "uri": "FabricRope001_COL_3K.jpg"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "C:\\Users\\86152\\Desktop\\EulerLand\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\2c29d8fb-6c47-46f8-b561-2c69478bdbb0\\output\\.fbm\\13F036E5\\绳子.fbm/FabricRope001_DISP_3K.jpg",
+          "relativeFileName": "..\\..\\..\\..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\2c29d8fb-6c47-46f8-b561-2c69478bdbb0\\output\\.fbm\\13F036E5\\绳子.fbm\\FabricRope001_DISP_3K.jpg"
+        }
+      },
+      "name": "FabricRope001_DISP_3K.jpg",
+      "uri": "FabricRope001_DISP_3K.jpg"
+    }
+  ],
+  "materials": [
+    {
+      "name": "材质",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.24253562092781067
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "绳子",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Cinema_4D_编辑器",
+      "rotation": [
+        -0.15606123208999634,
+        0.9106032252311707,
+        -0.06464267522096634,
+        0.3771842122077942
+      ],
+      "translation": [
+        1.6745408773422241,
+        1.0845435857772827,
+        -6.788241863250732
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "绳子"
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "FabricRope001_COL_3K.jpg",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "FabricRope001_DISP_3K.jpg",
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}

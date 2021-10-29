@@ -1,0 +1,238 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1168,
+      "max": [
+        3.188718318939209,
+        0.8524001240730286,
+        -4.78220796585083
+      ],
+      "min": [
+        -4.345094680786133,
+        -0.009340670891106129,
+        -5.328815460205078
+      ],
+      "name": "藤条/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1168,
+      "name": "藤条/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1168,
+      "name": "藤条/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 6132,
+      "name": "藤条/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1139,
+      "max": [
+        4.225454807281494,
+        0.8237851858139038,
+        -4.963744640350342
+      ],
+      "min": [
+        -4.225452899932861,
+        0.4168321490287781,
+        -5.282022476196289
+      ],
+      "name": "Default/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1139,
+      "name": "Default/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1139,
+      "name": "Default/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 6144,
+      "name": "Default/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 37376,
+      "byteStride": 32,
+      "name": "藤条",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24528,
+      "byteOffset": 37376
+    },
+    {
+      "buffer": 0,
+      "byteLength": 36448,
+      "byteOffset": 61904,
+      "byteStride": 32,
+      "name": "Default",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24576,
+      "byteOffset": 98352
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 122928,
+      "uri": "out.bin"
+    }
+  ],
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "C:\\Users\\86152\\Desktop\\EulerLand\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\b6520b63-a4fe-4e86-bd84-a519dd61b714\\output\\.fbm\\7E993729\\木头02.fbm/木头.png",
+          "relativeFileName": "..\\..\\..\\..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\b6520b63-a4fe-4e86-bd84-a519dd61b714\\output\\.fbm\\7E993729\\木头02.fbm\\木头.png"
+        }
+      },
+      "name": "木头.png",
+      "uri": "木头.png"
+    }
+  ],
+  "materials": [
+    {
+      "name": "Archmodels61_001_leaf2",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.20055556297302246,
+          0.5699999928474426,
+          0.30611109733581543,
+          1.0
+        ],
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.24253562092781067
+      }
+    },
+    {
+      "name": "材质",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.24253562092781067
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "藤条",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Default",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Cinema_4D_编辑器",
+      "rotation": [
+        -0.23973585665225983,
+        0.8258965611457825,
+        -0.14225886762142181,
+        0.4900856912136078
+      ],
+      "translation": [
+        3.2903335094451904,
+        3.8992583751678467,
+        -0.17780359089374542
+      ]
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "木头02_obj"
+    },
+    {
+      "mesh": 0,
+      "name": "藤条"
+    },
+    {
+      "mesh": 1,
+      "name": "Default"
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "木头.png",
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

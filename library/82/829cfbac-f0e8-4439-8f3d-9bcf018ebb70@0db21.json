@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.Material",
+  "_name": "材质",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+    "__expectedType__": "cc.EffectAsset"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {
+      "USE_ALBEDO_MAP": true
+    }
+  ],
+  "_states": [
+    {
+      "rasterizerState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {}
+    }
+  ],
+  "_props": [
+    {
+      "mainTexture": {
+        "__uuid__": "829cfbac-f0e8-4439-8f3d-9bcf018ebb70@d2fdf",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "metallic": 0.4000000059604645,
+      "roughness": 0.24253562092781067
+    }
+  ]
+}

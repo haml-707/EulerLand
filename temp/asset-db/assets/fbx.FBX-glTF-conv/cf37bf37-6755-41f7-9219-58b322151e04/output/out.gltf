@@ -1,0 +1,165 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 9305,
+      "max": [
+        5.8719329833984375,
+        0.17955920100212097,
+        2.6201610565185547
+      ],
+      "min": [
+        -5.8719329833984375,
+        -0.15545959770679474,
+        -21.379840850830078
+      ],
+      "name": "Default/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 9305,
+      "name": "Default/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 9305,
+      "name": "Default/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 47991,
+      "name": "Default/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 297760,
+      "byteStride": 32,
+      "name": "Default",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 191964,
+      "byteOffset": 297760
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 489724,
+      "uri": "out.bin"
+    }
+  ],
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "C:\\Users\\86152\\Desktop\\EulerLand\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\cf37bf37-6755-41f7-9219-58b322151e04\\output\\.fbm\\8001373E\\沙漠02.fbm/沙漠02.png",
+          "relativeFileName": "..\\..\\..\\..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\cf37bf37-6755-41f7-9219-58b322151e04\\output\\.fbm\\8001373E\\沙漠02.fbm\\沙漠02.png"
+        }
+      },
+      "name": "沙漠02.png",
+      "uri": "沙漠02.png"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "C:\\Users\\86152\\Desktop\\EulerLand\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\cf37bf37-6755-41f7-9219-58b322151e04\\output\\.fbm\\8001373E\\沙漠02.fbm/沙漠02.png",
+          "relativeFileName": "..\\..\\..\\..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\cf37bf37-6755-41f7-9219-58b322151e04\\output\\.fbm\\8001373E\\沙漠02.fbm\\沙漠02.png"
+        }
+      },
+      "name": "沙漠02.png",
+      "uri": "沙漠02.png"
+    }
+  ],
+  "materials": [
+    {
+      "name": "材质",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.24253562092781067
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Default",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Cinema_4D_编辑器",
+      "rotation": [
+        -0.15099862217903137,
+        0.689049243927002,
+        -0.15172837674617767,
+        0.6923792958259583
+      ],
+      "translation": [
+        0.0930936336517334,
+        11.162559509277344,
+        16.19439697265625
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "Default"
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "沙漠02.png",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "沙漠02.png",
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}

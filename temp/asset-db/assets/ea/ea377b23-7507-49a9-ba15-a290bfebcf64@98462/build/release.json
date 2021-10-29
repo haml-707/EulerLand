@@ -1,0 +1,107 @@
+[
+    1,
+    0,
+    0,
+    [
+        [
+            "cc.Mesh",
+            [
+                "_native",
+                "_dataLength",
+                "_hash",
+                "_struct"
+            ],
+            0,
+            11
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    ],
+    [
+        [
+            0,
+            ".bin",
+            23280,
+            3750813642,
+            [
+                {
+                    "primitives": [
+                        {
+                            "primitiveMode": 7,
+                            "vertexBundelIndices": [
+                                0
+                            ],
+                            "indexView": {
+                                "offset": 19008,
+                                "length": 4272,
+                                "count": 1068,
+                                "stride": 4
+                            }
+                        }
+                    ],
+                    "vertexBundles": [
+                        {
+                            "view": {
+                                "offset": 0,
+                                "length": 19008,
+                                "count": 396,
+                                "stride": 48
+                            },
+                            "attributes": [
+                                {
+                                    "name": "a_position",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_normal",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_texCoord",
+                                    "format": 21,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_tangent",
+                                    "format": 44,
+                                    "isNormalized": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "minPosition",
+                8,
+                [
+                    1,
+                    -0.00456636119633913,
+                    0.2787272334098816,
+                    -0.022819725796580315
+                ],
+                "maxPosition",
+                8,
+                [
+                    1,
+                    0.004604135639965534,
+                    0.28970420360565186,
+                    0.022819725796580315
+                ]
+            ]
+        ]
+    ],
+    0,
+    0,
+    [],
+    [],
+    []
+]

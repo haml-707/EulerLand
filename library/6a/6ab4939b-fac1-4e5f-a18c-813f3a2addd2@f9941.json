@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "三角形",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 344,
+      "height": 340
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 344,
+      "height": 340
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "6ab4939b-fac1-4e5f-a18c-813f3a2addd2@6c48a",
+    "packable": true
+  }
+}

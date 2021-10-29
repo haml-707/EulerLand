@@ -1,0 +1,466 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 561,
+      "max": [
+        0.11939679831266403,
+        0.21959207952022552,
+        0.08548448234796524
+      ],
+      "min": [
+        -0.15146034955978394,
+        0.2095920741558075,
+        -0.18537265062332153
+      ],
+      "name": "圆环/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 561,
+      "name": "圆环/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 561,
+      "name": "圆环/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 3072,
+      "name": "圆环/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 561,
+      "max": [
+        0.11939679831266403,
+        0.06249357759952545,
+        0.08548448234796524
+      ],
+      "min": [
+        -0.15146034955978394,
+        0.05249357596039772,
+        -0.18537265062332153
+      ],
+      "name": "圆环_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 561,
+      "name": "圆环_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 561,
+      "name": "圆环_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 3072,
+      "name": "圆环_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1992,
+      "max": [
+        0.13515955209732056,
+        0.24022947251796722,
+        0.10124722123146057
+      ],
+      "min": [
+        -0.16722309589385986,
+        -0.00453579518944025,
+        -0.20113541185855865
+      ],
+      "name": "克隆/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1992,
+      "name": "克隆/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1992,
+      "name": "克隆/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5125,
+      "count": 6768,
+      "name": "克隆/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 689,
+      "max": [
+        0.20212134718894958,
+        0.8227792382240295,
+        0.10183954983949661
+      ],
+      "min": [
+        -0.16136260330677032,
+        -9.501118780619322e-10,
+        -0.19007936120033264
+      ],
+      "name": "树干/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 689,
+      "name": "树干/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 689,
+      "name": "树干/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5125,
+      "count": 2928,
+      "name": "树干/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 785,
+      "max": [
+        0.4536932706832886,
+        1.7154972553253174,
+        0.4462535083293915
+      ],
+      "min": [
+        -0.45091307163238525,
+        0.4303502142429352,
+        -0.4476347267627716
+      ],
+      "name": "树叶/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 785,
+      "name": "树叶/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 785,
+      "name": "树叶/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5125,
+      "count": 840,
+      "name": "树叶/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 17952,
+      "byteStride": 32,
+      "name": "圆环",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12288,
+      "byteOffset": 17952
+    },
+    {
+      "buffer": 0,
+      "byteLength": 17952,
+      "byteOffset": 30240,
+      "byteStride": 32,
+      "name": "圆环_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12288,
+      "byteOffset": 48192
+    },
+    {
+      "buffer": 0,
+      "byteLength": 63744,
+      "byteOffset": 60480,
+      "byteStride": 32,
+      "name": "克隆",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 27072,
+      "byteOffset": 124224
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22048,
+      "byteOffset": 151296,
+      "byteStride": 32,
+      "name": "树干",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11712,
+      "byteOffset": 173344
+    },
+    {
+      "buffer": 0,
+      "byteLength": 25120,
+      "byteOffset": 185056,
+      "byteStride": 32,
+      "name": "树叶",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3360,
+      "byteOffset": 210176
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 213536,
+      "uri": "out.bin"
+    }
+  ],
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "C:\\Users\\86152\\Desktop\\EulerLand\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\6f84f929-9e7f-4ce9-be5a-31d96e4642a4\\output\\.fbm\\9F7F34B7\\树2.fbm/WoodFine06_GLOSS_6K.jpg",
+          "relativeFileName": "..\\..\\..\\..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\6f84f929-9e7f-4ce9-be5a-31d96e4642a4\\output\\.fbm\\9F7F34B7\\树2.fbm\\WoodFine06_GLOSS_6K.jpg"
+        }
+      },
+      "name": "WoodFine06_GLOSS_6K.jpg",
+      "uri": "WoodFine06_GLOSS_6K.jpg"
+    }
+  ],
+  "materials": [
+    {
+      "name": "材质.4",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7099999785423279,
+          0.6176999807357788,
+          0.6776949763298035,
+          1.0
+        ],
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.24253562092781067
+      }
+    },
+    {
+      "name": "材质.4_1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.49000000953674316,
+          0.3310810923576355,
+          0.43437838554382324,
+          1.0
+        ],
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.24253562092781067
+      }
+    },
+    {
+      "name": "材质.1",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.24253562092781067
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "圆环",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "圆环_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "克隆",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 1
+        }
+      ]
+    },
+    {
+      "name": "树干",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 2
+        }
+      ]
+    },
+    {
+      "name": "树叶",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Cinema_4D_编辑器",
+      "rotation": [
+        -0.022358426824212074,
+        0.8771076798439026,
+        -0.012225965037941933,
+        0.47961729764938354
+      ],
+      "translation": [
+        1.5088459253311157,
+        0.920536994934082,
+        2.3383727073669434
+      ]
+    },
+    {
+      "children": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "树2_obj"
+    },
+    {
+      "mesh": 0,
+      "name": "圆环"
+    },
+    {
+      "mesh": 1,
+      "name": "圆环_1"
+    },
+    {
+      "mesh": 2,
+      "name": "克隆"
+    },
+    {
+      "mesh": 3,
+      "name": "树干"
+    },
+    {
+      "mesh": 4,
+      "name": "树叶"
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "WoodFine06_GLOSS_6K.jpg",
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

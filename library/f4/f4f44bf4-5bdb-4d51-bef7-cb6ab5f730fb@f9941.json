@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "玩具桶",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 532,
+      "height": 578
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 532,
+      "height": 578
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "f4f44bf4-5bdb-4d51-bef7-cb6ab5f730fb@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "带圈木框",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 166,
+      "height": 304
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 166,
+      "height": 304
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "abaabb01-2bff-41eb-9e51-d4561a174d89@6c48a",
+    "packable": true
+  }
+}

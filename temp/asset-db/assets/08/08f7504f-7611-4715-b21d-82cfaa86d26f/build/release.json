@@ -1,0 +1,88 @@
+[
+    1,
+    [
+        "1brw/JvvpFnIvdrxpFCgMZ"
+    ],
+    [
+        "_effectAsset"
+    ],
+    [
+        [
+            "cc.Material",
+            [
+                "_techIdx",
+                "_states",
+                "_defines",
+                "_props"
+            ],
+            0,
+            12
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    ],
+    [
+        [
+            0,
+            "1",
+            [
+                {
+                    "rasterizerState": {},
+                    "depthStencilState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    }
+                },
+                {},
+                {}
+            ],
+            [
+                {},
+                {},
+                {}
+            ],
+            [
+                [
+                    [
+                        {
+                            "roughness": 0.55,
+                            "metallic": 0
+                        },
+                        "mainColor",
+                        8,
+                        [
+                            4,
+                            1140905983
+                        ]
+                    ],
+                    {},
+                    {}
+                ],
+                11,
+                0,
+                0
+            ]
+        ]
+    ],
+    0,
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

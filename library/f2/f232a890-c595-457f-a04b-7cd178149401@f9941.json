@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "蜂蜜",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 228,
+      "height": 250
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 228,
+      "height": 250
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "f232a890-c595-457f-a04b-7cd178149401@6c48a",
+    "packable": true
+  }
+}

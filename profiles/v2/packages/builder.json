@@ -1,0 +1,64 @@
+{
+  "__version__": "1.2.8",
+  "common": {
+    "outputName": "wechatgame",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "wechatgame",
+    "scenes": [
+      {
+        "url": "db://assets/scenes/parkour.scene",
+        "uuid": "e18e2d4f-7326-44f0-acb1-2d59e9898b1d",
+        "inBundle": false
+      }
+    ]
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1635332701082": {
+        "id": "1635332701082",
+        "progress": 1,
+        "state": "success",
+        "message": "2021-10-28 09:41 Build success in 8346 ms!",
+        "options": {
+          "packages": {
+            "cocos-service": {
+              "configID": "3b4e13",
+              "services": []
+            },
+            "wechatgame": {
+              "startSceneAssetBundle": false,
+              "orientation": "portrait",
+              "appid": "wx223ef841448136a7",
+              "separateEngine": true,
+              "wasm": "js"
+            }
+          },
+          "name": "EulerLand",
+          "platform": "wechatgame",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "e18e2d4f-7326-44f0-acb1-2d59e9898b1d",
+          "scenes": [
+            {
+              "url": "db://assets/scenes/parkour.scene",
+              "uuid": "e18e2d4f-7326-44f0-acb1-2d59e9898b1d",
+              "inBundle": false
+            }
+          ],
+          "outputName": "wechatgame"
+        },
+        "time": "2021-10-28 09:41",
+        "dirty": false
+      }
+    }
+  }
+}

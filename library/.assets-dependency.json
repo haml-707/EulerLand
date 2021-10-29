@@ -1,0 +1,148 @@
+{
+  "uuid": {
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\bg1.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\bg2.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\bg3.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\blue.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\coin.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\convex.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\darkblue.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\didang.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\green.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\red.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\road\\Archmodels61_001_leaf2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\road\\cao材质.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\road\\木材质.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\road\\材质.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\road\\材质1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\road\\材质2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\test.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\transparent.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\water.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\white.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\wood.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\wudi.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\materials\\xiqu.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\Materials_路面02\\材质.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\bg2.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\bg1.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\bg3.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\blue.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\coin.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\convex.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\didang.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\darkblue.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\green.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\red.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\road\\cao材质.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\road\\Archmodels61_001_leaf2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\road\\木材质.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\road\\材质.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\road\\材质1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\road\\材质2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\test.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\transparent.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\water.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\white.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\wood.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\wudi.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\materials\\xiqu.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\86152\\Desktop\\laowang\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\Materials_路面02\\材质.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ]
+  }
+}

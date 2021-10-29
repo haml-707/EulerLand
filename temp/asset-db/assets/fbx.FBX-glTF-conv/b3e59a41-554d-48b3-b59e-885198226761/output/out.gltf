@@ -1,0 +1,147 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 9373,
+      "max": [
+        5.8719329833984375,
+        0.1701229065656662,
+        2.6201610565185547
+      ],
+      "min": [
+        -5.8719329833984375,
+        -0.15545959770679474,
+        -21.379840850830078
+      ],
+      "name": "Default/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 9373,
+      "name": "Default/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 9373,
+      "name": "Default/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 50400,
+      "name": "Default/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 299936,
+      "byteStride": 32,
+      "name": "Default",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 201600,
+      "byteOffset": 299936
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 501536,
+      "uri": "out.bin"
+    }
+  ],
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "C:\\Users\\86152\\Desktop\\EulerLand\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\b3e59a41-554d-48b3-b59e-885198226761\\output\\.fbm\\7C7A36F1\\草地02.fbm/草地02.png",
+          "relativeFileName": "..\\..\\..\\..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\b3e59a41-554d-48b3-b59e-885198226761\\output\\.fbm\\7C7A36F1\\草地02.fbm\\草地02.png"
+        }
+      },
+      "name": "草地02.png",
+      "uri": "草地02.png"
+    }
+  ],
+  "materials": [
+    {
+      "name": "材质",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.24253562092781067
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Default",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Cinema_4D_编辑器",
+      "rotation": [
+        -0.10552681237459183,
+        0.7052037119865417,
+        -0.10375859588384628,
+        0.6933872699737549
+      ],
+      "translation": [
+        1.627997636795044,
+        5.927151203155518,
+        11.793038368225098
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "Default"
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "草地02.png",
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

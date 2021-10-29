@@ -1,0 +1,93 @@
+[
+    1,
+    [
+        "232vzs/HVA/7yb6xE36z8z@2df71",
+        "232vzs/HVA/7yb6xE36z8z@229a8",
+        "1brw/JvvpFnIvdrxpFCgMZ"
+    ],
+    [
+        "mainTexture",
+        "normalMap",
+        "_effectAsset"
+    ],
+    [
+        [
+            "cc.Material",
+            [
+                "_name",
+                "_states",
+                "_defines",
+                "_props"
+            ],
+            0,
+            12
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    ],
+    [
+        [
+            0,
+            "材质",
+            [
+                {
+                    "rasterizerState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    },
+                    "depthStencilState": {}
+                }
+            ],
+            [
+                {
+                    "USE_ALBEDO_MAP": true,
+                    "USE_NORMAL_MAP": true
+                }
+            ],
+            [
+                [
+                    [
+                        {
+                            "metallic": 0.4000000059604645,
+                            "roughness": 0.24253562092781067
+                        },
+                        "mainTexture",
+                        6,
+                        0,
+                        "normalMap",
+                        6,
+                        1
+                    ]
+                ],
+                11
+            ]
+        ]
+    ],
+    0,
+    0,
+    [
+        0,
+        0,
+        0
+    ],
+    [
+        0,
+        1,
+        2
+    ],
+    [
+        0,
+        1,
+        2
+    ]
+]

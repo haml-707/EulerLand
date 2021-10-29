@@ -1,0 +1,28 @@
+{
+  "state": {
+    "expandUuids": [
+      "db://assets",
+      "8ec2a75b-5284-48b7-80ea-a9cc8e51fb15",
+      "d1000e5d-8fcc-4542-aa11-44343dbab879",
+      "7f67ed3d-f604-4663-9fb2-aae349ae6fc2",
+      "1e95040f-ece3-4d59-824e-19533ee87583",
+      "85ec6e96-bccd-427e-a68c-17b3d734a9b1",
+      "3c6302ee-b9c1-4101-9ad5-d6db31c5ad8a@b47c0",
+      "b09c22e2-1947-482a-8460-677365d0a48a",
+      "7bf74597-8497-4b70-a31e-9eb7919f72b1",
+      "fe891881-fa0c-42c0-bc9e-984b708f35d3",
+      "b7e34572-8006-423c-8b71-bfa0f656001d",
+      "1263d74c-8167-4928-91a6-4e2672411f47",
+      "db://internal",
+      "54ceeeaf-d063-46a0-981b-b505efbf6be8",
+      "f70becd9-7d08-43ef-8e47-12c5cc5427ff",
+      "f29aebae-21ce-48fd-8198-f029d6d1699f",
+      "253bbe08-30b5-4290-8e48-148a4d902aa0",
+      "331f6edf-7880-465b-9cc8-563350bdbbad",
+      "ed7e2e99-be93-4f27-b3b9-02ff13834171",
+      "93b278c4-c600-4777-821a-be48fcb0df5c",
+      "56af1cee-456c-44a3-9526-e9608b1d6ae6"
+    ],
+    "sortType": "name"
+  }
+}

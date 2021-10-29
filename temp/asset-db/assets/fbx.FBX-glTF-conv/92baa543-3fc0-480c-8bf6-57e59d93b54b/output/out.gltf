@@ -1,0 +1,112 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 15539,
+      "max": [
+        0.1817454695701599,
+        0.18082275986671448,
+        0.1631447970867157
+      ],
+      "min": [
+        -0.1892084926366806,
+        -0.0016545731341466308,
+        -0.20904280245304108
+      ],
+      "name": "Archmodels61_001_01/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 15539,
+      "name": "Archmodels61_001_01/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 15539,
+      "name": "Archmodels61_001_01/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 90729,
+      "name": "Archmodels61_001_01/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 497248,
+      "byteStride": 32,
+      "name": "Archmodels61_001_01",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 362916,
+      "byteOffset": 497248
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 860164,
+      "uri": "out.bin"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Archmodels61_001_01",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Cinema_4D_编辑器",
+      "rotation": [
+        -0.15606123208999634,
+        0.9106032252311707,
+        -0.06464267522096634,
+        0.3771842122077942
+      ],
+      "translation": [
+        0.47175702452659607,
+        0.3270482122898102,
+        0.4525395333766937
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "Archmodels61_001_01"
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ]
+}

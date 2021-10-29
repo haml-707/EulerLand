@@ -1,0 +1,1683 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 327,
+      "max": [
+        0.053525034338235855,
+        0.44104695320129395,
+        0.14715887606143951
+      ],
+      "min": [
+        -0.053525034338235855,
+        -2.000000033724767e-16,
+        0.04105621948838234
+      ],
+      "name": "Tube03_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 327,
+      "name": "Tube03_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 327,
+      "name": "Tube03_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 1110,
+      "name": "Tube03_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 214,
+      "max": [
+        0.029821373522281647,
+        0.27392613887786865,
+        0.023282740265130997
+      ],
+      "min": [
+        -0.029821373522281647,
+        -1.0000000168623835e-16,
+        -0.07334206998348236
+      ],
+      "name": "Tube02_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 214,
+      "name": "Tube02_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 214,
+      "name": "Tube02_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 648,
+      "name": "Tube02_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 260,
+      "max": [
+        0.030287230387330055,
+        0.4140884280204773,
+        -0.03971041366457939
+      ],
+      "min": [
+        -0.030287230387330055,
+        -2.000000033724767e-16,
+        -0.0984453409910202
+      ],
+      "name": "Tube01_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 260,
+      "name": "Tube01_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 260,
+      "name": "Tube01_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5125,
+      "count": 864,
+      "name": "Tube01_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 1079,
+      "max": [
+        -0.2713506519794464,
+        0.3926851749420166,
+        0.019632592797279358
+      ],
+      "min": [
+        -0.31265828013420105,
+        -0.004696084186434746,
+        -0.028909852728247643
+      ],
+      "name": "objRight_Thigh62_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1079,
+      "name": "objRight_Thigh62_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1079,
+      "name": "objRight_Thigh62_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5125,
+      "count": 4680,
+      "name": "objRight_Thigh62_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 1475,
+      "max": [
+        -0.23829862475395203,
+        0.42730703949928284,
+        0.08818867057561874
+      ],
+      "min": [
+        -0.2855915129184723,
+        -0.004696084186434746,
+        0.004974013194441795
+      ],
+      "name": "objRight_Thigh63_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1475,
+      "name": "objRight_Thigh63_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1475,
+      "name": "objRight_Thigh63_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5125,
+      "count": 5826,
+      "name": "objRight_Thigh63_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 1053,
+      "max": [
+        -0.31964027881622314,
+        0.3926851749420166,
+        -0.017409613355994225
+      ],
+      "min": [
+        -0.3609479069709778,
+        -0.004696310963481665,
+        -0.06647580862045288
+      ],
+      "name": "objRight_Thigh61_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 10,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1053,
+      "name": "objRight_Thigh61_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 10,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1053,
+      "name": "objRight_Thigh61_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5125,
+      "count": 4680,
+      "name": "objRight_Thigh61_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 2047,
+      "max": [
+        0.6996057629585266,
+        0.34937340021133423,
+        0.07740426808595657
+      ],
+      "min": [
+        0.609537661075592,
+        -0.009328624233603477,
+        -0.1194780096411705
+      ],
+      "name": "objAbdomen02_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 12,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 2047,
+      "name": "objAbdomen02_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 12,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 2047,
+      "name": "objAbdomen02_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5125,
+      "count": 7899,
+      "name": "objAbdomen02_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 1776,
+      "max": [
+        0.7412757277488708,
+        0.3471536636352539,
+        0.018079007044434547
+      ],
+      "min": [
+        0.6387713551521301,
+        -0.009328624233603477,
+        -0.16185152530670166
+      ],
+      "name": "objAbdomen03_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 14,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1776,
+      "name": "objAbdomen03_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 14,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1776,
+      "name": "objAbdomen03_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5125,
+      "count": 6747,
+      "name": "objAbdomen03_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 78,
+      "max": [
+        0.7362030744552612,
+        0.03030840866267681,
+        0.05308757722377777
+      ],
+      "min": [
+        0.6850584149360657,
+        -0.009328624233603477,
+        0.016748446971178055
+      ],
+      "name": "Object12_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 16,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 78,
+      "name": "Object12_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 16,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 78,
+      "name": "Object12_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5125,
+      "count": 165,
+      "name": "Object12_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 18,
+      "componentType": 5126,
+      "count": 147,
+      "max": [
+        0.715924084186554,
+        0.11945371329784393,
+        0.0968412309885025
+      ],
+      "min": [
+        0.6667194366455078,
+        -0.0006487504579126835,
+        0.019168991595506668
+      ],
+      "name": "Object13_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 18,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 147,
+      "name": "Object13_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 18,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 147,
+      "name": "Object13_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 19,
+      "componentType": 5125,
+      "count": 600,
+      "name": "Object13_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 20,
+      "componentType": 5126,
+      "count": 1048,
+      "max": [
+        0.3702704906463623,
+        0.14848768711090088,
+        -0.05635031685233116
+      ],
+      "min": [
+        0.34464791417121887,
+        0.0021702751982957125,
+        -0.08678575605154037
+      ],
+      "name": "objRight_Thigh70_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 20,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1048,
+      "name": "objRight_Thigh70_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 20,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1048,
+      "name": "objRight_Thigh70_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 21,
+      "componentType": 5125,
+      "count": 4680,
+      "name": "objRight_Thigh70_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 22,
+      "componentType": 5126,
+      "count": 1028,
+      "max": [
+        0.25889089703559875,
+        0.21371833980083466,
+        -0.06563305109739304
+      ],
+      "min": [
+        0.2328864485025406,
+        0.0032843879889696836,
+        -0.10715466737747192
+      ],
+      "name": "objRight_Thigh69_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 22,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1028,
+      "name": "objRight_Thigh69_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 22,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1028,
+      "name": "objRight_Thigh69_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 23,
+      "componentType": 5125,
+      "count": 4680,
+      "name": "objRight_Thigh69_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 24,
+      "componentType": 5126,
+      "count": 759,
+      "max": [
+        0.39862892031669617,
+        0.0930754691362381,
+        -0.0020949281752109528
+      ],
+      "min": [
+        0.37898963689804077,
+        0.000838153122458607,
+        -0.029232550412416458
+      ],
+      "name": "objRight_Thigh67_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 24,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 759,
+      "name": "objRight_Thigh67_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 24,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 759,
+      "name": "objRight_Thigh67_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 25,
+      "componentType": 5125,
+      "count": 3075,
+      "name": "objRight_Thigh67_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 26,
+      "componentType": 5126,
+      "count": 1011,
+      "max": [
+        0.38521304726600647,
+        0.2731848955154419,
+        0.03834666311740875
+      ],
+      "min": [
+        0.3570796251296997,
+        0.0025395068805664778,
+        -0.05014217272400856
+      ],
+      "name": "objRight_Thigh68_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 26,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1011,
+      "name": "objRight_Thigh68_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 26,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1011,
+      "name": "objRight_Thigh68_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 27,
+      "componentType": 5125,
+      "count": 4680,
+      "name": "objRight_Thigh68_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 28,
+      "componentType": 5126,
+      "count": 1064,
+      "max": [
+        0.35697636008262634,
+        0.30906233191490173,
+        0.012422232888638973
+      ],
+      "min": [
+        0.3265018165111542,
+        -0.0027320217341184616,
+        -0.11439108103513718
+      ],
+      "name": "objRight_Thigh71_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 28,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1064,
+      "name": "objRight_Thigh71_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 28,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1064,
+      "name": "objRight_Thigh71_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 29,
+      "componentType": 5125,
+      "count": 4677,
+      "name": "objRight_Thigh71_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 30,
+      "componentType": 5126,
+      "count": 1082,
+      "max": [
+        0.3360298275947571,
+        0.3275034725666046,
+        0.0699932873249054
+      ],
+      "min": [
+        0.24229814112186432,
+        -0.0027322224341332912,
+        -0.1386639028787613
+      ],
+      "name": "objRight_Thigh72_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 30,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1082,
+      "name": "objRight_Thigh72_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 30,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1082,
+      "name": "objRight_Thigh72_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 31,
+      "componentType": 5125,
+      "count": 4677,
+      "name": "objRight_Thigh72_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 32,
+      "componentType": 5126,
+      "count": 747,
+      "max": [
+        0.32800400257110596,
+        0.11905625462532043,
+        0.09144261479377747
+      ],
+      "min": [
+        0.16809360682964325,
+        -0.003159817075356841,
+        -0.0803760439157486
+      ],
+      "name": "skull01_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 32,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 747,
+      "name": "skull01_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 32,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 747,
+      "name": "skull01_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 33,
+      "componentType": 5125,
+      "count": 3900,
+      "name": "skull01_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 34,
+      "componentType": 5126,
+      "count": 415,
+      "max": [
+        0.5084959268569946,
+        0.03642759099602699,
+        -0.013604486361145973
+      ],
+      "min": [
+        0.1719493865966797,
+        -0.022010285407304764,
+        -0.13053157925605774
+      ],
+      "name": "L_Knee01_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 34,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 415,
+      "name": "L_Knee01_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 34,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 415,
+      "name": "L_Knee01_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 35,
+      "componentType": 5125,
+      "count": 1212,
+      "name": "L_Knee01_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 36,
+      "componentType": 5126,
+      "count": 704,
+      "max": [
+        0.5699315667152405,
+        0.09575334191322327,
+        0.08339272439479828
+      ],
+      "min": [
+        0.438471257686615,
+        -0.016453761607408524,
+        -0.029116827994585037
+      ],
+      "name": "Object15_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 36,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 704,
+      "name": "Object15_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 36,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 704,
+      "name": "Object15_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 37,
+      "componentType": 5125,
+      "count": 2118,
+      "name": "Object15_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 38,
+      "componentType": 5126,
+      "count": 483,
+      "max": [
+        0.5093101859092712,
+        0.02893485501408577,
+        0.16408076882362366
+      ],
+      "min": [
+        0.35557225346565247,
+        -0.024271802976727486,
+        0.03160242363810539
+      ],
+      "name": "objRight_Thigh73_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 38,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 483,
+      "name": "objRight_Thigh73_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 38,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 483,
+      "name": "objRight_Thigh73_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 39,
+      "componentType": 5125,
+      "count": 1530,
+      "name": "objRight_Thigh73_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 40,
+      "componentType": 5126,
+      "count": 284,
+      "max": [
+        0.547058641910553,
+        0.05475880578160286,
+        0.11223792284727097
+      ],
+      "min": [
+        0.323792427778244,
+        -0.02317173033952713,
+        0.03773495554924011
+      ],
+      "name": "objRight_Thigh74_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 40,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 284,
+      "name": "objRight_Thigh74_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 40,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 284,
+      "name": "objRight_Thigh74_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 41,
+      "componentType": 5125,
+      "count": 912,
+      "name": "objRight_Thigh74_1/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 42,
+      "componentType": 5126,
+      "count": 259,
+      "max": [
+        0.37605205178260803,
+        0.025976188480854034,
+        0.17394252121448517
+      ],
+      "min": [
+        0.28250226378440857,
+        -0.0046211001463234425,
+        0.08888125419616699
+      ],
+      "name": "objRight_Thigh75_1/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 42,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 259,
+      "name": "objRight_Thigh75_1/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 42,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 259,
+      "name": "objRight_Thigh75_1/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 43,
+      "componentType": 5125,
+      "count": 834,
+      "name": "objRight_Thigh75_1/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 10464,
+      "byteStride": 32,
+      "name": "Tube03_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4440,
+      "byteOffset": 10464
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6848,
+      "byteOffset": 14904,
+      "byteStride": 32,
+      "name": "Tube02_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2592,
+      "byteOffset": 21752
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8320,
+      "byteOffset": 24344,
+      "byteStride": 32,
+      "name": "Tube01_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3456,
+      "byteOffset": 32664
+    },
+    {
+      "buffer": 0,
+      "byteLength": 34528,
+      "byteOffset": 36120,
+      "byteStride": 32,
+      "name": "objRight_Thigh62_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18720,
+      "byteOffset": 70648
+    },
+    {
+      "buffer": 0,
+      "byteLength": 47200,
+      "byteOffset": 89368,
+      "byteStride": 32,
+      "name": "objRight_Thigh63_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 23304,
+      "byteOffset": 136568
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33696,
+      "byteOffset": 159872,
+      "byteStride": 32,
+      "name": "objRight_Thigh61_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18720,
+      "byteOffset": 193568
+    },
+    {
+      "buffer": 0,
+      "byteLength": 65504,
+      "byteOffset": 212288,
+      "byteStride": 32,
+      "name": "objAbdomen02_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 31596,
+      "byteOffset": 277792
+    },
+    {
+      "buffer": 0,
+      "byteLength": 56832,
+      "byteOffset": 309388,
+      "byteStride": 32,
+      "name": "objAbdomen03_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 26988,
+      "byteOffset": 366220
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2496,
+      "byteOffset": 393208,
+      "byteStride": 32,
+      "name": "Object12_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 660,
+      "byteOffset": 395704
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4704,
+      "byteOffset": 396364,
+      "byteStride": 32,
+      "name": "Object13_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2400,
+      "byteOffset": 401068
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33536,
+      "byteOffset": 403468,
+      "byteStride": 32,
+      "name": "objRight_Thigh70_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18720,
+      "byteOffset": 437004
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32896,
+      "byteOffset": 455724,
+      "byteStride": 32,
+      "name": "objRight_Thigh69_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18720,
+      "byteOffset": 488620
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24288,
+      "byteOffset": 507340,
+      "byteStride": 32,
+      "name": "objRight_Thigh67_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12300,
+      "byteOffset": 531628
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32352,
+      "byteOffset": 543928,
+      "byteStride": 32,
+      "name": "objRight_Thigh68_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18720,
+      "byteOffset": 576280
+    },
+    {
+      "buffer": 0,
+      "byteLength": 34048,
+      "byteOffset": 595000,
+      "byteStride": 32,
+      "name": "objRight_Thigh71_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18708,
+      "byteOffset": 629048
+    },
+    {
+      "buffer": 0,
+      "byteLength": 34624,
+      "byteOffset": 647756,
+      "byteStride": 32,
+      "name": "objRight_Thigh72_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18708,
+      "byteOffset": 682380
+    },
+    {
+      "buffer": 0,
+      "byteLength": 23904,
+      "byteOffset": 701088,
+      "byteStride": 32,
+      "name": "skull01_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15600,
+      "byteOffset": 724992
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13280,
+      "byteOffset": 740592,
+      "byteStride": 32,
+      "name": "L_Knee01_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4848,
+      "byteOffset": 753872
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22528,
+      "byteOffset": 758720,
+      "byteStride": 32,
+      "name": "Object15_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8472,
+      "byteOffset": 781248
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15456,
+      "byteOffset": 789720,
+      "byteStride": 32,
+      "name": "objRight_Thigh73_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6120,
+      "byteOffset": 805176
+    },
+    {
+      "buffer": 0,
+      "byteLength": 9088,
+      "byteOffset": 811296,
+      "byteStride": 32,
+      "name": "objRight_Thigh74_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3648,
+      "byteOffset": 820384
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8288,
+      "byteOffset": 824032,
+      "byteStride": 32,
+      "name": "objRight_Thigh75_1",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3336,
+      "byteOffset": 832320
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 835656,
+      "uri": "out.bin"
+    }
+  ],
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "C:\\Users\\86152\\Desktop\\EulerLand\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\a2d02e8b-d4ac-4a11-8c17-7fdbb8239951\\output\\.fbm\\131336DE\\骨架.fbm/SCRATCHES_small_03_base_tiled.png",
+          "relativeFileName": "..\\..\\..\\..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\a2d02e8b-d4ac-4a11-8c17-7fdbb8239951\\output\\.fbm\\131336DE\\骨架.fbm\\SCRATCHES_small_03_base_tiled.png"
+        }
+      },
+      "name": "SCRATCHES_small_03_base_tiled.png",
+      "uri": "SCRATCHES_small_03_base_tiled.png"
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "C:\\Users\\86152\\Desktop\\EulerLand\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\a2d02e8b-d4ac-4a11-8c17-7fdbb8239951\\output\\.fbm\\131336DE\\骨架.fbm/SCRATCHES_small_03_base_tiled_8b_inv.png",
+          "relativeFileName": "..\\..\\..\\..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\a2d02e8b-d4ac-4a11-8c17-7fdbb8239951\\output\\.fbm\\131336DE\\骨架.fbm\\SCRATCHES_small_03_base_tiled_8b_inv.png"
+        }
+      },
+      "name": "SCRATCHES_small_03_base_tiled_8b_inv.png",
+      "uri": "SCRATCHES_small_03_base_tiled_8b_inv.png"
+    }
+  ],
+  "materials": [
+    {
+      "name": "材质",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.24253562092781067
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Tube03_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Tube02_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Tube01_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "objRight_Thigh62_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "objRight_Thigh63_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "objRight_Thigh61_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TEXCOORD_0": 22
+          },
+          "indices": 23,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "objAbdomen02_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 25,
+            "POSITION": 24,
+            "TEXCOORD_0": 26
+          },
+          "indices": 27,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "objAbdomen03_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 29,
+            "POSITION": 28,
+            "TEXCOORD_0": 30
+          },
+          "indices": 31,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Object12_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 33,
+            "POSITION": 32,
+            "TEXCOORD_0": 34
+          },
+          "indices": 35,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Object13_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 37,
+            "POSITION": 36,
+            "TEXCOORD_0": 38
+          },
+          "indices": 39,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "objRight_Thigh70_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 41,
+            "POSITION": 40,
+            "TEXCOORD_0": 42
+          },
+          "indices": 43,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "objRight_Thigh69_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 45,
+            "POSITION": 44,
+            "TEXCOORD_0": 46
+          },
+          "indices": 47,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "objRight_Thigh67_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 49,
+            "POSITION": 48,
+            "TEXCOORD_0": 50
+          },
+          "indices": 51,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "objRight_Thigh68_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 53,
+            "POSITION": 52,
+            "TEXCOORD_0": 54
+          },
+          "indices": 55,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "objRight_Thigh71_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 57,
+            "POSITION": 56,
+            "TEXCOORD_0": 58
+          },
+          "indices": 59,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "objRight_Thigh72_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 61,
+            "POSITION": 60,
+            "TEXCOORD_0": 62
+          },
+          "indices": 63,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "skull01_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 65,
+            "POSITION": 64,
+            "TEXCOORD_0": 66
+          },
+          "indices": 67,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "L_Knee01_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 69,
+            "POSITION": 68,
+            "TEXCOORD_0": 70
+          },
+          "indices": 71,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "Object15_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 73,
+            "POSITION": 72,
+            "TEXCOORD_0": 74
+          },
+          "indices": 75,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "objRight_Thigh73_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 77,
+            "POSITION": 76,
+            "TEXCOORD_0": 78
+          },
+          "indices": 79,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "objRight_Thigh74_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 81,
+            "POSITION": 80,
+            "TEXCOORD_0": 82
+          },
+          "indices": 83,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "objRight_Thigh75_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 85,
+            "POSITION": 84,
+            "TEXCOORD_0": 86
+          },
+          "indices": 87,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Cinema_4D_编辑器",
+      "rotation": [
+        -0.07920034974813461,
+        0.7359024882316589,
+        -0.07195471972227097,
+        0.668578565120697
+      ],
+      "translation": [
+        0.4320921003818512,
+        0.7047224640846252,
+        1.8545290231704712
+      ]
+    },
+    {
+      "children": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "name": "骨架_obj"
+    },
+    {
+      "mesh": 0,
+      "name": "Tube03_1"
+    },
+    {
+      "mesh": 1,
+      "name": "Tube02_1"
+    },
+    {
+      "mesh": 2,
+      "name": "Tube01_1"
+    },
+    {
+      "mesh": 3,
+      "name": "objRight_Thigh62_1"
+    },
+    {
+      "mesh": 4,
+      "name": "objRight_Thigh63_1"
+    },
+    {
+      "mesh": 5,
+      "name": "objRight_Thigh61_1"
+    },
+    {
+      "mesh": 6,
+      "name": "objAbdomen02_1"
+    },
+    {
+      "mesh": 7,
+      "name": "objAbdomen03_1"
+    },
+    {
+      "mesh": 8,
+      "name": "Object12_1"
+    },
+    {
+      "mesh": 9,
+      "name": "Object13_1"
+    },
+    {
+      "mesh": 10,
+      "name": "objRight_Thigh70_1"
+    },
+    {
+      "mesh": 11,
+      "name": "objRight_Thigh69_1"
+    },
+    {
+      "mesh": 12,
+      "name": "objRight_Thigh67_1"
+    },
+    {
+      "mesh": 13,
+      "name": "objRight_Thigh68_1"
+    },
+    {
+      "mesh": 14,
+      "name": "objRight_Thigh71_1"
+    },
+    {
+      "mesh": 15,
+      "name": "objRight_Thigh72_1"
+    },
+    {
+      "mesh": 16,
+      "name": "skull01_1"
+    },
+    {
+      "mesh": 17,
+      "name": "L_Knee01_1"
+    },
+    {
+      "mesh": 18,
+      "name": "Object15_1"
+    },
+    {
+      "mesh": 19,
+      "name": "objRight_Thigh73_1"
+    },
+    {
+      "mesh": 20,
+      "name": "objRight_Thigh74_1"
+    },
+    {
+      "mesh": 21,
+      "name": "objRight_Thigh75_1"
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "SCRATCHES_small_03_base_tiled.png",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "SCRATCHES_small_03_base_tiled_8b_inv.png",
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}

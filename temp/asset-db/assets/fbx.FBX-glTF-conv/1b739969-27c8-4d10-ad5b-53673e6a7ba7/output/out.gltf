@@ -1,0 +1,147 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2370,
+      "max": [
+        0.8035428524017334,
+        1.7923061847686768,
+        0.6441243886947632
+      ],
+      "min": [
+        -0.8035428524017334,
+        0.0,
+        -0.6441243886947632
+      ],
+      "name": "Default/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 2370,
+      "name": "Default/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 2370,
+      "name": "Default/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 10596,
+      "name": "Default/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 75840,
+      "byteStride": 32,
+      "name": "Default",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 42384,
+      "byteOffset": 75840
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 118224,
+      "uri": "out.bin"
+    }
+  ],
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "C:\\Users\\86152\\Desktop\\EulerLand\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\1b739969-27c8-4d10-ad5b-53673e6a7ba7\\output\\.fbm\\9E7334A9\\树2.fbm/树2.png",
+          "relativeFileName": "..\\..\\..\\..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\1b739969-27c8-4d10-ad5b-53673e6a7ba7\\output\\.fbm\\9E7334A9\\树2.fbm\\树2.png"
+        }
+      },
+      "name": "树2.png",
+      "uri": "树2.png"
+    }
+  ],
+  "materials": [
+    {
+      "name": "材质",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.24253562092781067
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Default",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Cinema_4D_编辑器",
+      "rotation": [
+        -0.15606123208999634,
+        0.9106032252311707,
+        -0.06464267522096634,
+        0.3771842122077942
+      ],
+      "translation": [
+        2.7037243843078613,
+        2.246422290802002,
+        2.7037243843078613
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "Default"
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "树2.png",
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

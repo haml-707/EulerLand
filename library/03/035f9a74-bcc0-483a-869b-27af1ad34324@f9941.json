@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "盐",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 146,
+      "height": 250
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 146,
+      "height": 250
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "035f9a74-bcc0-483a-869b-27af1ad34324@6c48a",
+    "packable": true
+  }
+}

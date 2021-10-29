@@ -1,0 +1,3764 @@
+{
+  "cce:/internal/x/cc": {
+    "mTimestamp": 4754.095099002123,
+    "chunkId": "quick-pack:/cce/internal/x/cc.js",
+    "imports": [
+      {
+        "value": "cce:/internal/x/cc-fu/base",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 14
+          },
+          "end": {
+            "line": 1,
+            "column": 42
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/gfx-webgl",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 14
+          },
+          "end": {
+            "line": 2,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/gfx-webgl2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 14
+          },
+          "end": {
+            "line": 3,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/3d",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 14
+          },
+          "end": {
+            "line": 4,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/2d",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 14
+          },
+          "end": {
+            "line": 5,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/ui",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 14
+          },
+          "end": {
+            "line": 6,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/particle",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 14
+          },
+          "end": {
+            "line": 7,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-ammo",
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 14
+          },
+          "end": {
+            "line": 8,
+            "column": 50
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-framework",
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 14
+          },
+          "end": {
+            "line": 9,
+            "column": 55
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/wait-for-ammo-instantiation",
+        "loc": {
+          "start": {
+            "line": 10,
+            "column": 14
+          },
+          "end": {
+            "line": 10,
+            "column": 65
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-2d-box2d",
+        "loc": {
+          "start": {
+            "line": 11,
+            "column": 14
+          },
+          "end": {
+            "line": 11,
+            "column": 54
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-2d-framework",
+        "loc": {
+          "start": {
+            "line": 12,
+            "column": 14
+          },
+          "end": {
+            "line": 12,
+            "column": 58
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/intersection-2d",
+        "loc": {
+          "start": {
+            "line": 13,
+            "column": 14
+          },
+          "end": {
+            "line": 13,
+            "column": 53
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/primitive",
+        "loc": {
+          "start": {
+            "line": 14,
+            "column": 14
+          },
+          "end": {
+            "line": 14,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/profiler",
+        "loc": {
+          "start": {
+            "line": 15,
+            "column": 14
+          },
+          "end": {
+            "line": 15,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/particle-2d",
+        "loc": {
+          "start": {
+            "line": 16,
+            "column": 14
+          },
+          "end": {
+            "line": 16,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/audio",
+        "loc": {
+          "start": {
+            "line": 17,
+            "column": 14
+          },
+          "end": {
+            "line": 17,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/video",
+        "loc": {
+          "start": {
+            "line": 18,
+            "column": 14
+          },
+          "end": {
+            "line": 18,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/webview",
+        "loc": {
+          "start": {
+            "line": 19,
+            "column": 14
+          },
+          "end": {
+            "line": 19,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/tween",
+        "loc": {
+          "start": {
+            "line": 20,
+            "column": 14
+          },
+          "end": {
+            "line": 20,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/terrain",
+        "loc": {
+          "start": {
+            "line": 21,
+            "column": 14
+          },
+          "end": {
+            "line": 21,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/tiled-map",
+        "loc": {
+          "start": {
+            "line": 22,
+            "column": 14
+          },
+          "end": {
+            "line": 22,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/spine",
+        "loc": {
+          "start": {
+            "line": 23,
+            "column": 14
+          },
+          "end": {
+            "line": 23,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/dragon-bones",
+        "loc": {
+          "start": {
+            "line": 24,
+            "column": 14
+          },
+          "end": {
+            "line": 24,
+            "column": 50
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/base",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/3d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/ui",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/particle",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-ammo",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/wait-for-ammo-instantiation",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-box2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/primitive",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/profiler",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/audio",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/video",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/webview",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/tween",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/terrain",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/spine",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones",
+        "isExternal": true
+      }
+    ]
+  },
+  "cce:/internal/x/prerequisite-imports": {
+    "mTimestamp": 9101210.374399006,
+    "chunkId": "quick-pack:/cce/internal/x/prerequisite-imports.js",
+    "imports": [
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/BackgroundAdapter.ts",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 7
+          },
+          "end": {
+            "line": 4,
+            "column": 93
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/CloseToBorderComponent.ts",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 7
+          },
+          "end": {
+            "line": 5,
+            "column": 98
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/ContentAdapter.ts",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 7
+          },
+          "end": {
+            "line": 6,
+            "column": 90
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/MultiResoultionCompat.ts",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 7
+          },
+          "end": {
+            "line": 7,
+            "column": 97
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/global/GlobalFunction.ts",
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 7
+          },
+          "end": {
+            "line": 8,
+            "column": 89
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/AudioManager.ts",
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 7
+          },
+          "end": {
+            "line": 9,
+            "column": 88
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/BlockPoolControl.ts",
+        "loc": {
+          "start": {
+            "line": 10,
+            "column": 7
+          },
+          "end": {
+            "line": 10,
+            "column": 92
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/CameraControl.ts",
+        "loc": {
+          "start": {
+            "line": 11,
+            "column": 7
+          },
+          "end": {
+            "line": 11,
+            "column": 89
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/GameManager.ts",
+        "loc": {
+          "start": {
+            "line": 12,
+            "column": 7
+          },
+          "end": {
+            "line": 12,
+            "column": 87
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/GameRoot.ts",
+        "loc": {
+          "start": {
+            "line": 13,
+            "column": 7
+          },
+          "end": {
+            "line": 13,
+            "column": 84
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/Introduce.ts",
+        "loc": {
+          "start": {
+            "line": 14,
+            "column": 7
+          },
+          "end": {
+            "line": 14,
+            "column": 85
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/ItemS.ts",
+        "loc": {
+          "start": {
+            "line": 15,
+            "column": 7
+          },
+          "end": {
+            "line": 15,
+            "column": 81
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/PlayerControl.ts",
+        "loc": {
+          "start": {
+            "line": 16,
+            "column": 7
+          },
+          "end": {
+            "line": 16,
+            "column": 89
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/Q&A.ts",
+        "loc": {
+          "start": {
+            "line": 17,
+            "column": 7
+          },
+          "end": {
+            "line": 17,
+            "column": 79
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/BagManager.ts",
+        "loc": {
+          "start": {
+            "line": 18,
+            "column": 7
+          },
+          "end": {
+            "line": 18,
+            "column": 85
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Box1.ts",
+        "loc": {
+          "start": {
+            "line": 19,
+            "column": 7
+          },
+          "end": {
+            "line": 19,
+            "column": 79
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Box2.ts",
+        "loc": {
+          "start": {
+            "line": 20,
+            "column": 7
+          },
+          "end": {
+            "line": 20,
+            "column": 79
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/DialogManager.ts",
+        "loc": {
+          "start": {
+            "line": 21,
+            "column": 7
+          },
+          "end": {
+            "line": 21,
+            "column": 88
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Drag.ts",
+        "loc": {
+          "start": {
+            "line": 22,
+            "column": 7
+          },
+          "end": {
+            "line": 22,
+            "column": 79
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/EventManager.ts",
+        "loc": {
+          "start": {
+            "line": 23,
+            "column": 7
+          },
+          "end": {
+            "line": 23,
+            "column": 87
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Fade.ts",
+        "loc": {
+          "start": {
+            "line": 24,
+            "column": 7
+          },
+          "end": {
+            "line": 24,
+            "column": 79
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/GameManager2.ts",
+        "loc": {
+          "start": {
+            "line": 25,
+            "column": 7
+          },
+          "end": {
+            "line": 25,
+            "column": 87
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/ItemStatus.ts",
+        "loc": {
+          "start": {
+            "line": 26,
+            "column": 7
+          },
+          "end": {
+            "line": 26,
+            "column": 85
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/PlayerPuzzleControl.ts",
+        "loc": {
+          "start": {
+            "line": 27,
+            "column": 7
+          },
+          "end": {
+            "line": 27,
+            "column": 94
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Q&A2.ts",
+        "loc": {
+          "start": {
+            "line": 28,
+            "column": 7
+          },
+          "end": {
+            "line": 28,
+            "column": 79
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Sudoku.ts",
+        "loc": {
+          "start": {
+            "line": 29,
+            "column": 7
+          },
+          "end": {
+            "line": 29,
+            "column": 81
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/UIManager.ts",
+        "loc": {
+          "start": {
+            "line": 30,
+            "column": 7
+          },
+          "end": {
+            "line": 30,
+            "column": 84
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/typescript-001.ts",
+        "loc": {
+          "start": {
+            "line": 31,
+            "column": 7
+          },
+          "end": {
+            "line": 31,
+            "column": 89
+          }
+        }
+      },
+      {
+        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/start/StartSceneOption.ts",
+        "loc": {
+          "start": {
+            "line": 32,
+            "column": 7
+          },
+          "end": {
+            "line": 32,
+            "column": 90
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/BackgroundAdapter.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/CloseToBorderComponent.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/ContentAdapter.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/MultiResoultionCompat.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/global/GlobalFunction.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/AudioManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/BlockPoolControl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/CameraControl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/GameRoot.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/Introduce.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/ItemS.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/PlayerControl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/Q&A.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/BagManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Box1.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Box2.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/DialogManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Drag.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/EventManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Fade.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/GameManager2.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/ItemStatus.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/PlayerPuzzleControl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Q&A2.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Sudoku.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/UIManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/typescript-001.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/start/StartSceneOption.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/CameraControl.ts": {
+    "mTimestamp": 1634696391434.8855,
+    "chunkId": "assets/scripts/parkour/CameraControl.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/BackgroundAdapter.ts": {
+    "mTimestamp": 1632726031277.538,
+    "chunkId": "assets/scripts/Adaptor/BackgroundAdapter.js",
+    "imports": [
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/CloseToBorderComponent.ts": {
+    "mTimestamp": 1632726031278.5386,
+    "chunkId": "assets/scripts/Adaptor/CloseToBorderComponent.js",
+    "imports": [
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/global/GlobalFunction.ts": {
+    "mTimestamp": 1634716191752.0312,
+    "chunkId": "assets/scripts/global/GlobalFunction.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 62
+          },
+          "end": {
+            "line": 2,
+            "column": 66
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/ContentAdapter.ts": {
+    "mTimestamp": 1632726031280.5398,
+    "chunkId": "assets/scripts/Adaptor/ContentAdapter.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 165
+          },
+          "end": {
+            "line": 2,
+            "column": 169
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/BlockPoolControl.ts": {
+    "mTimestamp": 1635474534506.473,
+    "chunkId": "assets/scripts/parkour/BlockPoolControl.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 117
+          },
+          "end": {
+            "line": 2,
+            "column": 121
+          }
+        }
+      },
+      {
+        "value": "./PlayerControl",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 30
+          },
+          "end": {
+            "line": 3,
+            "column": 47
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/PlayerControl.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/PlayerControl.ts": {
+    "mTimestamp": 1635479320907.542,
+    "chunkId": "assets/scripts/parkour/PlayerControl.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 179
+          },
+          "end": {
+            "line": 2,
+            "column": 183
+          }
+        }
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 40
+          },
+          "end": {
+            "line": 3,
+            "column": 44
+          }
+        }
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 114
+          },
+          "end": {
+            "line": 4,
+            "column": 118
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 28
+          },
+          "end": {
+            "line": 5,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./ItemS",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 22
+          },
+          "end": {
+            "line": 6,
+            "column": 31
+          }
+        }
+      },
+      {
+        "value": "./Q&A",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 19
+          },
+          "end": {
+            "line": 7,
+            "column": 26
+          }
+        }
+      },
+      {
+        "value": "./AudioManager",
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 29
+          },
+          "end": {
+            "line": 8,
+            "column": 45
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/ItemS.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/Q&A.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/AudioManager.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/GameManager.ts": {
+    "mTimestamp": 1635479285526.685,
+    "chunkId": "assets/scripts/parkour/GameManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 195
+          },
+          "end": {
+            "line": 2,
+            "column": 199
+          }
+        }
+      },
+      {
+        "value": "./PlayerControl",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 30
+          },
+          "end": {
+            "line": 4,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "./AudioManager",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 29
+          },
+          "end": {
+            "line": 5,
+            "column": 45
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/PlayerControl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/AudioManager.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/MultiResoultionCompat.ts": {
+    "mTimestamp": 1632726031282.5396,
+    "chunkId": "assets/scripts/Adaptor/MultiResoultionCompat.js",
+    "imports": [
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Box1.ts": {
+    "mTimestamp": 1632726031303.5393,
+    "chunkId": "assets/scripts/puzzle/Box1.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 58
+          },
+          "end": {
+            "line": 2,
+            "column": 62
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/ItemS.ts": {
+    "mTimestamp": 1632726031294.5398,
+    "chunkId": "assets/scripts/parkour/ItemS.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/Introduce.ts": {
+    "mTimestamp": 1632726031292.5415,
+    "chunkId": "assets/scripts/parkour/Introduce.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 57
+          },
+          "end": {
+            "line": 2,
+            "column": 61
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/Q&A.ts": {
+    "mTimestamp": 1634713431402.6907,
+    "chunkId": "assets/scripts/parkour/Q&A.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 183
+          },
+          "end": {
+            "line": 2,
+            "column": 187
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 28
+          },
+          "end": {
+            "line": 4,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./PlayerControl",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 30
+          },
+          "end": {
+            "line": 5,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "../global/GlobalFunction",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 31
+          },
+          "end": {
+            "line": 6,
+            "column": 57
+          }
+        }
+      },
+      {
+        "value": "./AudioManager",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 29
+          },
+          "end": {
+            "line": 7,
+            "column": 45
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/PlayerControl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/global/GlobalFunction.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/AudioManager.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Box2.ts": {
+    "mTimestamp": 1632726031305.5398,
+    "chunkId": "assets/scripts/puzzle/Box2.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/BagManager.ts": {
+    "mTimestamp": 1632726031301.5413,
+    "chunkId": "assets/scripts/puzzle/BagManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 101
+          },
+          "end": {
+            "line": 2,
+            "column": 105
+          }
+        }
+      },
+      {
+        "value": "./EventManager",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 29
+          },
+          "end": {
+            "line": 3,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "./ItemStatus",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 27
+          },
+          "end": {
+            "line": 4,
+            "column": 41
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/EventManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/ItemStatus.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Drag.ts": {
+    "mTimestamp": 1632726031308.5405,
+    "chunkId": "assets/scripts/puzzle/Drag.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 83
+          },
+          "end": {
+            "line": 2,
+            "column": 87
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/EventManager.ts": {
+    "mTimestamp": 1632726031310.54,
+    "chunkId": "assets/scripts/puzzle/EventManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Fade.ts": {
+    "mTimestamp": 1632726031312.5413,
+    "chunkId": "assets/scripts/puzzle/Fade.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 63
+          },
+          "end": {
+            "line": 2,
+            "column": 67
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/GameManager2.ts": {
+    "mTimestamp": 1632726031313.5393,
+    "chunkId": "assets/scripts/puzzle/GameManager2.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 83
+          },
+          "end": {
+            "line": 2,
+            "column": 87
+          }
+        }
+      },
+      {
+        "value": "./Fade",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 21
+          },
+          "end": {
+            "line": 3,
+            "column": 29
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Fade.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/DialogManager.ts": {
+    "mTimestamp": 1632726031306.5398,
+    "chunkId": "assets/scripts/puzzle/DialogManager.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 51
+          },
+          "end": {
+            "line": 2,
+            "column": 55
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/PlayerPuzzleControl.ts": {
+    "mTimestamp": 1632726031317.541,
+    "chunkId": "assets/scripts/puzzle/PlayerPuzzleControl.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 113
+          },
+          "end": {
+            "line": 2,
+            "column": 117
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Sudoku.ts": {
+    "mTimestamp": 1632726031320.5398,
+    "chunkId": "assets/scripts/puzzle/Sudoku.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 57
+          },
+          "end": {
+            "line": 2,
+            "column": 61
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/ItemStatus.ts": {
+    "mTimestamp": 1632726031315.54,
+    "chunkId": "assets/scripts/puzzle/ItemStatus.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 95
+          },
+          "end": {
+            "line": 2,
+            "column": 99
+          }
+        }
+      },
+      {
+        "value": "./UIManager",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/UIManager.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Q&A2.ts": {
+    "mTimestamp": 1632726031319.5396,
+    "chunkId": "assets/scripts/puzzle/Q&A2.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 85
+          },
+          "end": {
+            "line": 2,
+            "column": 89
+          }
+        }
+      },
+      {
+        "value": "../global/GlobalFunction",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 31
+          },
+          "end": {
+            "line": 3,
+            "column": 57
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/global/GlobalFunction.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/start/StartSceneOption.ts": {
+    "mTimestamp": 1632726031326.542,
+    "chunkId": "assets/scripts/start/StartSceneOption.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 54
+          },
+          "end": {
+            "line": 2,
+            "column": 58
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/UIManager.ts": {
+    "mTimestamp": 1632726031322.5396,
+    "chunkId": "assets/scripts/puzzle/UIManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 108
+          },
+          "end": {
+            "line": 2,
+            "column": 112
+          }
+        }
+      },
+      {
+        "value": "./Fade",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 21
+          },
+          "end": {
+            "line": 3,
+            "column": 29
+          }
+        }
+      },
+      {
+        "value": "./BagManager",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 27
+          },
+          "end": {
+            "line": 4,
+            "column": 41
+          }
+        }
+      },
+      {
+        "value": "./ItemStatus",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 27
+          },
+          "end": {
+            "line": 5,
+            "column": 41
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Fade.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/BagManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/ItemStatus.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/typescript-001.ts": {
+    "mTimestamp": 1632726031323.5393,
+    "chunkId": "assets/scripts/puzzle/typescript-001.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 98
+          },
+          "end": {
+            "line": 2,
+            "column": 102
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "cce:/internal/code-quality/cr.mjs": {
+    "mTimestamp": 1635470230737,
+    "chunkId": "quick-pack:/cce/internal/code-quality/cr.js",
+    "imports": [],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": []
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/AudioManager.ts": {
+    "mTimestamp": 1635473008680.0898,
+    "chunkId": "assets/scripts/parkour/AudioManager.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 66
+          },
+          "end": {
+            "line": 1,
+            "column": 70
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/GameRoot.ts": {
+    "mTimestamp": 1634605122188.5576,
+    "chunkId": "assets/scripts/parkour/GameRoot.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 65
+          },
+          "end": {
+            "line": 2,
+            "column": 69
+          }
+        }
+      },
+      {
+        "value": "./AudioManager",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 29
+          },
+          "end": {
+            "line": 3,
+            "column": 45
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/AudioManager.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/Adaptor/BackgroundAdapter.ts": {
+    "mTimestamp": 1632726031277.538,
+    "chunkId": "assets/scripts/Adaptor/BackgroundAdapter.js",
+    "imports": [
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/Adaptor/CloseToBorderComponent.ts": {
+    "mTimestamp": 1632726031278.5386,
+    "chunkId": "assets/scripts/Adaptor/CloseToBorderComponent.js",
+    "imports": [
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/Adaptor/MultiResoultionCompat.ts": {
+    "mTimestamp": 1632726031282.5396,
+    "chunkId": "assets/scripts/Adaptor/MultiResoultionCompat.js",
+    "imports": [
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/Adaptor/ContentAdapter.ts": {
+    "mTimestamp": 1632726031280.5398,
+    "chunkId": "assets/scripts/Adaptor/ContentAdapter.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 165
+          },
+          "end": {
+            "line": 2,
+            "column": 169
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/global/GlobalFunction.ts": {
+    "mTimestamp": 1634716191752.0312,
+    "chunkId": "assets/scripts/global/GlobalFunction.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 62
+          },
+          "end": {
+            "line": 2,
+            "column": 66
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/BlockPoolControl.ts": {
+    "mTimestamp": 1632726031287.5393,
+    "chunkId": "assets/scripts/parkour/BlockPoolControl.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 117
+          },
+          "end": {
+            "line": 2,
+            "column": 121
+          }
+        }
+      },
+      {
+        "value": "./PlayerControl",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 30
+          },
+          "end": {
+            "line": 3,
+            "column": 47
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/PlayerControl.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/AudioManager.ts": {
+    "mTimestamp": 1634697444345.5266,
+    "chunkId": "assets/scripts/parkour/AudioManager.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 66
+          },
+          "end": {
+            "line": 1,
+            "column": 70
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/CameraControl.ts": {
+    "mTimestamp": 1634696391434.8855,
+    "chunkId": "assets/scripts/parkour/CameraControl.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/GameRoot.ts": {
+    "mTimestamp": 1634605122188.5576,
+    "chunkId": "assets/scripts/parkour/GameRoot.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 65
+          },
+          "end": {
+            "line": 2,
+            "column": 69
+          }
+        }
+      },
+      {
+        "value": "./AudioManager",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 29
+          },
+          "end": {
+            "line": 3,
+            "column": 45
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/AudioManager.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/GameManager.ts": {
+    "mTimestamp": 1634709996917.8096,
+    "chunkId": "assets/scripts/parkour/GameManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 195
+          },
+          "end": {
+            "line": 2,
+            "column": 199
+          }
+        }
+      },
+      {
+        "value": "./PlayerControl",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 30
+          },
+          "end": {
+            "line": 4,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "./AudioManager",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 29
+          },
+          "end": {
+            "line": 5,
+            "column": 45
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/PlayerControl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/AudioManager.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/ItemS.ts": {
+    "mTimestamp": 1632726031294.5398,
+    "chunkId": "assets/scripts/parkour/ItemS.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/PlayerControl.ts": {
+    "mTimestamp": 1634698828675.4429,
+    "chunkId": "assets/scripts/parkour/PlayerControl.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 179
+          },
+          "end": {
+            "line": 2,
+            "column": 183
+          }
+        }
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 40
+          },
+          "end": {
+            "line": 3,
+            "column": 44
+          }
+        }
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 114
+          },
+          "end": {
+            "line": 4,
+            "column": 118
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 28
+          },
+          "end": {
+            "line": 5,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./ItemS",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 22
+          },
+          "end": {
+            "line": 6,
+            "column": 31
+          }
+        }
+      },
+      {
+        "value": "./Q&A",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 19
+          },
+          "end": {
+            "line": 7,
+            "column": 26
+          }
+        }
+      },
+      {
+        "value": "./AudioManager",
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 29
+          },
+          "end": {
+            "line": 8,
+            "column": 45
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/ItemS.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/Q&A.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/AudioManager.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/Introduce.ts": {
+    "mTimestamp": 1632726031292.5415,
+    "chunkId": "assets/scripts/parkour/Introduce.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 57
+          },
+          "end": {
+            "line": 2,
+            "column": 61
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/Q&A.ts": {
+    "mTimestamp": 1634713431402.6907,
+    "chunkId": "assets/scripts/parkour/Q&A.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 183
+          },
+          "end": {
+            "line": 2,
+            "column": 187
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 28
+          },
+          "end": {
+            "line": 4,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./PlayerControl",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 30
+          },
+          "end": {
+            "line": 5,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "../global/GlobalFunction",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 31
+          },
+          "end": {
+            "line": 6,
+            "column": 57
+          }
+        }
+      },
+      {
+        "value": "./AudioManager",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 29
+          },
+          "end": {
+            "line": 7,
+            "column": 45
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/PlayerControl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/global/GlobalFunction.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/parkour/AudioManager.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/Box1.ts": {
+    "mTimestamp": 1632726031303.5393,
+    "chunkId": "assets/scripts/puzzle/Box1.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 58
+          },
+          "end": {
+            "line": 2,
+            "column": 62
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/BagManager.ts": {
+    "mTimestamp": 1632726031301.5413,
+    "chunkId": "assets/scripts/puzzle/BagManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 101
+          },
+          "end": {
+            "line": 2,
+            "column": 105
+          }
+        }
+      },
+      {
+        "value": "./EventManager",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 29
+          },
+          "end": {
+            "line": 3,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "./ItemStatus",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 27
+          },
+          "end": {
+            "line": 4,
+            "column": 41
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/EventManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/ItemStatus.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/Box2.ts": {
+    "mTimestamp": 1632726031305.5398,
+    "chunkId": "assets/scripts/puzzle/Box2.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/DialogManager.ts": {
+    "mTimestamp": 1632726031306.5398,
+    "chunkId": "assets/scripts/puzzle/DialogManager.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 51
+          },
+          "end": {
+            "line": 2,
+            "column": 55
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/EventManager.ts": {
+    "mTimestamp": 1632726031310.54,
+    "chunkId": "assets/scripts/puzzle/EventManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/Fade.ts": {
+    "mTimestamp": 1632726031312.5413,
+    "chunkId": "assets/scripts/puzzle/Fade.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 63
+          },
+          "end": {
+            "line": 2,
+            "column": 67
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/Drag.ts": {
+    "mTimestamp": 1632726031308.5405,
+    "chunkId": "assets/scripts/puzzle/Drag.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 83
+          },
+          "end": {
+            "line": 2,
+            "column": 87
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/GameManager2.ts": {
+    "mTimestamp": 1632726031313.5393,
+    "chunkId": "assets/scripts/puzzle/GameManager2.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 83
+          },
+          "end": {
+            "line": 2,
+            "column": 87
+          }
+        }
+      },
+      {
+        "value": "./Fade",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 21
+          },
+          "end": {
+            "line": 3,
+            "column": 29
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/Fade.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/PlayerPuzzleControl.ts": {
+    "mTimestamp": 1632726031317.541,
+    "chunkId": "assets/scripts/puzzle/PlayerPuzzleControl.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 113
+          },
+          "end": {
+            "line": 2,
+            "column": 117
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/Q&A2.ts": {
+    "mTimestamp": 1632726031319.5396,
+    "chunkId": "assets/scripts/puzzle/Q&A2.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 85
+          },
+          "end": {
+            "line": 2,
+            "column": 89
+          }
+        }
+      },
+      {
+        "value": "../global/GlobalFunction",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 31
+          },
+          "end": {
+            "line": 3,
+            "column": 57
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/global/GlobalFunction.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/ItemStatus.ts": {
+    "mTimestamp": 1632726031315.54,
+    "chunkId": "assets/scripts/puzzle/ItemStatus.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 95
+          },
+          "end": {
+            "line": 2,
+            "column": 99
+          }
+        }
+      },
+      {
+        "value": "./UIManager",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/UIManager.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/UIManager.ts": {
+    "mTimestamp": 1632726031322.5396,
+    "chunkId": "assets/scripts/puzzle/UIManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 108
+          },
+          "end": {
+            "line": 2,
+            "column": 112
+          }
+        }
+      },
+      {
+        "value": "./Fade",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 21
+          },
+          "end": {
+            "line": 3,
+            "column": 29
+          }
+        }
+      },
+      {
+        "value": "./BagManager",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 27
+          },
+          "end": {
+            "line": 4,
+            "column": 41
+          }
+        }
+      },
+      {
+        "value": "./ItemStatus",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 27
+          },
+          "end": {
+            "line": 5,
+            "column": 41
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/Fade.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/BagManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/ItemStatus.ts"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/Sudoku.ts": {
+    "mTimestamp": 1632726031320.5398,
+    "chunkId": "assets/scripts/puzzle/Sudoku.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 57
+          },
+          "end": {
+            "line": 2,
+            "column": 61
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/start/StartSceneOption.ts": {
+    "mTimestamp": 1632726031326.542,
+    "chunkId": "assets/scripts/start/StartSceneOption.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 54
+          },
+          "end": {
+            "line": 2,
+            "column": 58
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/Users/86152/Desktop/laowang/EulerLand/assets/scripts/puzzle/typescript-001.ts": {
+    "mTimestamp": 1632726031323.5393,
+    "chunkId": "assets/scripts/puzzle/typescript-001.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 98
+          },
+          "end": {
+            "line": 2,
+            "column": 102
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "Cinema_4D_编辑器",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "机柜02_obj",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "印泥",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "克隆",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "书_2",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "书_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "球体_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "克隆_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "布尔_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "球体",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "克隆_2",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "布尔_1_2",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "球体_1_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "克隆_3",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "布尔_1_3",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 0,
+    "message": "Local time: [0.000000, 1.000000]"
+  },
+  {
+    "level": 0,
+    "message": "Reference time: [0.000000, 1.000000]"
+  }
+]

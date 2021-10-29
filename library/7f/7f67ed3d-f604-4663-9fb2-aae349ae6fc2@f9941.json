@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "回到大世界icon",
+    "atlas": "",
+    "rect": {
+      "x": 38,
+      "y": 58,
+      "width": 880,
+      "height": 280
+    },
+    "offset": {
+      "x": 0,
+      "y": -20
+    },
+    "originalSize": {
+      "width": 956,
+      "height": 356
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "7f67ed3d-f604-4663-9fb2-aae349ae6fc2@6c48a",
+    "packable": true
+  }
+}

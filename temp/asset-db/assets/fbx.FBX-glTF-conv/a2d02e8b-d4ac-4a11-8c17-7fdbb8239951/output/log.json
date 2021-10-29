@@ -1,0 +1,290 @@
+[
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "Cinema_4D_编辑器",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "骨架_obj",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "Tube03_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "Tube02_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "Tube01_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "objRight_Thigh62_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "objRight_Thigh63_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "objRight_Thigh61_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "objAbdomen02_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "objAbdomen03_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "Object12_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "Object13_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "objRight_Thigh70_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "objRight_Thigh69_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "objRight_Thigh67_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "objRight_Thigh68_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "objRight_Thigh71_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "objRight_Thigh72_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "skull01_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "L_Knee01_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "Object15_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "objRight_Thigh73_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "objRight_Thigh74_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "objRight_Thigh75_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 0,
+    "message": "Local time: [0.000000, 1.000000]"
+  },
+  {
+    "level": 0,
+    "message": "Reference time: [0.000000, 1.000000]"
+  }
+]

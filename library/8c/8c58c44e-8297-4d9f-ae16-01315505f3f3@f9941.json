@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "铲子",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 1,
+      "width": 205,
+      "height": 281
+    },
+    "offset": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 206,
+      "height": 284
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "8c58c44e-8297-4d9f-ae16-01315505f3f3@6c48a",
+    "packable": true
+  }
+}

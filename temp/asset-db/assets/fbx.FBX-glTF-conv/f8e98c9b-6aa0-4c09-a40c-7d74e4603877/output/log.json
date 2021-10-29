@@ -1,0 +1,674 @@
+[
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "Cinema_4D_编辑器",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "oula",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "头发",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "面部",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "胡子",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "衣领",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "领带",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "Default_1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "手",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "鞋子",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "裤子",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "大扣子",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_Hips",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_Spine",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_Spine1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_Spine2",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_Neck",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_Head",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_HeadTop_End",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftShoulder",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftArm",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftForeArm",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHand",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandThumb1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandThumb2",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandThumb3",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandThumb4",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandIndex1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandIndex2",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandIndex3",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandIndex4",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandMiddle1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandMiddle2",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandMiddle3",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandMiddle4",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandRing1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandRing2",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandRing3",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandRing4",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandPinky1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandPinky2",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandPinky3",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftHandPinky4",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightShoulder",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightArm",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightForeArm",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHand",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandThumb1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandThumb2",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandThumb3",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandThumb4",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandIndex1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandIndex2",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandIndex3",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandIndex4",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandMiddle1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandMiddle2",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandMiddle3",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandMiddle4",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandRing1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandRing2",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandRing3",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandRing4",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandPinky1",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandPinky2",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandPinky3",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightHandPinky4",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftUpLeg",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftLeg",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftFoot",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftToeBase",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_LeftToe_End",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightUpLeg",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightLeg",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightFoot",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightToeBase",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "mixamorig_RightToe_End",
+      "type": "RrSs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "Local time: [0.000000, 1.000000]"
+  },
+  {
+    "level": 0,
+    "message": "Reference time: [0.000000, 1.000000]"
+  },
+  {
+    "level": 0,
+    "message": "Local time: [0.000000, 1.000000]"
+  },
+  {
+    "level": 0,
+    "message": "Reference time: [0.000000, 1.000000]"
+  }
+]

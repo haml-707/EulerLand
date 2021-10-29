@@ -1,0 +1,278 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 697,
+      "max": [
+        0.09865645319223404,
+        0.2817728519439697,
+        0.09867006540298462
+      ],
+      "min": [
+        -0.09864471107721329,
+        0.2517915666103363,
+        -0.09867429733276367
+      ],
+      "name": "盖/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 697,
+      "name": "盖/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 697,
+      "name": "盖/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 3384,
+      "name": "盖/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 396,
+      "max": [
+        0.004604135639965534,
+        0.28970420360565186,
+        0.022819725796580315
+      ],
+      "min": [
+        -0.00456636119633913,
+        0.2787272334098816,
+        -0.022819725796580315
+      ],
+      "name": "手柄/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 396,
+      "name": "手柄/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 396,
+      "name": "手柄/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 1068,
+      "name": "手柄/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 1060,
+      "max": [
+        0.09955364465713501,
+        0.25178635120391846,
+        0.09955364465713501
+      ],
+      "min": [
+        -0.09955364465713501,
+        -1.0000000168623835e-16,
+        -0.09955364465713501
+      ],
+      "name": "圆柱/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 1060,
+      "name": "圆柱/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 1060,
+      "name": "圆柱/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5125,
+      "count": 3456,
+      "name": "圆柱/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 22304,
+      "byteStride": 32,
+      "name": "盖",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13536,
+      "byteOffset": 22304
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12672,
+      "byteOffset": 35840,
+      "byteStride": 32,
+      "name": "手柄",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4272,
+      "byteOffset": 48512
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33920,
+      "byteOffset": 52784,
+      "byteStride": 32,
+      "name": "圆柱",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13824,
+      "byteOffset": 86704
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 100528,
+      "uri": "out.bin"
+    }
+  ],
+  "materials": [
+    {
+      "name": "default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.08249999582767487,
+          0.4399999976158142,
+          0.34466665983200073,
+          1.0
+        ],
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.24253562092781067
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "盖",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "手柄",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "圆柱",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Cinema_4D_编辑器",
+      "rotation": [
+        -0.15606123208999634,
+        0.9106032252311707,
+        -0.06464267522096634,
+        0.3771842122077942
+      ],
+      "translation": [
+        0.4869767725467682,
+        0.39053887128829956,
+        0.5252432227134705
+      ]
+    },
+    {
+      "children": [
+        2,
+        3,
+        4
+      ],
+      "name": "垃圾桶_obj"
+    },
+    {
+      "mesh": 0,
+      "name": "盖"
+    },
+    {
+      "mesh": 1,
+      "name": "手柄"
+    },
+    {
+      "mesh": 2,
+      "name": "圆柱"
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ]
+}
