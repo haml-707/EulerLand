@@ -1,6 +1,6 @@
 {
   "cce:/internal/x/cc": {
-    "mTimestamp": 4751.348299980164,
+    "mTimestamp": 5213.049899995327,
     "chunkId": "quick-pack:/cce/internal/x/cc.js",
     "imports": [
       {
@@ -368,11 +368,11 @@
     ]
   },
   "cce:/internal/x/prerequisite-imports": {
-    "mTimestamp": 9100918.917400002,
+    "mTimestamp": 29496.003600001335,
     "chunkId": "quick-pack:/cce/internal/x/prerequisite-imports.js",
     "imports": [
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/BackgroundAdapter.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/BackgroundAdapter.ts",
         "loc": {
           "start": {
             "line": 5,
@@ -380,371 +380,371 @@
           },
           "end": {
             "line": 5,
-            "column": 121
+            "column": 118
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/CloseToBorderComponent.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/CloseToBorderComponent.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 137
+            "column": 134
           },
           "end": {
             "line": 5,
-            "column": 228
+            "column": 222
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/ContentAdapter.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/ContentAdapter.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 244
+            "column": 238
           },
           "end": {
             "line": 5,
-            "column": 327
+            "column": 318
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/MultiResoultionCompat.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/MultiResoultionCompat.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 343
+            "column": 334
           },
           "end": {
             "line": 5,
-            "column": 433
+            "column": 421
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/global/GlobalFunction.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/global/GlobalFunction.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 449
+            "column": 437
           },
           "end": {
             "line": 5,
-            "column": 531
+            "column": 516
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/AudioManager.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/AudioManager.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 547
+            "column": 532
           },
           "end": {
             "line": 5,
-            "column": 628
+            "column": 610
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/BlockPoolControl.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/BlockPoolControl.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 644
+            "column": 626
           },
           "end": {
             "line": 5,
-            "column": 729
+            "column": 708
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/CameraControl.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/CameraControl.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 745
+            "column": 724
           },
           "end": {
             "line": 5,
-            "column": 827
+            "column": 803
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/GameManager.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/GameManager.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 843
+            "column": 819
           },
           "end": {
             "line": 5,
-            "column": 923
+            "column": 896
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/GameRoot.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/GameRoot.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 939
+            "column": 912
           },
           "end": {
             "line": 5,
-            "column": 1016
+            "column": 986
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/Introduce.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/Introduce.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1032
+            "column": 1002
           },
           "end": {
             "line": 5,
-            "column": 1110
+            "column": 1077
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/ItemS.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/ItemS.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1126
+            "column": 1093
           },
           "end": {
             "line": 5,
-            "column": 1200
+            "column": 1164
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/PlayerControl.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/PlayerControl.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1216
+            "column": 1180
           },
           "end": {
             "line": 5,
-            "column": 1298
+            "column": 1259
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/Q&A.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/Q&A.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1314
+            "column": 1275
           },
           "end": {
             "line": 5,
-            "column": 1386
+            "column": 1344
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/BagManager.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/BagManager.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1402
+            "column": 1360
           },
           "end": {
             "line": 5,
-            "column": 1480
+            "column": 1435
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Box1.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Box1.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1496
+            "column": 1451
           },
           "end": {
             "line": 5,
-            "column": 1568
+            "column": 1520
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Box2.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Box2.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1584
+            "column": 1536
           },
           "end": {
             "line": 5,
-            "column": 1656
+            "column": 1605
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/DialogManager.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/DialogManager.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1672
+            "column": 1621
           },
           "end": {
             "line": 5,
-            "column": 1753
+            "column": 1699
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Drag.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Drag.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1769
+            "column": 1715
           },
           "end": {
             "line": 5,
-            "column": 1841
+            "column": 1784
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/EventManager.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/EventManager.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1857
+            "column": 1800
           },
           "end": {
             "line": 5,
-            "column": 1937
+            "column": 1877
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Fade.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Fade.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1953
+            "column": 1893
           },
           "end": {
             "line": 5,
-            "column": 2025
+            "column": 1962
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/GameManager2.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/GameManager2.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 2041
+            "column": 1978
           },
           "end": {
             "line": 5,
-            "column": 2121
+            "column": 2055
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/ItemStatus.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/ItemStatus.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 2137
+            "column": 2071
           },
           "end": {
             "line": 5,
-            "column": 2215
+            "column": 2146
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/PlayerPuzzleControl.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/PlayerPuzzleControl.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 2231
+            "column": 2162
           },
           "end": {
             "line": 5,
-            "column": 2318
+            "column": 2246
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Q&A2.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Q&A2.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 2334
+            "column": 2262
           },
           "end": {
             "line": 5,
-            "column": 2406
+            "column": 2331
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Sudoku.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Sudoku.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 2422
+            "column": 2347
           },
           "end": {
             "line": 5,
-            "column": 2496
+            "column": 2418
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/UIManager.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/UIManager.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 2512
+            "column": 2434
           },
           "end": {
             "line": 5,
-            "column": 2589
+            "column": 2508
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/typescript-001.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/typescript-001.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 2605
+            "column": 2524
           },
           "end": {
             "line": 5,
-            "column": 2687
+            "column": 2603
           }
         }
       },
       {
-        "value": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/start/StartSceneOption.ts",
+        "value": "file:///C:/eulerland%20game/EulerLand/assets/scripts/start/StartSceneOption.ts",
         "loc": {
           "start": {
             "line": 5,
-            "column": 2703
+            "column": 2619
           },
           "end": {
             "line": 5,
-            "column": 2786
+            "column": 2699
           }
         }
       }
@@ -755,119 +755,119 @@
     "resolvedImports": [
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/BackgroundAdapter.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/BackgroundAdapter.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/CloseToBorderComponent.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/CloseToBorderComponent.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/ContentAdapter.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/ContentAdapter.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/MultiResoultionCompat.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/MultiResoultionCompat.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/global/GlobalFunction.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/global/GlobalFunction.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/AudioManager.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/AudioManager.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/BlockPoolControl.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/BlockPoolControl.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/CameraControl.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/CameraControl.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/GameManager.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/GameManager.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/GameRoot.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/GameRoot.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/Introduce.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/Introduce.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/ItemS.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/ItemS.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/PlayerControl.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/PlayerControl.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/Q&A.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/Q&A.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/BagManager.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/BagManager.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Box1.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Box1.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Box2.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Box2.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/DialogManager.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/DialogManager.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Drag.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Drag.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/EventManager.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/EventManager.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Fade.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Fade.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/GameManager2.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/GameManager2.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/ItemStatus.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/ItemStatus.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/PlayerPuzzleControl.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/PlayerPuzzleControl.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Q&A2.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Q&A2.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Sudoku.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Sudoku.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/UIManager.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/UIManager.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/typescript-001.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/typescript-001.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/start/StartSceneOption.ts"
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/start/StartSceneOption.ts"
       }
     ]
   },
@@ -2193,7 +2193,7 @@
     ]
   },
   "cce:/internal/code-quality/cr.mjs": {
-    "mTimestamp": 1635470230737,
+    "mTimestamp": 1635494877797,
     "chunkId": "quick-pack:/cce/internal/code-quality/cr.js",
     "imports": [],
     "modLoMetadata": {
@@ -3707,6 +3707,1421 @@
       {
         "isExternal": false,
         "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/BackgroundAdapter.ts": {
+    "mTimestamp": 1632726031277.538,
+    "chunkId": "assets/scripts/Adaptor/BackgroundAdapter.js",
+    "imports": [
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/ContentAdapter.ts": {
+    "mTimestamp": 1632726031280.5398,
+    "chunkId": "assets/scripts/Adaptor/ContentAdapter.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 165
+          },
+          "end": {
+            "line": 2,
+            "column": 169
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/CloseToBorderComponent.ts": {
+    "mTimestamp": 1632726031278.5386,
+    "chunkId": "assets/scripts/Adaptor/CloseToBorderComponent.js",
+    "imports": [
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/MultiResoultionCompat.ts": {
+    "mTimestamp": 1632726031282.5396,
+    "chunkId": "assets/scripts/Adaptor/MultiResoultionCompat.js",
+    "imports": [
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/global/GlobalFunction.ts": {
+    "mTimestamp": 1634716191752.0312,
+    "chunkId": "assets/scripts/global/GlobalFunction.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 62
+          },
+          "end": {
+            "line": 2,
+            "column": 66
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/CameraControl.ts": {
+    "mTimestamp": 1634696391434.8855,
+    "chunkId": "assets/scripts/parkour/CameraControl.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/AudioManager.ts": {
+    "mTimestamp": 1635473008680.0898,
+    "chunkId": "assets/scripts/parkour/AudioManager.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 66
+          },
+          "end": {
+            "line": 1,
+            "column": 70
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/BlockPoolControl.ts": {
+    "mTimestamp": 1635474534506.473,
+    "chunkId": "assets/scripts/parkour/BlockPoolControl.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 117
+          },
+          "end": {
+            "line": 2,
+            "column": 121
+          }
+        }
+      },
+      {
+        "value": "./PlayerControl",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 30
+          },
+          "end": {
+            "line": 3,
+            "column": 47
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/PlayerControl.ts"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/GameManager.ts": {
+    "mTimestamp": 1635479285526.685,
+    "chunkId": "assets/scripts/parkour/GameManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 195
+          },
+          "end": {
+            "line": 2,
+            "column": 199
+          }
+        }
+      },
+      {
+        "value": "./PlayerControl",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 30
+          },
+          "end": {
+            "line": 4,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "./AudioManager",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 29
+          },
+          "end": {
+            "line": 5,
+            "column": 45
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/PlayerControl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/AudioManager.ts"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/Introduce.ts": {
+    "mTimestamp": 1632726031292.5415,
+    "chunkId": "assets/scripts/parkour/Introduce.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 57
+          },
+          "end": {
+            "line": 2,
+            "column": 61
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/GameRoot.ts": {
+    "mTimestamp": 1634605122188.5576,
+    "chunkId": "assets/scripts/parkour/GameRoot.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 65
+          },
+          "end": {
+            "line": 2,
+            "column": 69
+          }
+        }
+      },
+      {
+        "value": "./AudioManager",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 29
+          },
+          "end": {
+            "line": 3,
+            "column": 45
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/AudioManager.ts"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/ItemS.ts": {
+    "mTimestamp": 1632726031294.5398,
+    "chunkId": "assets/scripts/parkour/ItemS.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/PlayerControl.ts": {
+    "mTimestamp": 1635479320907.542,
+    "chunkId": "assets/scripts/parkour/PlayerControl.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 179
+          },
+          "end": {
+            "line": 2,
+            "column": 183
+          }
+        }
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 40
+          },
+          "end": {
+            "line": 3,
+            "column": 44
+          }
+        }
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 114
+          },
+          "end": {
+            "line": 4,
+            "column": 118
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 28
+          },
+          "end": {
+            "line": 5,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./ItemS",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 22
+          },
+          "end": {
+            "line": 6,
+            "column": 31
+          }
+        }
+      },
+      {
+        "value": "./Q&A",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 19
+          },
+          "end": {
+            "line": 7,
+            "column": 26
+          }
+        }
+      },
+      {
+        "value": "./AudioManager",
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 29
+          },
+          "end": {
+            "line": 8,
+            "column": 45
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/ItemS.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/Q&A.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/AudioManager.ts"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/Q&A.ts": {
+    "mTimestamp": 1634713431402.6907,
+    "chunkId": "assets/scripts/parkour/Q&A.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 183
+          },
+          "end": {
+            "line": 2,
+            "column": 187
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 28
+          },
+          "end": {
+            "line": 4,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./PlayerControl",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 30
+          },
+          "end": {
+            "line": 5,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "../global/GlobalFunction",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 31
+          },
+          "end": {
+            "line": 6,
+            "column": 57
+          }
+        }
+      },
+      {
+        "value": "./AudioManager",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 29
+          },
+          "end": {
+            "line": 7,
+            "column": 45
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/PlayerControl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/global/GlobalFunction.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/AudioManager.ts"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/BagManager.ts": {
+    "mTimestamp": 1632726031301.5413,
+    "chunkId": "assets/scripts/puzzle/BagManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 101
+          },
+          "end": {
+            "line": 2,
+            "column": 105
+          }
+        }
+      },
+      {
+        "value": "./EventManager",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 29
+          },
+          "end": {
+            "line": 3,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "./ItemStatus",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 27
+          },
+          "end": {
+            "line": 4,
+            "column": 41
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/EventManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/ItemStatus.ts"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Box1.ts": {
+    "mTimestamp": 1632726031303.5393,
+    "chunkId": "assets/scripts/puzzle/Box1.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 58
+          },
+          "end": {
+            "line": 2,
+            "column": 62
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Box2.ts": {
+    "mTimestamp": 1632726031305.5398,
+    "chunkId": "assets/scripts/puzzle/Box2.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/DialogManager.ts": {
+    "mTimestamp": 1632726031306.5398,
+    "chunkId": "assets/scripts/puzzle/DialogManager.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 51
+          },
+          "end": {
+            "line": 2,
+            "column": 55
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/EventManager.ts": {
+    "mTimestamp": 1632726031310.54,
+    "chunkId": "assets/scripts/puzzle/EventManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Drag.ts": {
+    "mTimestamp": 1632726031308.5405,
+    "chunkId": "assets/scripts/puzzle/Drag.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 83
+          },
+          "end": {
+            "line": 2,
+            "column": 87
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Fade.ts": {
+    "mTimestamp": 1632726031312.5413,
+    "chunkId": "assets/scripts/puzzle/Fade.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 63
+          },
+          "end": {
+            "line": 2,
+            "column": 67
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/GameManager2.ts": {
+    "mTimestamp": 1632726031313.5393,
+    "chunkId": "assets/scripts/puzzle/GameManager2.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 83
+          },
+          "end": {
+            "line": 2,
+            "column": 87
+          }
+        }
+      },
+      {
+        "value": "./Fade",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 21
+          },
+          "end": {
+            "line": 3,
+            "column": 29
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Fade.ts"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/ItemStatus.ts": {
+    "mTimestamp": 1632726031315.54,
+    "chunkId": "assets/scripts/puzzle/ItemStatus.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 95
+          },
+          "end": {
+            "line": 2,
+            "column": 99
+          }
+        }
+      },
+      {
+        "value": "./UIManager",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/UIManager.ts"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/PlayerPuzzleControl.ts": {
+    "mTimestamp": 1632726031317.541,
+    "chunkId": "assets/scripts/puzzle/PlayerPuzzleControl.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 113
+          },
+          "end": {
+            "line": 2,
+            "column": 117
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Q&A2.ts": {
+    "mTimestamp": 1632726031319.5396,
+    "chunkId": "assets/scripts/puzzle/Q&A2.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 85
+          },
+          "end": {
+            "line": 2,
+            "column": 89
+          }
+        }
+      },
+      {
+        "value": "../global/GlobalFunction",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 31
+          },
+          "end": {
+            "line": 3,
+            "column": 57
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/global/GlobalFunction.ts"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Sudoku.ts": {
+    "mTimestamp": 1632726031320.5398,
+    "chunkId": "assets/scripts/puzzle/Sudoku.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 57
+          },
+          "end": {
+            "line": 2,
+            "column": 61
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/typescript-001.ts": {
+    "mTimestamp": 1632726031323.5393,
+    "chunkId": "assets/scripts/puzzle/typescript-001.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 98
+          },
+          "end": {
+            "line": 2,
+            "column": 102
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/start/StartSceneOption.ts": {
+    "mTimestamp": 1632726031326.542,
+    "chunkId": "assets/scripts/start/StartSceneOption.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 54
+          },
+          "end": {
+            "line": 2,
+            "column": 58
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/UIManager.ts": {
+    "mTimestamp": 1632726031322.5396,
+    "chunkId": "assets/scripts/puzzle/UIManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 108
+          },
+          "end": {
+            "line": 2,
+            "column": 112
+          }
+        }
+      },
+      {
+        "value": "./Fade",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 21
+          },
+          "end": {
+            "line": 3,
+            "column": 29
+          }
+        }
+      },
+      {
+        "value": "./BagManager",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 27
+          },
+          "end": {
+            "line": 4,
+            "column": 41
+          }
+        }
+      },
+      {
+        "value": "./ItemStatus",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 27
+          },
+          "end": {
+            "line": 5,
+            "column": 41
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Fade.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/BagManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/ItemStatus.ts"
       }
     ]
   }

@@ -4866,5 +4866,2421 @@
     "time": 1632726031239.5396,
     "uuid": "8c58c44e-8297-4d9f-ae16-01315505f3f3",
     "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials.meta": {
+    "time": 1632726029821.433
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\bg1.mtl.meta": {
+    "time": 1632726029823.4324
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\bg2.mtl.meta": {
+    "time": 1632726029825.4326
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\bg3.mtl.meta": {
+    "time": 1632726029827.4338
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\blue.mtl.meta": {
+    "time": 1632726029828.4314
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\coin.mtl.meta": {
+    "time": 1632726029830.4312
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\convex.mtl.meta": {
+    "time": 1632726029832.4312
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\darkblue.mtl.meta": {
+    "time": 1632726029833.431
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\didang.mtl.meta": {
+    "time": 1632726029835.4314
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\green.mtl.meta": {
+    "time": 1632726029836.4312
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\red.mtl.meta": {
+    "time": 1632726029838.4312
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\road.meta": {
+    "time": 1632726029838.4312
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\road\\Archmodels61_001_leaf2.mtl.meta": {
+    "time": 1632726029840.4385
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\road\\cao材质.mtl.meta": {
+    "time": 1632726029842.4326
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\road\\木材质.mtl.meta": {
+    "time": 1632726029844.4758
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\road\\材质.mtl.meta": {
+    "time": 1632726029845.4314
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\road\\材质1.mtl.meta": {
+    "time": 1632726029846.4312
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\road\\材质2.mtl.meta": {
+    "time": 1632726029848.4312
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\test.mtl.meta": {
+    "time": 1632726029849.4314
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\transparent.mtl.meta": {
+    "time": 1632726029850.4314
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\water.mtl.meta": {
+    "time": 1632726029852.4314
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\white.mtl.meta": {
+    "time": 1632726029853.4314
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\wood.mtl.meta": {
+    "time": 1632726029854.4314
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\wudi.mtl.meta": {
+    "time": 1632726029856.431
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\xiqu.mtl.meta": {
+    "time": 1632726029857.4314
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res.meta": {
+    "time": 1632726029858.437
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model.meta": {
+    "time": 1632726029860.4314
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\coin.meta": {
+    "time": 1632726029861.4758
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\coin\\coin.glb.meta": {
+    "time": 1632726029863.481
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹.meta": {
+    "time": 1632726029866.4368
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包.meta": {
+    "time": 1632726029867.4434
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）.meta": {
+    "time": 1632726029868.4758
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\Materials_路面02.meta": {
+    "time": 1632726029869.435
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\Materials_路面02\\材质.mtl.meta": {
+    "time": 1632726029871.4766
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\木头01.fbx.meta": {
+    "time": 1632726029945.4797
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\木头02.fbx.meta": {
+    "time": 1632726029949.4321
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\树1.fbx.meta": {
+    "time": 1632726029954.4314
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\树2.fbx.meta": {
+    "time": 1632726029958.4312
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\树3.fbx.meta": {
+    "time": 1632726029963.4312
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\石头.fbx.meta": {
+    "time": 1632726030005.4326
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\草.fbx.meta": {
+    "time": 1632726030013.431
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\草地02.fbx.meta": {
+    "time": 1632726030020.433
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\路面02.fbx.meta": {
+    "time": 1632726030023.433
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\路面03.fbx.meta": {
+    "time": 1632726030026.433
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）.meta": {
+    "time": 1632726030028.4329
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）\\仙人掌.fbx.meta": {
+    "time": 1632726030037.4329
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）\\山.fbx.meta": {
+    "time": 1632726030042.4329
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）\\木头.fbx.meta": {
+    "time": 1632726030046.4329
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）\\沙漠02.fbx.meta": {
+    "time": 1632726030053.4307
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）\\石头01.fbx.meta": {
+    "time": 1632726030059.4763
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）\\石头02.fbx.meta": {
+    "time": 1632726030061.4314
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）\\石头03.fbx.meta": {
+    "time": 1632726030063.4312
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）\\路面02.fbx.meta": {
+    "time": 1632726030067.4338
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）\\骨架.fbx.meta": {
+    "time": 1632726030082.4314
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景二（fbx）.meta": {
+    "time": 1632726030083.4312
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景二（fbx）\\地面02.fbx.meta": {
+    "time": 1632726030088.4314
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景二（fbx）\\垃圾桶.fbx.meta": {
+    "time": 1632726030091.431
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景二（fbx）\\树1.fbx.meta": {
+    "time": 1632726030154.434
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景二（fbx）\\树2.fbx.meta": {
+    "time": 1632726030180.4336
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景二（fbx）\\滑板.fbx.meta": {
+    "time": 1632726030203.434
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景二（fbx）\\绳子.fbx.meta": {
+    "time": 1632726030229.4363
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景二（fbx）\\路面02.fbx.meta": {
+    "time": 1632726030233.432
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景道具.meta": {
+    "time": 1632726030234.443
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景道具\\机柜01.fbx.meta": {
+    "time": 1632726030239.4314
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景道具\\机柜02.fbx.meta": {
+    "time": 1632726030245.4358
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景道具\\树莓派.fbx.meta": {
+    "time": 1632726030254.4348
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景道具\\电视.fbx.meta": {
+    "time": 1632726030259.431
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\people.meta": {
+    "time": 1632726030260.4358
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\people\\Dodging.fbx.meta": {
+    "time": 1632726030277.4312
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\people\\Jump.fbx.meta": {
+    "time": 1632726030285.4312
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\people\\Running Slide.fbx.meta": {
+    "time": 1632726030295.4316
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\people\\Running.fbx.meta": {
+    "time": 1632726030302.4326
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\people\\左右闪避动作.fbx.meta": {
+    "time": 1632726030310.435
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources.meta": {
+    "time": 1635385277756.9082
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes.meta": {
+    "time": 1632726030312.4326
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\1.meta": {
+    "time": 1632726030314.4329
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\1\\DownCount1.anim.meta": {
+    "time": 1632726030316.4363
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\1\\DownCount2.anim.meta": {
+    "time": 1632726030317.4343
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\1\\DownCount3.anim.meta": {
+    "time": 1632726030319.434
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\1\\GameStart.anim.meta": {
+    "time": 1632726030321.437
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\1\\item.anim.meta": {
+    "time": 1632726030324.4316
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\1\\QA.anim.meta": {
+    "time": 1632726030323.4321
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\2.meta": {
+    "time": 1632726030325.4312
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\2\\bagOff.anim.meta": {
+    "time": 1632726030329.431
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\2\\bagOn.anim.meta": {
+    "time": 1632726030331.4312
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\2\\Fade.anim.meta": {
+    "time": 1632726030327.431
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio.meta": {
+    "time": 1634636275885.632
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst.meta": {
+    "time": 1634624947482.7332
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\321.mp3.meta": {
+    "time": 1634644188374.906
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\active.mp3.meta": {
+    "time": 1634696385334.091
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\background.wav.meta": {
+    "time": 1634631106136.2612
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\clickbtn.mp3.meta": {
+    "time": 1634643726039.0789
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\erro.wav.meta": {
+    "time": 1634643726041.0723
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\fail.wav.meta": {
+    "time": 1634643726039.0789
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\go.mp3.meta": {
+    "time": 1634642811227.0906
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\gold.wav.meta": {
+    "time": 1634643726040.0752
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\magic.mp3.meta": {
+    "time": 1634698835124.325
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\right.wav.meta": {
+    "time": 1634643726122.792
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\startBtn.wav.meta": {
+    "time": 1634643726118.7898
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\win.wav.meta": {
+    "time": 1634643726121.7695
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\font.meta": {
+    "time": 1632726030334.431
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\font\\FZLTCHJW.TTF.meta": {
+    "time": 1632726030357.6042
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\font\\fzlthjwgb10.TTF.meta": {
+    "time": 1632726030429.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\font\\FZZhengHeiS-R-GB.ttf.meta": {
+    "time": 1632726030380.5435
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\font\\PangMenZhengDaoBiaoTiTi-1.ttf.meta": {
+    "time": 1632726030399.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Json.meta": {
+    "time": 1632726030332.4326
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Json\\Question.json.meta": {
+    "time": 1632726030334.431
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\people.meta": {
+    "time": 1632726030430.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\people\\Jump.fbx.meta": {
+    "time": 1632726030440.543
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\people\\Left Strafe (2).fbx.meta": {
+    "time": 1632726030450.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\people\\Right Strafe (2).fbx.meta": {
+    "time": 1632726030458.5435
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\people\\Running Slide.fbx.meta": {
+    "time": 1632726030468.542
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\people\\Running.fbx.meta": {
+    "time": 1632726030476.5505
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs.meta": {
+    "time": 1632726030477.701
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block.meta": {
+    "time": 1632726030478.5408
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\100.prefab.meta": {
+    "time": 1632726030482.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\101.prefab.meta": {
+    "time": 1632726030485.5388
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\102.prefab.meta": {
+    "time": 1632726030486.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\103.prefab.meta": {
+    "time": 1632726030488.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\104.prefab.meta": {
+    "time": 1632726030490.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\200.prefab.meta": {
+    "time": 1632726030492.539
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\201.prefab.meta": {
+    "time": 1632726030493.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\202.prefab.meta": {
+    "time": 1632726030495.5542
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\203.prefab.meta": {
+    "time": 1632726030497.5435
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\204.prefab.meta": {
+    "time": 1632726030499.576
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\300.prefab.meta": {
+    "time": 1632726030500.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\301.prefab.meta": {
+    "time": 1632726030502.5427
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\302.prefab.meta": {
+    "time": 1632726030503.541
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\303.prefab.meta": {
+    "time": 1632726030505.539
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\304.prefab.meta": {
+    "time": 1632726030507.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Items.meta": {
+    "time": 1632726030507.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Items\\CloudNative.prefab.meta": {
+    "time": 1632726030509.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Items\\Coin.prefab.meta": {
+    "time": 1632726030511.5403
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Items\\HardWare.prefab.meta": {
+    "time": 1632726030513.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Items\\RaspBarry.prefab.meta": {
+    "time": 1632726030515.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Items\\VM.prefab.meta": {
+    "time": 1632726030517.541
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\UI.meta": {
+    "time": 1632726030518.541
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\UI\\Q&A.prefab.meta": {
+    "time": 1632726030521.5388
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\场景.meta": {
+    "time": 1632726030521.5388
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\场景\\0.prefab.meta": {
+    "time": 1632726030524.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\场景\\1.prefab.meta": {
+    "time": 1632726030527.5442
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\场景\\2.prefab.meta": {
+    "time": 1632726030530.5432
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\场景\\folder.meta": {
+    "time": 1632726030530.5432
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\场景\\folder\\3.prefab.meta": {
+    "time": 1632726030533.5427
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\场景\\folder\\4.prefab.meta": {
+    "time": 1632726030535.542
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\场景\\石头.prefab.meta": {
+    "time": 1632726030537.5437
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\场景\\草.prefab.meta": {
+    "time": 1632726030538.5415
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite.meta": {
+    "time": 1632726030539.541
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku.meta": {
+    "time": 1632726030543.5415
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图.meta": {
+    "time": 1632726030606.542
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\三个原画场景.meta": {
+    "time": 1632726030897.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\三个场景盒.meta": {
+    "time": 1632726030916.5422
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\密码盒1切图和规范.meta": {
+    "time": 1632726030964.5417
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\新增ui.meta": {
+    "time": 1632726030994.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\第二关.meta": {
+    "time": 1632726031036.5403
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图.meta": {
+    "time": 1632726031080.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）.meta": {
+    "time": 1632726031220.5403
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scenes.meta": {
+    "time": 1632726031240.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scenes\\parkour.scene.meta": {
+    "time": 1632726031246.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scenes\\puzzle.scene.meta": {
+    "time": 1632726031259.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scenes\\startUI.scene.meta": {
+    "time": 1632726031264.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scenes\\Test.scene.meta": {
+    "time": 1632726031242.54
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts.meta": {
+    "time": 1632726031265.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\.vs.meta": {
+    "time": 1632726031266.5405
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\.vs\\ProjectSettings.json.meta": {
+    "time": 1632726031268.5417
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\.vs\\scripts.meta": {
+    "time": 1632726031271.5386
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\.vs\\scripts\\v16.meta": {
+    "time": 1632726031271.5386
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\.vs\\VSWorkspaceState.json.meta": {
+    "time": 1632726031270.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\Adaptor.meta": {
+    "time": 1632726031276.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\Adaptor\\BackgroundAdapter.ts.meta": {
+    "time": 1632726031278.5386
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\Adaptor\\CloseToBorderComponent.ts.meta": {
+    "time": 1632726031279.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\Adaptor\\ContentAdapter.ts.meta": {
+    "time": 1632726031281.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\Adaptor\\MultiResoultionCompat.ts.meta": {
+    "time": 1632726031282.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\global.meta": {
+    "time": 1632726031283.5417
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\global\\GlobalFunction.ts.meta": {
+    "time": 1632726031285.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour.meta": {
+    "time": 1632726031286.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour\\AudioManager.ts.meta": {
+    "time": 1634636300006.9297
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour\\BlockPoolControl.ts.meta": {
+    "time": 1632726031288.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour\\CameraControl.ts.meta": {
+    "time": 1632726031289.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour\\GameManager.ts.meta": {
+    "time": 1632726031291.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour\\GameRoot.ts.meta": {
+    "time": 1634642460668.3572
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour\\Introduce.ts.meta": {
+    "time": 1632726031293.5403
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour\\ItemS.ts.meta": {
+    "time": 1632726031295.5447
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour\\PlayerControl.ts.meta": {
+    "time": 1632726031297.54
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour\\Q&A.ts.meta": {
+    "time": 1632726031299.5537
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle.meta": {
+    "time": 1632726031299.5537
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\BagManager.ts.meta": {
+    "time": 1632726031302.541
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\Box1.ts.meta": {
+    "time": 1632726031304.5403
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\Box2.ts.meta": {
+    "time": 1632726031305.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\DialogManager.ts.meta": {
+    "time": 1632726031307.541
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\Drag.ts.meta": {
+    "time": 1632726031309.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\EventManager.ts.meta": {
+    "time": 1632726031311.542
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\Fade.ts.meta": {
+    "time": 1632726031313.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\GameManager2.ts.meta": {
+    "time": 1632726031314.5403
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\ItemStatus.ts.meta": {
+    "time": 1632726031316.54
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\PlayerPuzzleControl.ts.meta": {
+    "time": 1632726031318.5415
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\Q&A2.ts.meta": {
+    "time": 1632726031320.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\Sudoku.ts.meta": {
+    "time": 1632726031321.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\typescript-001.ts.meta": {
+    "time": 1632726031324.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\UIManager.ts.meta": {
+    "time": 1632726031323.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\start.meta": {
+    "time": 1632726031325.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\start\\StartSceneOption.ts.meta": {
+    "time": 1632726031327.5432
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\coin\\coni_paint.png.meta": {
+    "time": 1632726029865.4856
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\beiban.png.meta": {
+    "time": 1632726030542.5405
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\1.png.meta": {
+    "time": 1632726030545.545
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\2.png.meta": {
+    "time": 1632726030547.543
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\3.png.meta": {
+    "time": 1632726030550.546
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\4.png.meta": {
+    "time": 1632726030552.541
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\5.png.meta": {
+    "time": 1632726030554.5405
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\6.png.meta": {
+    "time": 1632726030555.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\7.png.meta": {
+    "time": 1632726030557.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\8.png.meta": {
+    "time": 1632726030559.5425
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\9.png.meta": {
+    "time": 1632726030561.5842
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\数 独 解 密.png.meta": {
+    "time": 1632726030562.5842
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\数独解密背景.jpg.meta": {
+    "time": 1632726030604.5479
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\game start（按下）.png.meta": {
+    "time": 1632726030611.5452
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\game start（未按）.png.meta": {
+    "time": 1632726030613.5576
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\互动内容蒙板.png.meta": {
+    "time": 1632726030628.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\关闭icon（按下）.png.meta": {
+    "time": 1632726030630.542
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\关闭icon（未按）.png.meta": {
+    "time": 1632726030632.5435
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\回到上一个场景icon（按下）.png.meta": {
+    "time": 1632726030634.5452
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\回到上一个场景icon（未按）.png.meta": {
+    "time": 1632726030637.5457
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\场景1.jpg.meta": {
+    "time": 1632726030652.5408
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\场景2.jpg.meta": {
+    "time": 1632726030669.5432
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\场景3.jpg.meta": {
+    "time": 1632726030680.5437
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\对话框.png.meta": {
+    "time": 1632726030684.5447
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\小岛迷踪.png.meta": {
+    "time": 1632726030687.5413
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\我：.png.meta": {
+    "time": 1632726030690.5417
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\提示icon（按下）.png.meta": {
+    "time": 1632726030697.541
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\提示icon（未按）.png.meta": {
+    "time": 1632726030700.544
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\提示_物品_互动框.png.meta": {
+    "time": 1632726030694.5408
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\提问框.png.meta": {
+    "time": 1632726030704.5476
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\插画背景参考1.jpg.meta": {
+    "time": 1632726030783.576
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\插画背景参考2.jpg.meta": {
+    "time": 1632726030873.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\物品栏.png.meta": {
+    "time": 1632726030875.5542
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\物品框.png.meta": {
+    "time": 1632726030878.5408
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\神秘人剪影.png.meta": {
+    "time": 1632726030882.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\神秘人：.png.meta": {
+    "time": 1632726030884.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\返回大世界icon（按下）.png.meta": {
+    "time": 1632726030886.5432
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\返回大世界icon（未按）.png.meta": {
+    "time": 1632726030888.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\返回游戏标题（按下）.png.meta": {
+    "time": 1632726030889.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\返回游戏标题（未按）.png.meta": {
+    "time": 1632726030891.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\选择框（未选中）.png.meta": {
+    "time": 1632726030893.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\选择框（选中）.png.meta": {
+    "time": 1632726030894.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\选择框（选错）.png.meta": {
+    "time": 1632726030896.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\三个原画场景\\跑酷游戏地图1.jpg.meta": {
+    "time": 1632726030903.5417
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\三个原画场景\\跑酷游戏地图2.jpg.meta": {
+    "time": 1632726030909.5422
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\三个原画场景\\跑酷游戏地图3.jpg.meta": {
+    "time": 1632726030915.541
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\三个场景盒\\场景一盒子.png.meta": {
+    "time": 1632726030930.5415
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\三个场景盒\\场景三盒子.png.meta": {
+    "time": 1632726030950.5415
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\三个场景盒\\场景二盒子.png.meta": {
+    "time": 1632726030963.5405
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\密码盒1切图和规范\\三角形.png.meta": {
+    "time": 1632726030967.5486
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\密码盒1切图和规范\\六角星.png.meta": {
+    "time": 1632726030970.5427
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\密码盒1切图和规范\\圆形.png.meta": {
+    "time": 1632726030973.5452
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\密码盒1切图和规范\\密码盒1背景.png.meta": {
+    "time": 1632726030980.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\密码盒1切图和规范\\密码盒1预览图.jpg.meta": {
+    "time": 1632726030991.541
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\密码盒1切图和规范\\方形.png.meta": {
+    "time": 1632726030993.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\新增ui\\d28ac70e57e2673fcb82d07b160dac0.jpg.meta": {
+    "time": 1632726030996.541
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\新增ui\\game star.png.meta": {
+    "time": 1632726031007.544
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\新增ui\\关闭icon.png.meta": {
+    "time": 1632726031009.542
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\新增ui\\游戏开始icon.png.meta": {
+    "time": 1632726031012.5432
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\新增ui\\游戏说明.png.meta": {
+    "time": 1632726031032.5415
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\新增ui\\游戏说明icon.png.meta": {
+    "time": 1632726031035.5422
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\第二关\\前景.png.meta": {
+    "time": 1632726031050.547
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\第二关\\沙滩球.png.meta": {
+    "time": 1632726031053.5437
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\第二关\\玩具桶.png.meta": {
+    "time": 1632726031055.5422
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\第二关\\网球网.png.meta": {
+    "time": 1632726031059.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\第二关\\背景图.png.meta": {
+    "time": 1632726031077.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\第二关\\贝壳.png.meta": {
+    "time": 1632726031079.5403
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\coni_paint.png.meta": {
+    "time": 1632726031083.541
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\倒计时数字1.png.meta": {
+    "time": 1632726031091.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\倒计时数字2.png.meta": {
+    "time": 1632726031098.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\倒计时数字3.png.meta": {
+    "time": 1632726031106.5425
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\再来一次icon.png.meta": {
+    "time": 1632726031110.5452
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\取消icon.png.meta": {
+    "time": 1632726031113.5427
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\回到大世界icon.png.meta": {
+    "time": 1632726031117.543
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\回答问题背景框.png.meta": {
+    "time": 1632726031139.54
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\地图1背景.png.meta": {
+    "time": 1632726031154.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\地图2背景.png.meta": {
+    "time": 1632726031168.54
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\地图3背景.png.meta": {
+    "time": 1632726031179.587
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\播放按钮.png.meta": {
+    "time": 1632726031187.5435
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\放弃回答icon.png.meta": {
+    "time": 1632726031190.544
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\暂停icon.png.meta": {
+    "time": 1632726031192.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\未选择框.png.meta": {
+    "time": 1632726031194.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\游戏失败框.png.meta": {
+    "time": 1632726031201.543
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\游戏通关框.png.meta": {
+    "time": 1632726031209.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\积分框.png.meta": {
+    "time": 1632726031212.5413
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\选择正确框.png.meta": {
+    "time": 1632726031213.5425
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\选择错误框.png.meta": {
+    "time": 1632726031215.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\金币.png.meta": {
+    "time": 1632726031218.542
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\8号球.png.meta": {
+    "time": 1632726031222.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\剪刀.png.meta": {
+    "time": 1632726031224.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\十枚硬币.png.meta": {
+    "time": 1632726031226.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\带圈木框.png.meta": {
+    "time": 1632726031228.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\捕鱼网.png.meta": {
+    "time": 1632726031229.5393
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\盐.png.meta": {
+    "time": 1632726031231.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\糖.png.meta": {
+    "time": 1632726031233.5405
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\网.png.meta": {
+    "time": 1632726031236.5405
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\蜂蜜.png.meta": {
+    "time": 1632726031238.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\铲子.png.meta": {
+    "time": 1632726031240.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\.vs\\scripts\\v16\\.suo.meta": {
+    "time": 1632726031273.5396
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\.vs\\slnx.sqlite.meta": {
+    "time": 1632726031275.5398
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials": {
+    "time": 1635493220992.5684,
+    "uuid": "cbae0b6d-9ddc-4f43-8af8-a63343273400",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\bg1.mtl": {
+    "time": 1632726029823.4324,
+    "uuid": "51aefdf0-d401-46a9-986a-2ad0e2c904e0",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\bg2.mtl": {
+    "time": 1632726029824.4314,
+    "uuid": "cdbb2e5c-c7cc-472d-99ae-5611c12feba1",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\coin.mtl": {
+    "time": 1635494886836.961,
+    "uuid": "d76f975f-7106-4ee2-ad53-594eb813bc2b",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\bg3.mtl": {
+    "time": 1632726029826.4436,
+    "uuid": "7e504ff2-1bbf-40a7-824f-d2c23d60fcf0",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\blue.mtl": {
+    "time": 1635494886836.961,
+    "uuid": "afbfc5f4-cf02-465d-a4bf-a87edf0ef02e",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\convex.mtl": {
+    "time": 1635494886843.5134,
+    "uuid": "64661ccb-e6c6-4e11-a6e0-419b6eedaecc",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\road": {
+    "time": 1635493221006.1924,
+    "uuid": "31e56262-2d2b-4d68-9e6b-81e62b26787e",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\green.mtl": {
+    "time": 1635494886847.833,
+    "uuid": "b49db3ec-b817-4e73-8f28-4f80aa65b149",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\darkblue.mtl": {
+    "time": 1635494886846.0903,
+    "uuid": "829b7e70-bd48-4f41-b2d5-330492445f48",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\didang.mtl": {
+    "time": 1632726029834.4312,
+    "uuid": "76c9d69c-4aef-4d1d-84d3-f2fbe3d3890f",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\red.mtl": {
+    "time": 1635494886853.4458,
+    "uuid": "3c93527f-85ca-4cdd-8782-7a756eada6f0",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\road\\Archmodels61_001_leaf2.mtl": {
+    "time": 1635494886856.4548,
+    "uuid": "82436396-abed-4775-9de8-2174386364dc",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\road\\cao材质.mtl": {
+    "time": 1635494886863.1042,
+    "uuid": "0b418fe8-89e5-4371-bc95-bc9a9bdebb0c",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\road\\材质.mtl": {
+    "time": 1635494886866.1035,
+    "uuid": "c4b7ab79-b814-45d5-b8b3-c3e639987f2d",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\road\\木材质.mtl": {
+    "time": 1635494886866.1035,
+    "uuid": "ef260a1b-e783-4931-9d86-b2f5cc07bb99",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\road\\材质1.mtl": {
+    "time": 1635494886869.1035,
+    "uuid": "635fecd9-3c4a-4afc-8efe-4a5b379644e4",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\road\\材质2.mtl": {
+    "time": 1635494886871.8853,
+    "uuid": "b92565dc-e96c-4ba6-acda-ec589da5a633",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\test.mtl": {
+    "time": 1632726029848.4312,
+    "uuid": "0050b34b-eddc-45b3-b1ef-fae65e844c08",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\transparent.mtl": {
+    "time": 1632726029850.4314,
+    "uuid": "7bad5af9-a70f-4cf1-adcd-5a9cb9ffa7d1",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\water.mtl": {
+    "time": 1632726029851.4314,
+    "uuid": "b58a92f9-9af6-43aa-87b1-b0dc83a10c39",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res": {
+    "time": 1635493221010.8496,
+    "uuid": "1689aa61-aa06-4c54-ab21-9f52f9fc03a2",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model": {
+    "time": 1635493221018.8464,
+    "uuid": "2f307d31-acb0-4ea6-bd2e-243ab8173937",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\coin": {
+    "time": 1635493221017.8467,
+    "uuid": "b5b08521-f9dc-4572-b201-e4fe3ee78497",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\white.mtl": {
+    "time": 1632726029852.4314,
+    "uuid": "f79441ab-2e8a-45d0-a20e-5d7c4449cf7b",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹": {
+    "time": 1635493221133.5981,
+    "uuid": "f070d8ce-3432-4c5f-8fff-93304f082b22",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包": {
+    "time": 1635493221122.3855,
+    "uuid": "1bac5111-8b7a-408b-84d2-0ee1f994bf20",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）": {
+    "time": 1635493221066.2627,
+    "uuid": "dbe3579c-00ce-4d62-8e40-0b60f42f7dca",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\Materials_路面02": {
+    "time": 1635493221068.0215,
+    "uuid": "35738b5c-7857-4bf9-a22d-ac766bb015db",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\wood.mtl": {
+    "time": 1635494886883.4001,
+    "uuid": "9687e5e4-9d1f-4440-bdac-09abc1eac398",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\wudi.mtl": {
+    "time": 1632726029855.4314,
+    "uuid": "08f7504f-7611-4715-b21d-82cfaa86d26f",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\materials\\xiqu.mtl": {
+    "time": 1632726029856.431,
+    "uuid": "833ba396-d2ea-49a7-963c-690ead61377a",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\Materials_路面02\\材质.mtl": {
+    "time": 1635494886900.8025,
+    "uuid": "a8b0191a-371d-4608-81a8-8c19da420d68",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\coin\\coin.glb": {
+    "time": 1632726029862.4756,
+    "uuid": "83d8802b-bb47-4dad-afb5-8f1e6640f5c2",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\树1.fbx": {
+    "time": 1632726029953.475,
+    "uuid": "688d5e38-2bc3-4d79-8852-349f2b67757c",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\树2.fbx": {
+    "time": 1632726029958.4312,
+    "uuid": "1b739969-27c8-4d10-ad5b-53673e6a7ba7",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\木头02.fbx": {
+    "time": 1632726029948.4712,
+    "uuid": "b6520b63-a4fe-4e86-bd84-a519dd61b714",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\树3.fbx": {
+    "time": 1632726029962.431,
+    "uuid": "ddbdf74e-6445-4621-b5e7-ede552a51118",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\草.fbx": {
+    "time": 1632726030012.5225,
+    "uuid": "92baa543-3fc0-480c-8bf6-57e59d93b54b",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\木头01.fbx": {
+    "time": 1632726029942.474,
+    "uuid": "4fdb6d21-f5ab-4e0d-ab37-1bff4025a824",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）": {
+    "time": 1635493221091.985,
+    "uuid": "3c7aea2b-a2d3-4372-a1cf-09d3825c3c43",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\草地02.fbx": {
+    "time": 1632726030019.4346,
+    "uuid": "b3e59a41-554d-48b3-b59e-885198226761",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\路面03.fbx": {
+    "time": 1632726030025.433,
+    "uuid": "d984297b-6792-4ffa-bc28-698d75663823",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\路面02.fbx": {
+    "time": 1632726030022.433,
+    "uuid": "f00a2bd2-0c6d-4753-886b-05edc277cdde",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）\\仙人掌.fbx": {
+    "time": 1632726030035.4326,
+    "uuid": "cf5f4500-9552-4f5a-aa1b-134b0149bcea",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）\\沙漠02.fbx": {
+    "time": 1632726030052.4302,
+    "uuid": "cf37bf37-6755-41f7-9219-58b322151e04",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）\\木头.fbx": {
+    "time": 1632726030045.4329,
+    "uuid": "d0907cf1-d59f-4027-9216-f583c99c20c8",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）\\石头01.fbx": {
+    "time": 1632726030058.4763,
+    "uuid": "7e8a62fe-165d-4828-b053-a52dd35d1274",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）\\山.fbx": {
+    "time": 1632726030041.4326,
+    "uuid": "d9747491-b502-490b-8416-631e5042c468",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景一（fbx）\\石头.fbx": {
+    "time": 1632726030003.4375,
+    "uuid": "3ca9c3a1-0346-4f26-9f02-df2e6e84dd97",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景二（fbx）": {
+    "time": 1635493221120.3147,
+    "uuid": "a3f902d9-3768-490d-9370-0b4f79f96538",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）\\石头02.fbx": {
+    "time": 1632726030060.4314,
+    "uuid": "edb6664d-6fcc-4405-8e67-763a2450ba77",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）\\石头03.fbx": {
+    "time": 1632726030062.431,
+    "uuid": "411a1329-34ca-4ba0-89f5-bed309ff49e0",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）\\路面02.fbx": {
+    "time": 1632726030066.4314,
+    "uuid": "23dafcec-fc75-40ff-bc9b-eb1137eb3f33",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景二（fbx）\\垃圾桶.fbx": {
+    "time": 1632726030090.4304,
+    "uuid": "ea377b23-7507-49a9-ba15-a290bfebcf64",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景二（fbx）\\地面02.fbx": {
+    "time": 1632726030087.431,
+    "uuid": "6435d038-ba82-4b0d-8d6f-13f2694421a8",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景二（fbx）\\树1.fbx": {
+    "time": 1632726030152.4316,
+    "uuid": "a1885a4c-c45a-4fc8-a3dc-6db0ba9b1a54",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景二（fbx）\\滑板.fbx": {
+    "time": 1632726030202.4355,
+    "uuid": "d777a715-2d2f-40d9-8a85-d4a6b26fbaa9",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景道具": {
+    "time": 1635493221131.5962,
+    "uuid": "c76716f7-0f0a-496e-81e9-e841988be743",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景二（fbx）\\绳子.fbx": {
+    "time": 1632726030227.4355,
+    "uuid": "2c29d8fb-6c47-46f8-b561-2c69478bdbb0",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景二（fbx）\\树2.fbx": {
+    "time": 1632726030178.4353,
+    "uuid": "6f84f929-9e7f-4ce9-be5a-31d96e4642a4",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景二（fbx）\\路面02.fbx": {
+    "time": 1632726030232.4338,
+    "uuid": "e779a3ce-699f-449c-b1f3-cdb18caf1b35",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景道具\\树莓派.fbx": {
+    "time": 1632726030253.4949,
+    "uuid": "42149619-40f9-4540-802c-9df6fc9a7c30",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\people": {
+    "time": 1635493221148.885,
+    "uuid": "802cca43-9e62-4c2e-bffe-64931865d5b3",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景道具\\电视.fbx": {
+    "time": 1632726030258.4324,
+    "uuid": "592b7f43-af6d-4e6a-920a-976877814cf5",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景道具\\机柜01.fbx": {
+    "time": 1632726030238.4314,
+    "uuid": "533ab2f4-6a7f-47c8-bdde-33fa4a4c100c",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景三（fbx）\\骨架.fbx": {
+    "time": 1632726030081.4312,
+    "uuid": "a2d02e8b-d4ac-4a11-8c17-7fdbb8239951",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\fbx打包\\场景道具\\机柜02.fbx": {
+    "time": 1632726030244.431,
+    "uuid": "3230f232-e540-46ba-92fb-50358542dffd",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\people\\Dodging.fbx": {
+    "time": 1632726030275.448,
+    "uuid": "b36cff2f-7a0e-427f-b12d-fc77403613d4",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources": {
+    "time": 1635493221319.6814,
+    "uuid": "ed7e2e99-be93-4f27-b3b9-02ff13834171",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes": {
+    "time": 1635493221174.8848,
+    "uuid": "84bbf112-f277-4bcc-9852-49a988e9c2ce",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\1": {
+    "time": 1635493221173.8948,
+    "uuid": "b1ea02ea-bb09-41dd-a9f5-a318a652bece",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\1\\DownCount1.anim": {
+    "time": 1632726030315.4321,
+    "uuid": "547d2447-1de1-4e15-99be-9df86ce1a832",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\1\\DownCount2.anim": {
+    "time": 1632726030317.4343,
+    "uuid": "f812fbaa-aff5-4314-a00b-31f89d6bbeae",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\1\\DownCount3.anim": {
+    "time": 1632726030318.4316,
+    "uuid": "e6463632-7d41-4f6a-8da2-bf44047b4f60",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\people\\Jump.fbx": {
+    "time": 1632726030284.4326,
+    "uuid": "46747ade-d7e9-4b1c-9c6b-f991a8ef1950",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\1\\GameStart.anim": {
+    "time": 1632726030320.4353,
+    "uuid": "208a5b31-49eb-4918-ae34-2178d297f1ab",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\1\\item.anim": {
+    "time": 1632726030324.4316,
+    "uuid": "579ce857-e957-4636-b059-6fe207a77143",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\2": {
+    "time": 1635493221182.3293,
+    "uuid": "98fad20d-b669-4d5b-bebc-8a761e57f1fa",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\1\\QA.anim": {
+    "time": 1632726030322.4348,
+    "uuid": "53162980-b8da-4acb-894e-b6fd8905c881",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\2\\bagOff.anim": {
+    "time": 1632726030328.431,
+    "uuid": "028b2971-be3f-4759-b944-197d2f3e177f",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\2\\bagOn.anim": {
+    "time": 1632726030330.4312,
+    "uuid": "0eadc3a2-790f-4252-8724-503982fd33b5",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio": {
+    "time": 1635493221185.3296,
+    "uuid": "0cd89b2d-ecdd-45a4-a282-5cd15aed536f",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst": {
+    "time": 1635493221212.8667,
+    "uuid": "43d4efae-bfca-4b9d-94b0-6c6141fe09ce",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Animes\\2\\Fade.anim": {
+    "time": 1632726030326.431,
+    "uuid": "0405e189-82f2-4c6f-9ad9-ae926fa357ed",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\people\\Running.fbx": {
+    "time": 1632726030301.433,
+    "uuid": "ece52a1d-0a19-47c3-b8c0-15b74c313b44",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\people\\Running Slide.fbx": {
+    "time": 1632726030293.4326,
+    "uuid": "decbe160-e2f7-48ef-98d1-4a419088ef09",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\321.mp3": {
+    "time": 1634710422704.4326,
+    "uuid": "e6f82a89-458e-415a-b416-f422d9052060",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\clickbtn.mp3": {
+    "time": 1630494447000,
+    "uuid": "9d27dd2e-c519-4995-a32e-36672952801b",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\active.mp3": {
+    "time": 1634696252000,
+    "uuid": "7ed68a56-c2da-4c7e-b182-1dd216647c64",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\background.wav": {
+    "time": 1630494158000,
+    "uuid": "19086f52-f2a7-4f2f-a414-bea08271d21f",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\go.mp3": {
+    "time": 1630494415000,
+    "uuid": "e62444ae-3cde-480b-a4ba-90c2ff52c6b0",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\fail.wav": {
+    "time": 1630494728000,
+    "uuid": "f0c383b6-3248-4cf7-8970-8692ab7ab0a0",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\erro.wav": {
+    "time": 1630494708000,
+    "uuid": "5df057c9-ec5d-4f30-929a-e0bb95cf3b09",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\gold.wav": {
+    "time": 1630494489000,
+    "uuid": "ffcdb33a-0e24-42cb-a5ae-7a7454c9b29b",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\magic.mp3": {
+    "time": 1630494592000,
+    "uuid": "dc5f18a9-a5d6-4b60-b679-42085d5257e0",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\font": {
+    "time": 1635493221226.319,
+    "uuid": "c48db560-facf-4b48-920d-ef974023042a",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\startBtn.wav": {
+    "time": 1630494338000,
+    "uuid": "51e7ee7d-e3a7-4c45-b9e1-57d67b5ce92d",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\right.wav": {
+    "time": 1630494693000,
+    "uuid": "db6aac51-522b-4174-b617-ca42f7650512",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\audio\\eulerFirst\\win.wav": {
+    "time": 1630494769000,
+    "uuid": "b09fd439-337c-4afa-bbfe-dd7bc3616cdf",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\font\\FZLTCHJW.TTF": {
+    "time": 1632726030356.5442,
+    "uuid": "9a42381d-713a-421b-91bd-1eef7494905a",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Json": {
+    "time": 1635493221230.3508,
+    "uuid": "6e25990b-2efa-425b-bf50-8f4c4e5f08e0",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\font\\fzlthjwgb10.TTF": {
+    "time": 1632726030427.5425,
+    "uuid": "7c217020-a3ad-4139-a22b-468c6447f9a3",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\font\\FZZhengHeiS-R-GB.ttf": {
+    "time": 1632726030379.543,
+    "uuid": "7bf5351f-8559-4ce6-a949-9a3c3bc5e567",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\people": {
+    "time": 1635493221247.3472,
+    "uuid": "b0e16abf-caca-4df0-8e7b-b9cca8ddac2a",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\Json\\Question.json": {
+    "time": 1632726030333.4312,
+    "uuid": "4f722861-e8d4-4e02-8857-8f142a3fb8df",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\新建文件夹\\people\\左右闪避动作.fbx": {
+    "time": 1632726030309.432,
+    "uuid": "f8e98c9b-6aa0-4c09-a40c-7d74e4603877",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\font\\PangMenZhengDaoBiaoTiTi-1.ttf": {
+    "time": 1632726030397.5403,
+    "uuid": "b9a6c9db-c89f-4943-8e1b-dd0988ca13a2",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\people\\Right Strafe (2).fbx": {
+    "time": 1632726030457.542,
+    "uuid": "0d1417fc-5584-4cce-9aff-d0dd809338fd",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs": {
+    "time": 1635493221300.6252,
+    "uuid": "93b278c4-c600-4777-821a-be48fcb0df5c",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block": {
+    "time": 1635493221284.6294,
+    "uuid": "14d153cf-629b-4608-a5c2-1eaf92844415",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\people\\Running.fbx": {
+    "time": 1632726030475.542,
+    "uuid": "829cfbac-f0e8-4439-8f3d-9bcf018ebb70",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\people\\Running Slide.fbx": {
+    "time": 1632726030467.54,
+    "uuid": "cbb2d74a-3916-4c31-95ab-908e441c0fbd",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\100.prefab": {
+    "time": 1632726030481.5518,
+    "uuid": "99d44675-ca6d-4bcd-aa6f-c4f3ae0d2999",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\101.prefab": {
+    "time": 1632726030483.5417,
+    "uuid": "38f21688-0ef8-469a-a23e-ecaac3bd633d",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\102.prefab": {
+    "time": 1632726030486.5398,
+    "uuid": "c1295dcb-d14f-483d-ac1e-ac897b5fdcc7",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\103.prefab": {
+    "time": 1632726030487.5393,
+    "uuid": "19ab80a9-29c9-4eec-b96c-26b83f7068bc",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\people\\Jump.fbx": {
+    "time": 1632726030438.5415,
+    "uuid": "c0e8f39a-bbc5-4215-a211-494aae45fd13",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\people\\Left Strafe (2).fbx": {
+    "time": 1632726030449.5408,
+    "uuid": "1632bfd1-da98-49cc-8004-28a0a878ca48",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\104.prefab": {
+    "time": 1632726030489.5393,
+    "uuid": "b403933c-5934-4eba-a318-cb7c7e30552e",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\200.prefab": {
+    "time": 1632726030491.539,
+    "uuid": "a6632589-df2a-4091-af0f-4253966f0325",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\201.prefab": {
+    "time": 1632726030492.539,
+    "uuid": "bb5ed401-e032-4f27-8851-fb5b97da39bc",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\202.prefab": {
+    "time": 1632726030494.5432,
+    "uuid": "420d9d3d-0667-475a-8b67-d2b892b54877",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\203.prefab": {
+    "time": 1632726030496.5432,
+    "uuid": "76f7bb3f-c064-45c6-a168-69af597c41fc",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\204.prefab": {
+    "time": 1632726030498.5415,
+    "uuid": "34475719-fa27-4f78-ab95-c71db93ff666",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\300.prefab": {
+    "time": 1632726030500.5396,
+    "uuid": "0a85b608-1081-40e4-9b52-e196fa1389a5",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Items": {
+    "time": 1635493221296.0894,
+    "uuid": "e4e1b5ac-0c81-4051-9d5b-c5ea4d415631",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\301.prefab": {
+    "time": 1632726030501.5388,
+    "uuid": "2d3ce4b8-2ecf-4114-8b15-4b2369a81a43",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\302.prefab": {
+    "time": 1632726030503.541,
+    "uuid": "46f9ad4a-db19-4eb2-b6ea-38dfd1c4c9f7",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\303.prefab": {
+    "time": 1632726030504.5393,
+    "uuid": "4c30243f-bcb4-4444-828d-34026334f88c",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Block\\304.prefab": {
+    "time": 1632726030506.5393,
+    "uuid": "54a63fac-be43-4328-a502-55b471f115dd",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Items\\CloudNative.prefab": {
+    "time": 1632726030508.5396,
+    "uuid": "a27578dc-948a-4b74-9a53-d388634cb3d7",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Items\\Coin.prefab": {
+    "time": 1632726030510.5403,
+    "uuid": "08f35c45-5f30-4f03-8604-22bc6815c1c8",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\UI": {
+    "time": 1635493221299.6235,
+    "uuid": "b77217cb-bdbd-44d0-80c3-27b3204a2e5c",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\场景": {
+    "time": 1635493221313.3733,
+    "uuid": "85ec6e96-bccd-427e-a68c-17b3d734a9b1",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Items\\HardWare.prefab": {
+    "time": 1632726030512.541,
+    "uuid": "b2dcdc27-3cf5-480b-b500-f709eca6ced8",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Items\\RaspBarry.prefab": {
+    "time": 1632726030514.5403,
+    "uuid": "395271fc-876a-49b6-a27e-d64c9abbdbb2",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\Items\\VM.prefab": {
+    "time": 1632726030516.539,
+    "uuid": "303d7cbc-897b-4203-8cbb-f12241723978",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\场景\\folder": {
+    "time": 1635493221318.6792,
+    "uuid": "780197b7-c8b9-4a22-8276-7c69c0ae7dc3",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\UI\\Q&A.prefab": {
+    "time": 1632726030520.5403,
+    "uuid": "902e3122-8aea-41ce-a404-833f0dea6ade",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\场景\\0.prefab": {
+    "time": 1635414183180.752,
+    "uuid": "066f12e1-6755-40b2-990a-fc49ca502000",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\场景\\1.prefab": {
+    "time": 1635414263166.8594,
+    "uuid": "eaebd62f-a55d-4b16-8b63-b8942e60a307",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\场景\\2.prefab": {
+    "time": 1635472838061.3423,
+    "uuid": "bcd2f007-563b-4026-857f-9ffd1011be90",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\场景\\folder\\3.prefab": {
+    "time": 1632726030532.5432,
+    "uuid": "d0703f9d-9e20-45d2-9e4a-bb5df24adaf0",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite": {
+    "time": 1635493221566.7224,
+    "uuid": "3ebed93a-aee1-4fcc-b1aa-523061eeee94",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku": {
+    "time": 1635493221357.7024,
+    "uuid": "7da4043e-c9d2-4288-b567-86154c2eed30",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图": {
+    "time": 1635493221440.7822,
+    "uuid": "033c1223-5c12-41ba-99f3-62a382020f33",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\三个原画场景": {
+    "time": 1635493221449.7825,
+    "uuid": "253bbe08-30b5-4290-8e48-148a4d902aa0",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\三个场景盒": {
+    "time": 1635493221460.7695,
+    "uuid": "1e95040f-ece3-4d59-824e-19533ee87583",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\密码盒1切图和规范": {
+    "time": 1635493221476.0522,
+    "uuid": "9cda4f09-fff4-4c86-b45a-d55d3b6c2472",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\新增ui": {
+    "time": 1635493221492.051,
+    "uuid": "f70becd9-7d08-43ef-8e47-12c5cc5427ff",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\第二关": {
+    "time": 1635493221510.1438,
+    "uuid": "35f47b89-e692-4ee2-be4b-e5cf4edb5f12",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图": {
+    "time": 1635493221565.723,
+    "uuid": "b7e34572-8006-423c-8b71-bfa0f656001d",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）": {
+    "time": 1635493221587.3113,
+    "uuid": "cd05a0f5-1981-4a02-8270-5f21699073c1",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scenes": {
+    "time": 1635493221598.381,
+    "uuid": "3e32a772-c5fe-4aa3-9d6b-f1bab753a7fd",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\场景\\石头.prefab": {
+    "time": 1632726030536.54,
+    "uuid": "58be3c98-4060-4ef8-8223-1451410473e0",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\场景\\folder\\4.prefab": {
+    "time": 1632726030534.5427,
+    "uuid": "7500b919-c529-4eb8-9d57-32b50a12dd32",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\prefabs\\场景\\草.prefab": {
+    "time": 1632726030538.5415,
+    "uuid": "c5fdc91b-f418-47f8-9ab4-0529bd5b7e54",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts": {
+    "time": 1635493221682.1106,
+    "uuid": "8ec2a75b-5284-48b7-80ea-a9cc8e51fb15",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\.vs": {
+    "time": 1635493221615.1587,
+    "uuid": "ba5bc360-7694-4cb3-9eb6-78b45cd76cc5",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scenes\\parkour.scene": {
+    "time": 1634716349796.656,
+    "uuid": "e18e2d4f-7326-44f0-acb1-2d59e9898b1d",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\.vs\\scripts": {
+    "time": 1635493221617.159,
+    "uuid": "84fe4f03-ce3d-4502-8fcd-498910cf020d",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\.vs\\scripts\\v16": {
+    "time": 1635493221620.159,
+    "uuid": "8f1c845a-bc52-4e38-818e-5aca1f5d12a5",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scenes\\startUI.scene": {
+    "time": 1632726031263.5396,
+    "uuid": "be0af64d-0fc8-4e51-bd8d-dedde809f21c",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\Adaptor": {
+    "time": 1635493221629.7566,
+    "uuid": "27de8fb5-ee84-4e80-be1d-35f7042de5ab",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\Adaptor\\BackgroundAdapter.ts": {
+    "time": 1632726031277.538,
+    "uuid": "78d420a3-4d02-4166-ba7a-594cec9d2e97",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\Adaptor\\CloseToBorderComponent.ts": {
+    "time": 1632726031278.5386,
+    "uuid": "cf3e291a-e282-43f3-aa30-f84642dd466c",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scenes\\Test.scene": {
+    "time": 1632726031242.54,
+    "uuid": "9128899f-84e1-4c2b-96b0-4c7c169e684c",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scenes\\puzzle.scene": {
+    "time": 1632726031258.5393,
+    "uuid": "a0175b97-220e-4612-be04-24c2f53b4971",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\.vs\\ProjectSettings.json": {
+    "time": 1632726031267.5425,
+    "uuid": "64c07e81-7db3-4f7a-9a32-771be4c85a24",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\global": {
+    "time": 1635493221632.7522,
+    "uuid": "d457e6ff-4bc7-4ffb-b43a-70110cfcea90",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour": {
+    "time": 1635493221651.9119,
+    "uuid": "56af1cee-456c-44a3-9526-e9608b1d6ae6",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\Adaptor\\ContentAdapter.ts": {
+    "time": 1632726031280.5398,
+    "uuid": "2d59fbf7-d264-44d0-aea7-ff3dac8a4eff",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\Adaptor\\MultiResoultionCompat.ts": {
+    "time": 1632726031282.5396,
+    "uuid": "12e2685c-e4b2-487f-94c3-cca0dde0dee7",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\global\\GlobalFunction.ts": {
+    "time": 1634716191752.0312,
+    "uuid": "fde8057d-200c-4cee-b684-8de9929273ec",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour\\AudioManager.ts": {
+    "time": 1635473008680.0898,
+    "uuid": "1cf16dd4-62b2-4bc6-ba27-3951d5b732f6",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour\\BlockPoolControl.ts": {
+    "time": 1635474534506.473,
+    "uuid": "1d8ebcc9-f0f7-4378-9c15-a8a0d5b5c54b",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour\\CameraControl.ts": {
+    "time": 1634696391434.8855,
+    "uuid": "a991b156-fad9-4c2f-bc6e-da4015cbd34c",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour\\GameManager.ts": {
+    "time": 1635479285526.685,
+    "uuid": "d68c607a-0f19-415a-a910-8c105908fe9f",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour\\GameRoot.ts": {
+    "time": 1634605122188.5576,
+    "uuid": "b7cd769e-5583-4260-8d91-3ac816bdf1ab",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour\\Introduce.ts": {
+    "time": 1632726031292.5415,
+    "uuid": "ee6cac64-bfb1-403f-9eb3-138c815b6b09",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle": {
+    "time": 1635493221681.1104,
+    "uuid": "3c8c0881-3851-4f1c-ba20-bc1c1d3b91b2",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour\\ItemS.ts": {
+    "time": 1632726031294.5398,
+    "uuid": "1a196b91-f328-43e5-8821-bd01f19c59ba",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour\\PlayerControl.ts": {
+    "time": 1635479320907.542,
+    "uuid": "90f37f52-794f-4150-a7fd-ab4d15779704",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\parkour\\Q&A.ts": {
+    "time": 1634713431402.6907,
+    "uuid": "23b0d6ac-029b-44d0-8a4b-67ed50dc289f",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\BagManager.ts": {
+    "time": 1632726031301.5413,
+    "uuid": "29f1d2de-e444-42dd-9232-1429286ce63f",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\Box1.ts": {
+    "time": 1632726031303.5393,
+    "uuid": "d948cd0f-21e7-4486-86c2-90fc81161cf4",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\Box2.ts": {
+    "time": 1632726031305.5398,
+    "uuid": "dde5582a-6a64-44b3-b4c8-b0b46107b994",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\DialogManager.ts": {
+    "time": 1632726031306.5398,
+    "uuid": "90c6c840-ea3f-4cb0-8e66-20c484792690",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\Drag.ts": {
+    "time": 1632726031308.5405,
+    "uuid": "10b1f528-0e72-48e6-86e1-8c3b19b6e1b0",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\EventManager.ts": {
+    "time": 1632726031310.54,
+    "uuid": "3555543d-d0d8-4f09-beed-8218d7b36c70",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\Fade.ts": {
+    "time": 1632726031312.5413,
+    "uuid": "4d3d6c6d-168f-4ab2-9eaa-ff80b46b4a0a",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\GameManager2.ts": {
+    "time": 1632726031313.5393,
+    "uuid": "f36fa8a7-1775-4b00-a812-6bf6a62f32fb",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\ItemStatus.ts": {
+    "time": 1632726031315.54,
+    "uuid": "067c709e-fc07-4f66-8a90-a9c459fdf943",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\PlayerPuzzleControl.ts": {
+    "time": 1632726031317.541,
+    "uuid": "c8d3ee27-126c-4393-ac6b-5d892c92ae8b",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\Q&A2.ts": {
+    "time": 1632726031319.5396,
+    "uuid": "7d197322-878b-4b71-8326-65424f79c593",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\start": {
+    "time": 1635493221684.1106,
+    "uuid": "8cfd5d35-8225-45da-b1a5-64d5b284492d",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\Sudoku.ts": {
+    "time": 1632726031320.5398,
+    "uuid": "a7d87f74-3a8a-483f-990c-e9419eadfded",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\typescript-001.ts": {
+    "time": 1632726031323.5393,
+    "uuid": "c4fbeda1-86e6-4751-8b9e-6c0423853042",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\puzzle\\UIManager.ts": {
+    "time": 1632726031322.5396,
+    "uuid": "5c1c1f50-5342-47bc-aba2-6b6d37c8a947",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\start\\StartSceneOption.ts": {
+    "time": 1632726031326.542,
+    "uuid": "6e3014d3-39bc-46ab-a92d-7d8f16be8e27",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\.vs\\VSWorkspaceState.json": {
+    "time": 1632726031269.5398,
+    "uuid": "323d35b1-b20e-4d5f-88f0-8a84054caff5",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\res\\model\\coin\\coni_paint.png": {
+    "time": 1632726029864.4792,
+    "uuid": "d71b4b9a-2e74-4095-a9ba-0c99072e03b9",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\3.png": {
+    "time": 1632726030548.5425,
+    "uuid": "3b39f3c6-b29a-4958-9682-0ac412749036",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\1.png": {
+    "time": 1632726030544.5432,
+    "uuid": "35bff74d-4183-45da-9de7-8444d8fb7011",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\2.png": {
+    "time": 1632726030546.5437,
+    "uuid": "492261f6-47f7-4229-8628-b6889d7ee04a",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\beiban.png": {
+    "time": 1632726030541.546,
+    "uuid": "ca50ba59-da79-42ce-b59b-9699bae4e4b6",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\4.png": {
+    "time": 1632726030551.551,
+    "uuid": "63590852-7b0e-46ab-8145-04c0600e6546",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\5.png": {
+    "time": 1632726030553.5515,
+    "uuid": "92a2ea36-9924-4440-9ad4-dae8dc394bf1",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\6.png": {
+    "time": 1632726030555.5396,
+    "uuid": "d5ed45fd-8377-46a1-9201-4937eecdcdd3",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\8.png": {
+    "time": 1632726030558.5435,
+    "uuid": "cb1ff466-9b40-4945-8fee-c8e0a79e37c2",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\7.png": {
+    "time": 1632726030556.5393,
+    "uuid": "17dc5412-7b13-4bb0-957e-9fdb991e3cb4",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\9.png": {
+    "time": 1632726030560.5854,
+    "uuid": "871888b8-17e4-4c33-86ac-49a7504e0d98",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\数 独 解 密.png": {
+    "time": 1632726030562.5842,
+    "uuid": "a04f0d18-fd81-4532-a02e-d57716fe15d4",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\game start（未按）.png": {
+    "time": 1632726030612.5466,
+    "uuid": "8a2a340f-f715-440b-8660-abcb92a3e499",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\game start（按下）.png": {
+    "time": 1632726030610.5432,
+    "uuid": "4e6bfbd4-a2d0-4734-a90c-d5495017a1b4",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\关闭icon（未按）.png": {
+    "time": 1632726030631.5437,
+    "uuid": "0eb459e0-2bd6-418e-b22c-09247a6c7690",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\关闭icon（按下）.png": {
+    "time": 1632726030629.5432,
+    "uuid": "711320a2-7d48-4a74-b81f-9c9a553e68a0",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\回到上一个场景icon（按下）.png": {
+    "time": 1632726030633.5422,
+    "uuid": "eec19f27-aa15-4a0b-8bbe-9e8fd890d941",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\互动内容蒙板.png": {
+    "time": 1632726030626.5447,
+    "uuid": "2f11873f-abd0-4039-9b40-c97309cf87c2",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\回到上一个场景icon（未按）.png": {
+    "time": 1632726030636.541,
+    "uuid": "03b94137-cfda-4a53-9b8d-2d45a8108339",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\sudoku\\数独解密背景.jpg": {
+    "time": 1632726030602.5432,
+    "uuid": "7e3504a2-eb4c-494e-a92f-aa357a34b231",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\场景2.jpg": {
+    "time": 1632726030668.5442,
+    "uuid": "54bd0f92-6045-4a4e-9878-28c6353fd382",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\场景1.jpg": {
+    "time": 1632726030650.545,
+    "uuid": "db0b8c56-63fd-4e83-af20-fe6a11cb88a4",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\场景3.jpg": {
+    "time": 1632726030679.5464,
+    "uuid": "827f7247-0f3e-46ef-a876-a6f348a1a5a8",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\对话框.png": {
+    "time": 1632726030683.545,
+    "uuid": "0a228a44-8a68-40e4-aac1-d9636a1f877a",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\小岛迷踪.png": {
+    "time": 1632726030686.5425,
+    "uuid": "14784529-df58-4952-a294-af8de32b9837",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\我：.png": {
+    "time": 1632726030689.5425,
+    "uuid": "cafba9de-8bd6-491a-91a0-e25b5939f154",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\提示icon（按下）.png": {
+    "time": 1632726030696.5405,
+    "uuid": "e00e2a43-ee43-4e4e-aad8-7ff27dcfa951",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\提示icon（未按）.png": {
+    "time": 1632726030698.5396,
+    "uuid": "791eb423-68e4-4e21-9e80-fc45fcd97177",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\提示_物品_互动框.png": {
+    "time": 1632726030693.54,
+    "uuid": "c5c1e0e9-20eb-410a-933a-6466d12b6b87",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\物品栏.png": {
+    "time": 1632726030874.5405,
+    "uuid": "6a47e012-85d8-43a3-bcba-17e16aee6115",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\提问框.png": {
+    "time": 1632726030703.5425,
+    "uuid": "9fb309ea-61bc-4604-bf08-5c38909c414a",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\物品框.png": {
+    "time": 1632726030877.5432,
+    "uuid": "8fbb2f94-8c6e-443d-8bfc-194134f7fb25",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\神秘人：.png": {
+    "time": 1632726030883.5398,
+    "uuid": "d7d5914b-d8f8-4c7e-bb70-57d3d485cf4e",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\神秘人剪影.png": {
+    "time": 1632726030881.5432,
+    "uuid": "b8990453-8173-4341-a003-753461e06941",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\插画背景参考1.jpg": {
+    "time": 1632726030782.5686,
+    "uuid": "1181ebee-9445-4cf7-ae20-b9141931fe36",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\返回大世界icon（按下）.png": {
+    "time": 1632726030885.5408,
+    "uuid": "c8615699-1cd4-4a51-9f03-f161f1fe9769",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\返回大世界icon（未按）.png": {
+    "time": 1632726030887.5398,
+    "uuid": "dc788e22-f4be-42c4-9056-7224f07e5684",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\返回游戏标题（按下）.png": {
+    "time": 1632726030889.5393,
+    "uuid": "5701ab7a-6f37-42af-8552-990592720057",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\返回游戏标题（未按）.png": {
+    "time": 1632726030890.5393,
+    "uuid": "8d30de8b-234e-4272-acbf-3f48b00a7b5f",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\选择框（未选中）.png": {
+    "time": 1632726030892.5396,
+    "uuid": "12ccb7d6-b465-4a91-bc64-1e3fac00dbda",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\选择框（选中）.png": {
+    "time": 1632726030894.5398,
+    "uuid": "27dfce7e-c29e-4ed3-9469-8555cdc098fd",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\选择框（选错）.png": {
+    "time": 1632726030895.5396,
+    "uuid": "8882654e-a9b6-45b0-869e-c94c81141eaf",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\ui切图\\插画背景参考2.jpg": {
+    "time": 1632726030871.5437,
+    "uuid": "39330004-517a-4372-895d-c613484a0a7d",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\三个原画场景\\跑酷游戏地图1.jpg": {
+    "time": 1632726030902.579,
+    "uuid": "f29aebae-21ce-48fd-8198-f029d6d1699f",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\三个原画场景\\跑酷游戏地图2.jpg": {
+    "time": 1632726030909.5422,
+    "uuid": "057667d8-daa9-4f52-8267-ac8cb62f4c0d",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\三个原画场景\\跑酷游戏地图3.jpg": {
+    "time": 1632726030914.5774,
+    "uuid": "47fd186a-4f1b-4f78-9977-55508b4b6c27",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\密码盒1切图和规范\\三角形.png": {
+    "time": 1632726030966.546,
+    "uuid": "6ab4939b-fac1-4e5f-a18c-813f3a2addd2",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\密码盒1切图和规范\\六角星.png": {
+    "time": 1632726030969.5469,
+    "uuid": "4483e24e-4b79-4880-b0c9-edde3d505ef8",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\密码盒1切图和规范\\圆形.png": {
+    "time": 1632726030972.5415,
+    "uuid": "ed896437-d70e-4980-b868-724ece1722c0",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\密码盒1切图和规范\\密码盒1背景.png": {
+    "time": 1632726030979.5396,
+    "uuid": "7e726b7e-b4e6-4ba2-b8a1-af470af338f7",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\三个场景盒\\场景一盒子.png": {
+    "time": 1632726030929.5408,
+    "uuid": "3c6302ee-b9c1-4101-9ad5-d6db31c5ad8a",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\三个场景盒\\场景三盒子.png": {
+    "time": 1632726030948.541,
+    "uuid": "b09c22e2-1947-482a-8460-677365d0a48a",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\密码盒1切图和规范\\方形.png": {
+    "time": 1632726030992.5398,
+    "uuid": "9e0a21be-4bb4-4c62-9ea8-3a6fe9b295d2",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\新增ui\\d28ac70e57e2673fcb82d07b160dac0.jpg": {
+    "time": 1632726030995.54,
+    "uuid": "d0940ea4-4ea1-489c-b8ba-e9ed13f3fc7b",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\三个场景盒\\场景二盒子.png": {
+    "time": 1632726030962.5408,
+    "uuid": "7bf74597-8497-4b70-a31e-9eb7919f72b1",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\密码盒1切图和规范\\密码盒1预览图.jpg": {
+    "time": 1632726030990.5452,
+    "uuid": "88f3b4b8-7187-4a95-a2b5-40c9a9394656",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\新增ui\\关闭icon.png": {
+    "time": 1632726031008.5425,
+    "uuid": "b1e627c1-7e15-4fa6-adb8-74398c5e261f",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\新增ui\\游戏开始icon.png": {
+    "time": 1632726031011.5413,
+    "uuid": "331f6edf-7880-465b-9cc8-563350bdbbad",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\新增ui\\game star.png": {
+    "time": 1632726031006.542,
+    "uuid": "54ceeeaf-d063-46a0-981b-b505efbf6be8",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\新增ui\\游戏说明icon.png": {
+    "time": 1632726031034.5403,
+    "uuid": "bd238aa8-ddbd-49ce-ab08-85bdab75f88d",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\第二关\\沙滩球.png": {
+    "time": 1632726031052.5474,
+    "uuid": "45bd224e-6135-49b6-a5a8-813cf4ddebe9",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\第二关\\玩具桶.png": {
+    "time": 1632726031055.5422,
+    "uuid": "f4f44bf4-5bdb-4d51-bef7-cb6ab5f730fb",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\新增ui\\游戏说明.png": {
+    "time": 1632726031031.546,
+    "uuid": "883998d2-6218-42a0-9347-a896a3515f34",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\第二关\\网球网.png": {
+    "time": 1632726031058.5393,
+    "uuid": "81ca7b09-1b19-47d3-b3e1-01c84a100aad",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\第二关\\贝壳.png": {
+    "time": 1632726031078.5403,
+    "uuid": "81f5bf8b-12b7-4355-a9c4-920f6e8de078",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\第二关\\前景.png": {
+    "time": 1632726031049.5457,
+    "uuid": "751d11ae-6578-4f77-88c4-78cbd8a45735",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\第二关\\背景图.png": {
+    "time": 1632726031075.5425,
+    "uuid": "8dc5ede2-5b7a-446c-96ee-ab57adf34d0e",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\coni_paint.png": {
+    "time": 1632726031082.5408,
+    "uuid": "18bec5f6-4501-41bc-847c-0cae1e631572",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\倒计时数字1.png": {
+    "time": 1632726031090.5396,
+    "uuid": "6487c71e-f9a1-4977-bc25-31ee0e45c7b5",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\再来一次icon.png": {
+    "time": 1632726031109.542,
+    "uuid": "fe891881-fa0c-42c0-bc9e-984b708f35d3",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\倒计时数字2.png": {
+    "time": 1632726031097.5415,
+    "uuid": "612ae3b8-d367-40f6-87de-1adce07a4634",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\倒计时数字3.png": {
+    "time": 1632726031105.5464,
+    "uuid": "113318c6-bfcc-4d8f-a065-d7ea68612cd3",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\取消icon.png": {
+    "time": 1632726031112.5447,
+    "uuid": "ead0d597-e5e0-4320-a85c-ff3b703b141d",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\回到大世界icon.png": {
+    "time": 1632726031115.5508,
+    "uuid": "7f67ed3d-f604-4663-9fb2-aae349ae6fc2",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\回答问题背景框.png": {
+    "time": 1632726031138.542,
+    "uuid": "770c9e33-2a24-4c10-9f32-571326c1ead4",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\地图2背景.png": {
+    "time": 1632726031166.5432,
+    "uuid": "bacdd9c4-9c7d-4216-bb1f-8d9938b51c75",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\地图1背景.png": {
+    "time": 1632726031152.5408,
+    "uuid": "6bea9b93-02ab-4b94-8a16-51dc930d631a",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\地图3背景.png": {
+    "time": 1632726031178.539,
+    "uuid": "9364c25f-6d48-4345-8da5-98fe3e2bdc25",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\未选择框.png": {
+    "time": 1632726031193.5393,
+    "uuid": "f92e1711-1d95-402d-aeb2-06781069f98b",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\放弃回答icon.png": {
+    "time": 1632726031189.5435,
+    "uuid": "d1000e5d-8fcc-4542-aa11-44343dbab879",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\暂停icon.png": {
+    "time": 1632726031191.5398,
+    "uuid": "6cc8f045-f573-4465-94a2-a78306174078",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\播放按钮.png": {
+    "time": 1632726031186.5435,
+    "uuid": "95066a50-8b0d-41ac-8040-7bd64b23667e",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\游戏失败框.png": {
+    "time": 1632726031200.5425,
+    "uuid": "47d9cb2f-1362-4440-b151-302126f8dacc",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\选择正确框.png": {
+    "time": 1632726031213.5425,
+    "uuid": "36bac640-7df9-4e5d-9d97-ca859ffca4dd",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\积分框.png": {
+    "time": 1632726031211.5415,
+    "uuid": "34d4b25e-e5d5-439e-b651-295bfeca9fcc",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\选择错误框.png": {
+    "time": 1632726031214.5417,
+    "uuid": "7ea817cc-9703-4490-b868-d37e0e24c721",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\金币.png": {
+    "time": 1632726031217.5425,
+    "uuid": "76d8e461-2380-4efe-8c83-2374cd17f588",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\剪刀.png": {
+    "time": 1632726031223.5398,
+    "uuid": "f72b1dd6-34c9-4ba0-b890-8a096bd576e6",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\8号球.png": {
+    "time": 1632726031222.5396,
+    "uuid": "e5f9feb3-2bca-4de3-bb75-06e7da67ac8a",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\带圈木框.png": {
+    "time": 1632726031227.5396,
+    "uuid": "abaabb01-2bff-41eb-9e51-d4561a174d89",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\十枚硬币.png": {
+    "time": 1632726031225.5393,
+    "uuid": "2c9e229f-f4be-4846-8600-c4b2023bb088",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\跑酷游戏ui切图\\游戏通关框.png": {
+    "time": 1632726031208.5393,
+    "uuid": "028fb417-8473-4ad9-950f-f5e74427bfb4",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\盐.png": {
+    "time": 1632726031230.5393,
+    "uuid": "035f9a74-bcc0-483a-869b-27af1ad34324",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\蜂蜜.png": {
+    "time": 1632726031237.5403,
+    "uuid": "f232a890-c595-457f-a04b-7cd178149401",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\捕鱼网.png": {
+    "time": 1632726031228.5393,
+    "uuid": "6e190c89-ca3e-4019-aac6-21f4ebe8b23d",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\网.png": {
+    "time": 1632726031235.5408,
+    "uuid": "28df9f53-8aad-47f6-bf41-cbf90f082f9f",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\糖.png": {
+    "time": 1632726031232.5422,
+    "uuid": "ffded900-21f1-4908-b28d-a0ae8382c4ef",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\.vs\\slnx.sqlite": {
+    "time": 1632726031274.5393,
+    "uuid": "9fa2b82a-05b3-4c8d-b90a-cd9fc71174d9",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\scripts\\.vs\\scripts\\v16\\.suo": {
+    "time": 1632726031272.539,
+    "uuid": "4876575a-3d6b-48e9-95fe-c82649871304",
+    "missing": false
+  },
+  "C:\\eulerland game\\EulerLand\\assets\\resources\\sprite\\道具png（第一部分）\\铲子.png": {
+    "time": 1632726031239.5396,
+    "uuid": "8c58c44e-8297-4d9f-ae16-01315505f3f3",
+    "missing": false
   }
 }

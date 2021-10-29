@@ -337,9 +337,8 @@ export class PlayerControl extends Component {
     {
         console.log(this.node.position.z);
         if (this.phase != 3) {
-            this.runSpeed = 35
-            // if (this.node.position.z < 6800) this.runSpeed = 20 + this.node.position.z * 5 / 3400;
-            // else this.runSpeed = 30;
+            if (this.node.position.z < 6800) this.runSpeed = 20 + this.node.position.z * 5 / 3400;
+            else this.runSpeed = 30;
         }
         if (this.node.position.z > 2400 && this.phase == 0) {
             this.phase = 1;
@@ -355,7 +354,7 @@ export class PlayerControl extends Component {
             this.bg2.active = false;
             this.bg3.active = true;
         }
-        if (this.node.position.z > 5100 && this.phase == 2) {
+        if (this.node.position.z > 5050 && this.phase == 2) {
             this.phase = 3;
             console.log(this.gameManager.barRoot.children);
             

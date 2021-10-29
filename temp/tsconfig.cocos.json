@@ -6,15 +6,15 @@
     "strict": true,
     "types": [
       "./temp/declarations/jsb",
-      "./temp/declarations/cc.env",
-      "./temp/declarations/cc"
+      "./temp/declarations/cc",
+      "./temp/declarations/cc.env"
     ],
     "paths": {
       "db://internal/*": [
         "C:\\CocosDashboard_1.0.20\\resources\\.editors\\Creator\\3.1.1\\resources\\resources\\3d\\engine\\editor\\assets\\*"
       ],
       "db://assets/*": [
-        "C:\\Users\\86152\\Desktop\\EulerLand\\assets\\*"
+        "C:\\eulerland game\\EulerLand\\assets\\*"
       ]
     },
     "experimentalDecorators": true,

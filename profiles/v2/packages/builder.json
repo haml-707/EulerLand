@@ -1,40 +1,40 @@
 {
   "__version__": "1.2.8",
   "common": {
-    "outputName": "wechatgame",
+    "outputName": "web-mobile",
     "mainBundleCompressionType": "merge_dep",
-    "platform": "wechatgame",
+    "platform": "web-mobile",
     "scenes": [
       {
         "url": "db://assets/scenes/parkour.scene",
         "uuid": "e18e2d4f-7326-44f0-acb1-2d59e9898b1d",
         "inBundle": false
       }
-    ]
+    ],
+    "experimentalEraseModules": true
   },
   "BuildTaskManager": {
     "taskMap": {
-      "1635332701082": {
-        "id": "1635332701082",
+      "1635495184054": {
+        "id": "1635495184054",
         "progress": 1,
         "state": "success",
-        "message": "2021-10-28 09:41 Build success in 8346 ms!",
+        "message": "2021-10-29 16:14 Build success in 78808 ms!",
         "options": {
           "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
             "cocos-service": {
               "configID": "3b4e13",
               "services": []
-            },
-            "wechatgame": {
-              "startSceneAssetBundle": false,
-              "orientation": "portrait",
-              "appid": "wx223ef841448136a7",
-              "separateEngine": true,
-              "wasm": "js"
             }
           },
           "name": "EulerLand",
-          "platform": "wechatgame",
+          "platform": "web-mobile",
           "buildPath": "project://build",
           "debug": false,
           "md5Cache": false,
@@ -43,7 +43,7 @@
           "mainBundleCompressionType": "merge_dep",
           "mainBundleIsRemote": false,
           "mergeStartScene": false,
-          "experimentalEraseModules": false,
+          "experimentalEraseModules": true,
           "compressTexture": true,
           "packAutoAtlas": true,
           "startScene": "e18e2d4f-7326-44f0-acb1-2d59e9898b1d",
@@ -54,9 +54,9 @@
               "inBundle": false
             }
           ],
-          "outputName": "wechatgame"
+          "outputName": "web-mobile"
         },
-        "time": "2021-10-28 09:41",
+        "time": "2021-10-29 16:13",
         "dirty": false
       }
     }

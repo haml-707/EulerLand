@@ -7,6 +7,10 @@
     "wechatgame": {
       "configID": "3b4e13",
       "services": []
+    },
+    "web-mobile": {
+      "configID": "3b4e13",
+      "services": []
     }
   },
   "builder-options": {

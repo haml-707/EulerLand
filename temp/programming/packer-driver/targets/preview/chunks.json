@@ -4,56 +4,56 @@
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/Adaptor/BackgroundAdapter.js",
-    "mTimestamp": 1634885238362
+    "mTimestamp": 1635494908513
   },
   "assets/scripts/Adaptor/CloseToBorderComponent.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/Adaptor/CloseToBorderComponent.js",
-    "mTimestamp": 1634885238394
+    "mTimestamp": 1635494908595
   },
   "assets/scripts/Adaptor/ContentAdapter.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/Adaptor/ContentAdapter.js",
-    "mTimestamp": 1634885238419
+    "mTimestamp": 1635494908620
   },
   "assets/scripts/Adaptor/MultiResoultionCompat.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/Adaptor/MultiResoultionCompat.js",
-    "mTimestamp": 1634885238450
+    "mTimestamp": 1635494908737
   },
   "assets/scripts/parkour/Introduce.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/parkour/Introduce.js",
-    "mTimestamp": 1634885238895
+    "mTimestamp": 1635494908955
   },
   "assets/scripts/parkour/ItemS.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/parkour/ItemS.js",
-    "mTimestamp": 1634885238755
+    "mTimestamp": 1635494908941
   },
   "assets/scripts/puzzle/Box1.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/puzzle/Box1.js",
-    "mTimestamp": 1634885238980
+    "mTimestamp": 1635494909197
   },
   "assets/scripts/puzzle/Box2.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/puzzle/Box2.js",
-    "mTimestamp": 1634885239088
+    "mTimestamp": 1635494909232
   },
   "assets/scripts/puzzle/BagManager.js": {
     "imports": {
@@ -63,7 +63,7 @@
       "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
     },
     "physicalLocation": "fs/0/assets/scripts/puzzle/BagManager.js",
-    "mTimestamp": 1634885239059
+    "mTimestamp": 1635494909165
   },
   "assets/scripts/puzzle/EventManager.js": {
     "imports": {
@@ -71,28 +71,28 @@
       "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
     },
     "physicalLocation": "fs/0/assets/scripts/puzzle/EventManager.js",
-    "mTimestamp": 1634885239166
+    "mTimestamp": 1635494909396
   },
   "assets/scripts/puzzle/Drag.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/puzzle/Drag.js",
-    "mTimestamp": 1634885239218
+    "mTimestamp": 1635494909343
   },
   "assets/scripts/puzzle/DialogManager.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/puzzle/DialogManager.js",
-    "mTimestamp": 1634885239116
+    "mTimestamp": 1635494909319
   },
   "assets/scripts/puzzle/Fade.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/puzzle/Fade.js",
-    "mTimestamp": 1634885239191
+    "mTimestamp": 1635494909420
   },
   "assets/scripts/puzzle/GameManager2.js": {
     "imports": {
@@ -101,7 +101,7 @@
       "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
     },
     "physicalLocation": "fs/0/assets/scripts/puzzle/GameManager2.js",
-    "mTimestamp": 1634885239256
+    "mTimestamp": 1635494909459
   },
   "assets/scripts/puzzle/ItemStatus.js": {
     "imports": {
@@ -110,21 +110,21 @@
       "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
     },
     "physicalLocation": "fs/0/assets/scripts/puzzle/ItemStatus.js",
-    "mTimestamp": 1634885239408
+    "mTimestamp": 1635494909498
   },
   "assets/scripts/puzzle/PlayerPuzzleControl.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/puzzle/PlayerPuzzleControl.js",
-    "mTimestamp": 1634885239278
+    "mTimestamp": 1635494909523
   },
   "assets/scripts/puzzle/Sudoku.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/puzzle/Sudoku.js",
-    "mTimestamp": 1634885239469
+    "mTimestamp": 1635494909613
   },
   "assets/scripts/puzzle/Q&A2.js": {
     "imports": {
@@ -133,7 +133,7 @@
       "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
     },
     "physicalLocation": "fs/0/assets/scripts/puzzle/Q&A2.js",
-    "mTimestamp": 1634885239321
+    "mTimestamp": 1635494909573
   },
   "assets/scripts/puzzle/UIManager.js": {
     "imports": {
@@ -144,21 +144,21 @@
       "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
     },
     "physicalLocation": "fs/0/assets/scripts/puzzle/UIManager.js",
-    "mTimestamp": 1634885239363
+    "mTimestamp": 1635494909726
   },
   "assets/scripts/puzzle/typescript-001.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/puzzle/typescript-001.js",
-    "mTimestamp": 1634885239509
+    "mTimestamp": 1635494909679
   },
   "assets/scripts/start/StartSceneOption.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/start/StartSceneOption.js",
-    "mTimestamp": 1634885239481
+    "mTimestamp": 1635494909690
   },
   "assets/scripts/parkour/GameRoot.js": {
     "imports": {
@@ -167,119 +167,119 @@
       "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
     },
     "physicalLocation": "fs/0/assets/scripts/parkour/GameRoot.js",
-    "mTimestamp": 1634885238618
+    "mTimestamp": 1635494908910
   },
   "assets/scripts/parkour/CameraControl.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/parkour/CameraControl.js",
-    "mTimestamp": 1634885238592
+    "mTimestamp": 1635494908886
   },
   "assets/scripts/parkour/Q&A.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js",
       "./GameManager": "assets/scripts/parkour/GameManager.js",
       "./PlayerControl": "assets/scripts/parkour/PlayerControl.js",
-      "../global/GlobalFunction": "assets/scripts/global/GlobalFunction.js",
       "./AudioManager": "assets/scripts/parkour/AudioManager.js",
+      "../global/GlobalFunction": "assets/scripts/global/GlobalFunction.js",
       "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
     },
     "physicalLocation": "fs/0/assets/scripts/parkour/Q&A.js",
-    "mTimestamp": 1634885238948
+    "mTimestamp": 1635494909290
   },
   "assets/scripts/global/GlobalFunction.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/global/GlobalFunction.js",
-    "mTimestamp": 1634885238473
-  },
-  "quick-pack:/cce/internal/x/cc.js": {
-    "imports": {},
-    "physicalLocation": "cce/internal/x/cc.js",
-    "mTimestamp": 1635470239765,
-    "isEntry": true,
-    "exposeAs": "cce:/internal/x/cc"
-  },
-  "quick-pack:/cce/internal/code-quality/cr.js": {
-    "imports": {},
-    "physicalLocation": "cce/internal/code-quality/cr.js",
-    "mTimestamp": 1635470239809
+    "mTimestamp": 1635494908541
   },
   "assets/scripts/parkour/AudioManager.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/parkour/AudioManager.js",
-    "mTimestamp": 1635473025552
+    "mTimestamp": 1635494908559
   },
   "assets/scripts/parkour/BlockPoolControl.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js",
-      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
-      "./PlayerControl": "assets/scripts/parkour/PlayerControl.js"
+      "./PlayerControl": "assets/scripts/parkour/PlayerControl.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
     },
     "physicalLocation": "fs/0/assets/scripts/parkour/BlockPoolControl.js",
-    "mTimestamp": 1635474611880
-  },
-  "quick-pack:/cce/internal/x/prerequisite-imports.js": {
-    "imports": {
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/BackgroundAdapter.ts": "assets/scripts/Adaptor/BackgroundAdapter.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/CloseToBorderComponent.ts": "assets/scripts/Adaptor/CloseToBorderComponent.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/ContentAdapter.ts": "assets/scripts/Adaptor/ContentAdapter.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/global/GlobalFunction.ts": "assets/scripts/global/GlobalFunction.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/Adaptor/MultiResoultionCompat.ts": "assets/scripts/Adaptor/MultiResoultionCompat.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/AudioManager.ts": "assets/scripts/parkour/AudioManager.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/BlockPoolControl.ts": "assets/scripts/parkour/BlockPoolControl.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/CameraControl.ts": "assets/scripts/parkour/CameraControl.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/GameRoot.ts": "assets/scripts/parkour/GameRoot.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/ItemS.ts": "assets/scripts/parkour/ItemS.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/Introduce.ts": "assets/scripts/parkour/Introduce.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/Q&A.ts": "assets/scripts/parkour/Q&A.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/BagManager.ts": "assets/scripts/puzzle/BagManager.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Box1.ts": "assets/scripts/puzzle/Box1.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Box2.ts": "assets/scripts/puzzle/Box2.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Drag.ts": "assets/scripts/puzzle/Drag.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/DialogManager.ts": "assets/scripts/puzzle/DialogManager.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/EventManager.ts": "assets/scripts/puzzle/EventManager.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/GameManager2.ts": "assets/scripts/puzzle/GameManager2.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Fade.ts": "assets/scripts/puzzle/Fade.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/ItemStatus.ts": "assets/scripts/puzzle/ItemStatus.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/PlayerPuzzleControl.ts": "assets/scripts/puzzle/PlayerPuzzleControl.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Q&A2.ts": "assets/scripts/puzzle/Q&A2.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/Sudoku.ts": "assets/scripts/puzzle/Sudoku.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/UIManager.ts": "assets/scripts/puzzle/UIManager.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/puzzle/typescript-001.ts": "assets/scripts/puzzle/typescript-001.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/start/StartSceneOption.ts": "assets/scripts/start/StartSceneOption.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/GameManager.ts": "assets/scripts/parkour/GameManager.js",
-      "file:///C:/Users/86152/Desktop/EulerLand/assets/scripts/parkour/PlayerControl.ts": "assets/scripts/parkour/PlayerControl.js"
-    },
-    "physicalLocation": "cce/internal/x/prerequisite-imports.js",
-    "mTimestamp": 1635479329056,
-    "isEntry": true,
-    "exposeAs": "cce:/internal/x/prerequisite-imports"
+    "mTimestamp": 1635494908708
   },
   "assets/scripts/parkour/GameManager.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js",
-      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
       "./PlayerControl": "assets/scripts/parkour/PlayerControl.js",
-      "./AudioManager": "assets/scripts/parkour/AudioManager.js"
+      "./AudioManager": "assets/scripts/parkour/AudioManager.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
     },
     "physicalLocation": "fs/0/assets/scripts/parkour/GameManager.js",
-    "mTimestamp": 1635479329189
+    "mTimestamp": 1635494908858
   },
   "assets/scripts/parkour/PlayerControl.js": {
     "imports": {
-      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
       "cc": "quick-pack:/cce/internal/x/cc.js",
       "./GameManager": "assets/scripts/parkour/GameManager.js",
       "./ItemS": "assets/scripts/parkour/ItemS.js",
       "./Q&A": "assets/scripts/parkour/Q&A.js",
-      "./AudioManager": "assets/scripts/parkour/AudioManager.js"
+      "./AudioManager": "assets/scripts/parkour/AudioManager.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
     },
     "physicalLocation": "fs/0/assets/scripts/parkour/PlayerControl.js",
-    "mTimestamp": 1635479329319
+    "mTimestamp": 1635494909086
+  },
+  "quick-pack:/cce/internal/x/cc.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/x/cc.js",
+    "mTimestamp": 1635494908466,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/cc"
+  },
+  "quick-pack:/cce/internal/x/prerequisite-imports.js": {
+    "imports": {
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/BackgroundAdapter.ts": "assets/scripts/Adaptor/BackgroundAdapter.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/global/GlobalFunction.ts": "assets/scripts/global/GlobalFunction.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/AudioManager.ts": "assets/scripts/parkour/AudioManager.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/CloseToBorderComponent.ts": "assets/scripts/Adaptor/CloseToBorderComponent.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/BlockPoolControl.ts": "assets/scripts/parkour/BlockPoolControl.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/ContentAdapter.ts": "assets/scripts/Adaptor/ContentAdapter.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/MultiResoultionCompat.ts": "assets/scripts/Adaptor/MultiResoultionCompat.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/GameManager.ts": "assets/scripts/parkour/GameManager.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/CameraControl.ts": "assets/scripts/parkour/CameraControl.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/GameRoot.ts": "assets/scripts/parkour/GameRoot.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/ItemS.ts": "assets/scripts/parkour/ItemS.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/PlayerControl.ts": "assets/scripts/parkour/PlayerControl.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/Introduce.ts": "assets/scripts/parkour/Introduce.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/BagManager.ts": "assets/scripts/puzzle/BagManager.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Box1.ts": "assets/scripts/puzzle/Box1.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Box2.ts": "assets/scripts/puzzle/Box2.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/Q&A.ts": "assets/scripts/parkour/Q&A.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/DialogManager.ts": "assets/scripts/puzzle/DialogManager.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/EventManager.ts": "assets/scripts/puzzle/EventManager.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Fade.ts": "assets/scripts/puzzle/Fade.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Drag.ts": "assets/scripts/puzzle/Drag.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/ItemStatus.ts": "assets/scripts/puzzle/ItemStatus.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/GameManager2.ts": "assets/scripts/puzzle/GameManager2.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/PlayerPuzzleControl.ts": "assets/scripts/puzzle/PlayerPuzzleControl.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Q&A2.ts": "assets/scripts/puzzle/Q&A2.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/typescript-001.ts": "assets/scripts/puzzle/typescript-001.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Sudoku.ts": "assets/scripts/puzzle/Sudoku.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/UIManager.ts": "assets/scripts/puzzle/UIManager.js",
+      "file:///C:/eulerland%20game/EulerLand/assets/scripts/start/StartSceneOption.ts": "assets/scripts/start/StartSceneOption.js"
+    },
+    "physicalLocation": "cce/internal/x/prerequisite-imports.js",
+    "mTimestamp": 1635494908480,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/prerequisite-imports"
+  },
+  "quick-pack:/cce/internal/code-quality/cr.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/code-quality/cr.js",
+    "mTimestamp": 1635494909744
   }
 }
