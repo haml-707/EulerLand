@@ -338,3 +338,1214 @@
 2021-10-29 16:14-debug: // ---- cocos-service:(onAfterBuild) success ----
 2021-10-29 16:14-debug: cocos-service:(onAfterBuild)97%
 2021-10-29 16:14-debug: ================================ Build Task (web-mobile) Finished ===============================
+2021-11-2 09:33-debug: Start record console... {file(C:\eulerland game\EulerLand\temp\builder\log\web-mobile2021-10-29 16-13.log)}
+2021-11-2 09:33-debug: =================================== Build Task (web-mobile) Start ================================
+2021-11-2 09:33-debug: cocos-service:(onBeforeBuild) start...0%
+2021-11-2 09:33-debug: Start build task, options:{"packages":{"web-mobile":{"orientation":"auto","polyfills":{"asyncFunctions":true}},"cocos-service":{"configID":"3b4e13","services":[]}},"name":"EulerLand","platform":"web-mobile","buildPath":"project://build","debug":false,"md5Cache":false,"sourceMaps":false,"replaceSplashScreen":false,"mainBundleCompressionType":"merge_dep","mainBundleIsRemote":false,"mergeStartScene":false,"experimentalEraseModules":true,"compressTexture":true,"packAutoAtlas":true,"startScene":"e18e2d4f-7326-44f0-acb1-2d59e9898b1d","scenes":[{"url":"db://assets/scenes/parkour.scene","uuid":"e18e2d4f-7326-44f0-acb1-2d59e9898b1d","inBundle":false}],"outputName":"web-mobile"}
+2021-11-2 09:33-debug: // ---- cocos-service:(onBeforeBuild) ----
+2021-11-2 09:33-debug: Process: heapTotal 165.85MB heapUsed 152.22MB rss 197.92MB
+2021-11-2 09:33-debug: // ---- cocos-service:(onBeforeBuild) success ----
+2021-11-2 09:33-debug: Query all assets info in project
+2021-11-2 09:33-debug: cocos-service:(onBeforeBuild)3%
+2021-11-2 09:33-debug: BuildAssetLibrary initialized with asset 1275!
+2021-11-2 09:33-debug:   Number of all scenes: 4
+2021-11-2 09:33-debug:   Number of all scripts: 29
+2021-11-2 09:33-debug:   Number of other assets: 2008
+2021-11-2 09:33-debug: // ---- web-mobile:(onAfterInit) ----
+2021-11-2 09:33-debug: web-mobile:(onAfterInit) start...3%
+2021-11-2 09:33-debug: Process: heapTotal 167.36MB heapUsed 156.50MB rss 201.52MB
+2021-11-2 09:33-debug: // ---- web-mobile:(onAfterInit) success ----
+2021-11-2 09:33-debug: web-mobile:(onAfterInit)5%
+2021-11-2 09:33-debug: 加载刷新项目脚本 start5%
+2021-11-2 09:33-log: // ---- 加载刷新项目脚本 ----
+2021-11-2 09:33-debug: Process: heapTotal 162.86MB heapUsed 153.42MB rss 198.31MB
+2021-11-2 09:33-debug: reload all scripts.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/cce/internal/x/cc.js" loaded.
+2021-11-2 09:33-debug: Invalidating 'pack:///mods/cce/internal/x/cc.js'
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/BackgroundAdapter.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Register CloseToBorderComponent
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/cce/internal/x/cc.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Register BackgroundAdapter
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/CloseToBorderComponent.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Register ContentAdapter
+2021-11-2 09:33-debug: [[Executor]] Register MultiResolutionCompat
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/MultiResoultionCompat.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/Adaptor/ContentAdapter.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Register GlobalFunction
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/global/GlobalFunction.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/cce/internal/code-quality/cr.js" loaded.
+2021-11-2 09:33-warn: Found possible circular reference in "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/parkour/GameManager.js", happened when use "PlayerControl" imported from "./PlayerControl" {}
+2021-11-2 09:33-debug: [[Executor]] Register GameManager
+2021-11-2 09:33-log: You are explicitly specifying `undefined` type to cc property "playerControl" of cc class "GameManager".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/parkour/GameManager.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Register ItemS
+2021-11-2 09:33-log: The type of "ItemS.isBar" must be CCBoolean, not Boolean.
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/parkour/AudioManager.js" loaded.
+2021-11-2 09:33-log: The type of "ItemS.isHW" must be CCBoolean, not Boolean.
+2021-11-2 09:33-log: The type of "ItemS.isCN" must be CCBoolean, not Boolean.
+2021-11-2 09:33-log: The type of "ItemS.isRB" must be CCBoolean, not Boolean.
+2021-11-2 09:33-log: The type of "ItemS.isCoin" must be CCBoolean, not Boolean.
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/parkour/ItemS.js" loaded.
+2021-11-2 09:33-log: The type of "ItemS.isVM" must be CCBoolean, not Boolean.
+2021-11-2 09:33-warn: Found possible circular reference in "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/parkour/Q&A.js", happened when use "PlayerControl" imported from "./PlayerControl" {}
+2021-11-2 09:33-debug: [[Executor]] Register QA
+2021-11-2 09:33-debug: [[Executor]] Register PlayerControl
+2021-11-2 09:33-log: You are explicitly specifying `undefined` type to cc property "playerControl" of cc class "QA".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+2021-11-2 09:33-debug: [[Executor]] Register BuildBlockPool
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/parkour/PlayerControl.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/parkour/Q&A.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/parkour/BlockPoolControl.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Register Typescript
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/parkour/CameraControl.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/parkour/GameRoot.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Register GameRoot
+2021-11-2 09:33-debug: [[Executor]] Register Introduce
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/parkour/Introduce.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Register EventManager
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/puzzle/EventManager.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Register Fade
+2021-11-2 09:33-warn: Found possible circular reference in "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/puzzle/UIManager.js", happened when use "BagManager" imported from "./BagManager" {}
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Fade.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Register UIManager
+2021-11-2 09:33-log: You are explicitly specifying `undefined` type to cc property "bagManager" of cc class "UIManager".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/puzzle/UIManager.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Register ItemStatus
+2021-11-2 09:33-log: The type of "ItemStatus.isInBag" must be CCBoolean, not Boolean.
+2021-11-2 09:33-log: The type of "ItemStatus.canUse" must be CCBoolean, not Boolean.
+2021-11-2 09:33-log: The type of "ItemStatus.canSyn" must be CCBoolean, not Boolean.
+2021-11-2 09:33-log: The type of "ItemStatus.isSelect" must be CCBoolean, not Boolean.
+2021-11-2 09:33-log: The type of "ItemStatus.isItem" must be CCBoolean, not Boolean.
+2021-11-2 09:33-log: The type of "ItemStatus.synGet" must be CCBoolean, not Boolean.
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/puzzle/ItemStatus.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/puzzle/BagManager.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Register BagManager
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Box1.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Register Box2
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Box2.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Register Box1
+2021-11-2 09:33-debug: [[Executor]] Register DialogManager
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/puzzle/DialogManager.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Register Drag
+2021-11-2 09:33-debug: [[Executor]] Register GameManager2
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/puzzle/GameManager2.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Register PlayerPuzzleControl
+2021-11-2 09:33-debug: [[Executor]] Register QA2
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Drag.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Q&A2.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Register Sudoku
+2021-11-2 09:33-debug: [[Executor]] Register Typescript001
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/puzzle/PlayerPuzzleControl.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Register StartSceneOption
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/puzzle/typescript-001.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/start/StartSceneOption.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/file/C:/eulerland%20game/EulerLand/assets/scripts/puzzle/Sudoku.js" loaded.
+2021-11-2 09:33-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-11-2 09:33-debug: 加载刷新项目脚本 √8%
+2021-11-2 09:33-debug: 查询 asset bundle start8%
+2021-11-2 09:33-debug: Process: heapTotal 164.61MB heapUsed 154.93MB rss 199.30MB
+2021-11-2 09:33-log: // ---- 查询 asset bundle ----
+2021-11-2 09:33-debug: 查询 asset bundle √11%
+2021-11-2 09:33-debug: 查询使用的资源以及资源包配置 start11%
+2021-11-2 09:33-log: // ---- 查询使用的资源以及资源包配置 ----
+2021-11-2 09:33-debug: Process: heapTotal 164.61MB heapUsed 155.09MB rss 199.68MB
+2021-11-2 09:33-debug: Number of scenes: 1
+2021-11-2 09:33-debug: Number of assets: 902
+2021-11-2 09:33-debug: Number of asset bundle: 2
+2021-11-2 09:33-debug: 查询使用的资源以及资源包配置 √14%
+2021-11-2 09:33-debug: 整理脚本分组与脚本数据 start14%
+2021-11-2 09:33-log: // ---- 整理脚本分组与脚本数据 ----
+2021-11-2 09:33-debug: Process: heapTotal 169.11MB heapUsed 158.07MB rss 205.80MB
+2021-11-2 09:33-debug: 整理纹理压缩任务 start16%
+2021-11-2 09:33-debug: 整理脚本分组与脚本数据 √16%
+2021-11-2 09:33-debug: sort script group...
+2021-11-2 09:33-debug: Process: heapTotal 169.11MB heapUsed 158.11MB rss 205.82MB
+2021-11-2 09:33-log: // ---- 整理纹理压缩任务 ----
+2021-11-2 09:33-debug: Number of image-compress task: 0
+2021-11-2 09:33-debug: 初步划分 json 合并分组 start19%
+2021-11-2 09:33-debug: 整理纹理压缩任务 √19%
+2021-11-2 09:33-log: // ---- 初步划分 json 合并分组 ----
+2021-11-2 09:33-debug: Process: heapTotal 169.11MB heapUsed 158.97MB rss 206.26MB
+2021-11-2 09:33-debug: 初步划分 json 合并分组 √22%
+2021-11-2 09:33-debug: Number of json group: 29
+2021-11-2 09:33-debug: 整理合并压缩 Texture2D 的 json 数据 start22%
+2021-11-2 09:33-log: // ---- 整理合并压缩 Texture2D 的 json 数据 ----
+2021-11-2 09:33-debug: Process: heapTotal 169.61MB heapUsed 156.62MB rss 207.35MB
+2021-11-2 09:33-debug: 整理合并压缩 Texture2D 的 json 数据 √25%
+2021-11-2 09:33-debug:  start25%
+2021-11-2 09:33-log: // ----  ----
+2021-11-2 09:33-debug: Process: heapTotal 169.61MB heapUsed 156.85MB rss 207.35MB
+2021-11-2 09:33-warn: Browserslist: caniuse-lite is outdated. Please run:npx browserslist@latest --update-db
+2021-11-2 09:33-warn: Browserslist: caniuse-lite is outdated. Please run:npx browserslist@latest --update-dbWhy you should do it regularly:https://github.com/browserslist/browserslist#browsers-data-updating
+2021-11-2 09:33-debug: 打包脚本25%
+2021-11-2 09:33-debug: Process: heapTotal 193.97MB heapUsed 173.17MB rss 231.86MB
+2021-11-2 09:33-warn: [[Build.Script.Rollup]] Circular dependency: file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/ItemStatus.ts -> file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/UIManager.ts -> file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/BagManager.ts -> file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/ItemStatus.ts
+2021-11-2 09:33-warn: [[Build.Script.Rollup]] Circular dependency: file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/ItemStatus.ts -> file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/UIManager.ts -> file:///C:/eulerland%20game/EulerLand/assets/scripts/puzzle/ItemStatus.ts
+2021-11-2 09:33-warn: [[Build.Script.Rollup]] Circular dependency: file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/PlayerControl.ts -> file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/Q&A.ts -> file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/PlayerControl.ts
+2021-11-2 09:33-warn: [[Build.Script.Rollup]] Circular dependency: file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/PlayerControl.ts -> file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/GameManager.ts -> file:///C:/eulerland%20game/EulerLand/assets/scripts/parkour/PlayerControl.ts
+2021-11-2 09:34-debug: Copy externalScripts success!
+2021-11-2 09:34-debug: 打包脚本√25%
+2021-11-2 09:34-debug: Process: heapTotal 206.61MB heapUsed 189.38MB rss 249.74MB
+2021-11-2 09:34-debug: 构建引擎25%
+2021-11-2 09:34-debug: Use cache engine: {link(C:\Users\86152\AppData\Local\Temp\CocosCreator\3.1.1\builder\engine\56d25a857210790cf74a6ea7000cb1bd)}
+2021-11-2 09:34-debug: {"debug":false,"sourceMaps":false,"includeModules":["base","gfx-webgl","gfx-webgl2","3d","2d","ui","particle","physics-ammo","physics-2d-box2d","intersection-2d","primitive","profiler","particle-2d","audio","video","webview","tween","terrain","tiled-map","spine","dragon-bones"],"engineVersion":"3.1.1","platform":"HTML5","md5Map":[],"engineName":"cocos-js","useCache":true,"split":false,"ammoJsWasm":"fallback","assetURLFormat":"runtime-resolved","entry":"C:\\CocosDashboard_1.0.20\\resources\\.editors\\Creator\\3.1.1\\resources\\resources\\3d\\engine"}
+2021-11-2 09:34-debug: 构建引擎√25%
+2021-11-2 09:34-debug:  √32%
+2021-11-2 09:34-log: // ---- 构建自动图集 ----
+2021-11-2 09:34-debug: Process: heapTotal 206.33MB heapUsed 190.87MB rss 252.68MB
+2021-11-2 09:34-debug: 构建自动图集 start32%
+2021-11-2 09:34-debug: 图片拷贝压缩任务 start38%
+2021-11-2 09:34-debug: 构建自动图集 √38%
+2021-11-2 09:34-log: // ---- 图片拷贝压缩任务 ----
+2021-11-2 09:34-debug: 图片拷贝压缩任务 √45%
+2021-11-2 09:34-debug: 将资源拷贝到指定位置 start45%
+2021-11-2 09:34-debug: Process: heapTotal 206.33MB heapUsed 191.02MB rss 252.69MB
+2021-11-2 09:34-log: // ---- 将资源拷贝到指定位置 ----
+2021-11-2 09:34-debug: Process: heapTotal 206.33MB heapUsed 191.00MB rss 252.69MB
+2021-11-2 09:34-debug: Asset Bundle(resources) handle assets: 761
+2021-11-2 09:34-debug: Asset Bundle(main) handle assets: 210
+2021-11-2 09:34-debug: 将分组后的 json 与散文件构建到指定位置 start52%
+2021-11-2 09:34-log: // ---- 将分组后的 json 与散文件构建到指定位置 ----
+2021-11-2 09:34-debug: Process: heapTotal 214.33MB heapUsed 189.62MB rss 259.91MB
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/对话框.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/关闭icon（未按）.png)})
+2021-11-2 09:34-debug: 将资源拷贝到指定位置 √52%
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/十枚硬币.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/互动内容蒙板.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/回到上一个场景icon（未按）.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/3.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/物品栏.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景一盒子.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/game start（按下）.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/密码盒1切图和规范/三角形.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/地图1背景.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/捕鱼网.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/暂停icon.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/密码盒1切图和规范/密码盒1背景.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景二盒子.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/数独解密背景.jpg)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/选择错误框.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/回到大世界icon.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/game start（未按）.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/铲子.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/返回游戏标题（未按）.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/第二关/背景图.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/物品框.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/密码盒1切图和规范/方形.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/提问框.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/选择框（未选中）.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/7.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/coni_paint.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/选择框（选中）.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/网.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/游戏通关框.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/积分框.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/1.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/盐.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/选择正确框.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/第二关/沙滩球.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/游戏失败框.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个原画场景/跑酷游戏地图3.jpg)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/场景2.jpg)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/新增ui/game star.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/金币.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/第二关/网球网.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/密码盒1切图和规范/密码盒1预览图.jpg)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/第二关/贝壳.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/5.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/新增ui/游戏开始icon.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_pressed.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/倒计时数字2.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/第二关/前景.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/回答问题背景框.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/提示icon（未按）.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/场景3.jpg)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/插画背景参考1.jpg)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/密码盒1切图和规范/六角星.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/返回游戏标题（按下）.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/倒计时数字1.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/地图3背景.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_normal.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个原画场景/跑酷游戏地图2.jpg)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/播放按钮.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/倒计时数字3.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/2.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/关闭icon（按下）.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/9.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/新增ui/游戏说明.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_disabled.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/选择框（选错）.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/小岛迷踪.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/插画背景参考2.jpg)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/4.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/数 独 解 密.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/带圈木框.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/新增ui/关闭icon.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景三盒子.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/神秘人剪影.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/地图2背景.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/新增ui/游戏说明icon.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/返回大世界icon（按下）.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/提示_物品_互动框.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/beiban.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/我：.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/8.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/6.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/神秘人：.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/新增ui/d28ac70e57e2673fcb82d07b160dac0.jpg)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/放弃回答icon.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/场景1.jpg)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/返回大世界icon（未按）.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/提示icon（按下）.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/8号球.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/取消icon.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/密码盒1切图和规范/圆形.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/回到上一个场景icon（按下）.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/第二关/玩具桶.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个原画场景/跑酷游戏地图1.jpg)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/剪刀.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/未选择框.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/蜂蜜.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/再来一次icon.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/糖.png)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/木头01.fbx/藤条.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/木头01.fbx/材质.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/木头01.fbx/Archmodels61_001_leaf2.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/木头01.fbx/木头01.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/木头01.fbx/Default_Material1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Block/100.prefab)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Block/101.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/木头02.fbx/藤条.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/木头02.fbx/材质.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/木头02.fbx/Archmodels61_001_leaf2.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/木头02.fbx/Default.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/木头02.fbx/木头02.prefab)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/树1.fbx/材质.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/树1.fbx/Default.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Block/102.prefab)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Block/103.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/树2.fbx/材质.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/树2.fbx/Default.mesh)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Block/104.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/树3.fbx/材质.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/树3.fbx/Default.mesh)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Block/200.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/垃圾桶.fbx/default.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/垃圾桶.fbx/盖.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/垃圾桶.fbx/手柄.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/垃圾桶.fbx/圆柱.mesh)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树1.fbx/克隆.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树1.fbx/材质.4.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树1.fbx/圆环_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树1.fbx/材质.1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树1.fbx/圆环.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树1.fbx/树干.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树1.fbx/材质.4_1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树1.fbx/树叶.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Block/201.prefab)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Block/202.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树2.fbx/克隆.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树2.fbx/材质.4.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树2.fbx/圆环_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树2.fbx/材质.1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树2.fbx/圆环.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树2.fbx/树干.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树2.fbx/材质.4_1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树2.fbx/树叶.mesh)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Block/203.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/滑板.fbx/pasted__lambert14_1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/滑板.fbx/轮子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/滑板.fbx/滑板.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/滑板.fbx/lambert3SG.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/滑板.fbx/group31_group30_polySurface59.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/滑板.fbx/group31_group30_pPlane8.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/滑板.fbx/pasted__lambert16.material)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/绳子.fbx/绳子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/绳子.fbx/材质.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Block/204.prefab)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Block/300.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/山.fbx/大山1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/山.fbx/材质.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/山.fbx/中山2.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/山.fbx/大山2.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/山.fbx/小山.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/山.fbx/材质_1.material)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Block/301.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/木头.fbx/扫描.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/木头.fbx/Default.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/木头.fbx/Material__0.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/木头.fbx/材质.2.material)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Block/302.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/石头01.fbx/default.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/石头01.fbx/Default.mesh)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Block/303.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/石头02.fbx/default.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/石头02.fbx/Default.mesh)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/石头03.fbx/default.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/石头03.fbx/Default.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Block/304.prefab)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜01.fbx/球体.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜01.fbx/灯.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜01.fbx/克隆.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜01.fbx/材质.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜01.fbx/材质.1_2.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜01.fbx/default.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜01.fbx/布尔_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜01.fbx/布尔.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜01.fbx/球体_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜01.fbx/材质.1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜01.fbx/克隆_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜01.fbx/云1_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜01.fbx/机柜01.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜01.fbx/灯_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Items/CloudNative.prefab)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Items/Coin.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/coin/coin.glb/Cylinder.001.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/materials/coin.mtl)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/球体.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/材质.1_4.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/球体_1_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/克隆.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/材质.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/材质.1_2.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/克隆_2.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/印泥.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/布尔_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/材质.1_1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/克隆_3.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/布尔_1_3.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/机柜02.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/球体_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/材质.1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/克隆_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/书_2.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/书_1_Material0.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/材质.1_3.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/布尔_1_2.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜02.fbx/材质.2.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Items/HardWare.prefab)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Items/RaspBarry.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/树莓派.fbx/树莓派.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/树莓派.fbx/对称_4.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/树莓派.fbx/材质.4.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/树莓派.fbx/材质.3.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/树莓派.fbx/球体_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/树莓派.fbx/材质.1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/树莓派.fbx/身体.mesh)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/Items/VM.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/电视.fbx/default.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/电视.fbx/材质.1_1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/电视.fbx/机身.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/电视.fbx/电视.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/电视.fbx/云1_1_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/电视.fbx/材质.1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/电视.fbx/云1_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/电视.fbx/屏幕.mesh)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_normal.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_pressed.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/UI/Q&A.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_disabled.png/spriteFrame)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/地面02.fbx/材质.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/地面02.fbx/Default.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/地面02.fbx/地面02.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/materials/darkblue.mtl)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/路面02.fbx/材质.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/路面02.fbx/路面02.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/路面02.fbx/Default.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/场景/1.prefab)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/场景/2.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/仙人掌.fbx/仙人掌5_1_Material0.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/仙人掌.fbx/仙人掌3_1_Material0.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/仙人掌.fbx/仙人掌1_1_Material0.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/仙人掌.fbx/default.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/仙人掌.fbx/仙人掌.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/仙人掌.fbx/仙人掌4_1_Material0.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/仙人掌.fbx/仙人掌2_Material0.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/仙人掌.fbx/材质.1.material)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/路面02.fbx/材质.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/路面02.fbx/路面02.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/路面02.fbx/Default.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/objRight_Thigh70_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/骨架.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/材质.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/objRight_Thigh63_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/objRight_Thigh73_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/Object15_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/Object12_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/Object13_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/objAbdomen02_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/objRight_Thigh75_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/objRight_Thigh71_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/objRight_Thigh61_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/Tube01_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/objRight_Thigh68_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/Tube02_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/objRight_Thigh69_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/objRight_Thigh74_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/Tube03_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/objAbdomen03_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/L_Knee01_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/objRight_Thigh72_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/skull01_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/objRight_Thigh67_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/objRight_Thigh62_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/沙漠02.fbx/材质.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/沙漠02.fbx/沙漠02.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/沙漠02.fbx/Default.mesh)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/草地02.fbx/草地02.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/草地02.fbx/Default.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/materials/road/材质2.mtl)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/materials/road/材质.mtl)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/路面03.fbx/Default.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/路面03.fbx/路面03.prefab)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/场景/folder/4.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/路面02.fbx/路面02.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/路面02.fbx/Default.mesh)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/石头.fbx/草2.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/石头.fbx/草1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/石头.fbx/SM_Rock_08_LOD0_2.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/石头.fbx/SM_Rock_08_LOD0_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/石头.fbx/石头8.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/石头.fbx/石头5.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/石头.fbx/石头7.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/石头.fbx/石头6.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/石头.fbx/SM_Rock_08_LOD0_3.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/石头.fbx/草.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/石头.fbx/SM_Rock_08_LOD0_5.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/石头.fbx/草_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/石头.fbx/草1_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/石头.fbx/石头9.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/石头.fbx/草2_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/场景/石头.prefab)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/草.fbx/Archmodels61_001_01.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/场景/草.prefab)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/对话框.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/欧拉马术服.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/关闭icon（未按）.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/树2.fbx/树2.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/十枚硬币.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/绳子.fbx/FabricRope001_DISP_3K.jpg.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/3.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/互动内容蒙板.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/绳子.fbx/FabricRope001_COL_3K.jpg.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/回到上一个场景icon（未按）.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/game start（按下）.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/木头01.fbx/WoodFine03_COL_VAR1_HIRES.jpg.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/密码盒1切图和规范/三角形.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/物品栏.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/地图1背景.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/暂停icon.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/捕鱼网.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树2.fbx/WoodFine06_GLOSS_6K.jpg.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/密码盒1切图和规范/密码盒1背景.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/数独解密背景.jpg/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/选择错误框.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/回到大世界icon.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/game start（未按）.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/铲子.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/返回游戏标题（未按）.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/第二关/背景图.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/物品框.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/密码盒1切图和规范/方形.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/提问框.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/选择框（未选中）.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/7.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/coni_paint.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/路面02.fbx/路面02.png-0.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/路面02.fbx/路面02.png-1.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/选择框（选中）.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/网.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/游戏通关框.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/积分框.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/1.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/盐.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/选择正确框.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/第二关/沙滩球.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/游戏失败框.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个原画场景/跑酷游戏地图3.jpg/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/场景2.jpg/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/新增ui/game star.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/金币.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/第二关/网球网.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/第二关/贝壳.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/密码盒1切图和规范/密码盒1预览图.jpg/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/5.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/新增ui/游戏开始icon.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_pressed.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/倒计时数字2.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/第二关/前景.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/树1.fbx/树1.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/回答问题背景框.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/提示icon（未按）.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/场景3.jpg/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/欧拉马术服.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/插画背景参考1.jpg/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/欧拉马术服.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/密码盒1切图和规范/六角星.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/返回游戏标题（按下）.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/地面02.fbx/地面02.png-1.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/地面02.fbx/地面02.png-0.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/倒计时数字1.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/地图3背景.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_normal.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个原画场景/跑酷游戏地图2.jpg/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/播放按钮.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/倒计时数字3.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/2.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/关闭icon（按下）.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/9.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/新增ui/游戏说明.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_disabled.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/选择框（选错）.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/小岛迷踪.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/插画背景参考2.jpg/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/4.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/SCRATCHES_small_03_base_tiled.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/SCRATCHES_small_03_base_tiled_8b_inv.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/数 独 解 密.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树1.fbx/WoodFine06_GLOSS_6K.jpg.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/带圈木框.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/新增ui/关闭icon.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/草地02.fbx/草地02.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/木头02.fbx/木头.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/神秘人剪影.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/地图2背景.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/新增ui/游戏说明icon.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/欧拉马术服.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/提示_物品_互动框.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/返回大世界icon（按下）.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/beiban.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/我：.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/8.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/欧拉马术服.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/沙漠02.fbx/沙漠02.png-1.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/沙漠02.fbx/沙漠02.png-0.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/6.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/神秘人：.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/木头.fbx/木头.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/木头.fbx/d32186692a26e4987520fc57618e970766cdc3f3173c8-eREXW8.jpg.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/新增ui/d28ac70e57e2673fcb82d07b160dac0.jpg/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/放弃回答icon.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/路面03.fbx/路面02.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/山.fbx/场景三-山02.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/山.fbx/场景三-山01.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/场景1.jpg/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/返回大世界icon（未按）.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/树3.fbx/树3.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/提示icon（按下）.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/8号球.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/路面02.fbx/路面02.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/取消icon.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/密码盒1切图和规范/圆形.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/回到上一个场景icon（按下）.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/第二关/玩具桶.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个原画场景/跑酷游戏地图1.jpg/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/剪刀.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/未选择框.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/蜂蜜.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/再来一次icon.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/糖.png/texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/Animes/2/bagOff.anim)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/游戏通关框.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/盐.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/回到上一个场景icon（未按）.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/Animes/2/Fade.anim)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个原画场景/跑酷游戏地图2.jpg/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/场景/0.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/对话框.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/材质-3.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/mixamo.com.animation)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/头发.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/UnnamedSkeleton-4.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/UnnamedSkeleton-8.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/材质.1-0.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/材质.2-7.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/UnnamedSkeleton-0.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/材质.2-5.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/大扣子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/衣领.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/UnnamedSkeleton-5.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/面部.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/UnnamedSkeleton-2.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/胡子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/UnnamedSkeleton-6.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/材质.2-1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/Default_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/裤子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/欧拉马术服.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/UnnamedSkeleton-9.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/UnnamedSkeleton-3.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/UnnamedSkeleton-7.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/材质.2-6.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/材质.2-2.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/领带.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/Right Strafe (2).prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/鞋子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/材质.2-4.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/UnnamedSkeleton-1.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Right Strafe (2).fbx/手.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/Animes/2/bagOn.anim)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/关闭icon（未按）.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/倒计时数字3.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/插画背景参考1.jpg/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/选择框（未选中）.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/小岛迷踪.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/材质-3.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/mixamo.com.animation)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/头发.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/UnnamedSkeleton-4.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/UnnamedSkeleton-8.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/材质.1-0.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/材质.2-7.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/UnnamedSkeleton-0.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/材质.2-5.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/大扣子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/衣领.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/UnnamedSkeleton-5.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/面部.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/UnnamedSkeleton-2.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/胡子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/UnnamedSkeleton-6.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/材质.2-1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/Default_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/Left Strafe (2).prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/裤子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/欧拉马术服.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/UnnamedSkeleton-9.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/UnnamedSkeleton-3.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/UnnamedSkeleton-7.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/材质.2-6.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/材质.2-2.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/领带.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/鞋子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/材质.2-4.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/UnnamedSkeleton-1.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Left Strafe (2).fbx/手.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/7.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/coni_paint.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/audio/eulerFirst/background.wav)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/树2.fbx/树2.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/effects/builtin-standard.effect)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/Animes/1/GameStart.anim)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/路面02.fbx/路面02.png-1.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/路面02.fbx/路面02.png-0.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/选择框（选中）.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/网.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/绳子.fbx/FabricRope001_COL_3K.jpg.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/绳子.fbx/FabricRope001_DISP_3K.jpg.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/十枚硬币.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/互动内容蒙板.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/新增ui/游戏开始icon.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/积分框.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/1.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/选择正确框.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/插画背景参考2.jpg/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/3.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景一盒子.png/textureCube)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景一盒子.png/textureCube/back)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景一盒子.png/textureCube/right)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景一盒子.png/textureCube/bottom)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景一盒子.png/textureCube/left)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景一盒子.png/textureCube/top)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景一盒子.png/textureCube/front)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/密码盒1切图和规范/六角星.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/第二关/沙滩球.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/游戏失败框.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个原画场景/跑酷游戏地图3.jpg/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/2.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/game start（按下）.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/Json/Question.json)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/木头01.fbx/WoodFine03_COL_VAR1_HIRES.jpg.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/audio/eulerFirst/startBtn.wav)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/Animes/1/QA.anim)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景道具/机柜01.fbx/材质.1_1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/Animes/1/DownCount1.anim)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/场景2.jpg/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/新增ui/game star.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/返回游戏标题（按下）.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/Animes/1/item.anim)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/audio/eulerFirst/erro.wav)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/倒计时数字2.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/4.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/地面02.fbx/地面02.png-1.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/地面02.fbx/地面02.png-0.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/倒计时数字1.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/树1.fbx/树1.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/物品栏.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/密码盒1切图和规范/三角形.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/地图1背景.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/暂停icon.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/捕鱼网.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树2.fbx/WoodFine06_GLOSS_6K.jpg.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/关闭icon（按下）.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/第二关/前景.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/金币.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/回答问题背景框.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/提示icon（未按）.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/font/FZZhengHeiS-R-GB.ttf)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景二盒子.png/textureCube)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景二盒子.png/textureCube/back)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景二盒子.png/textureCube/right)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景二盒子.png/textureCube/bottom)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景二盒子.png/textureCube/left)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景二盒子.png/textureCube/top)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景二盒子.png/textureCube/front)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/font/fzlthjwgb10.TTF)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/数独解密背景.jpg/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/密码盒1切图和规范/密码盒1背景.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/选择错误框.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/audio/eulerFirst/active.mp3)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/回到大世界icon.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/第二关/网球网.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/第二关/贝壳.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/场景3.jpg/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/材质-3.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/mixamo.com.animation)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/头发.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/UnnamedSkeleton-4.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/UnnamedSkeleton-8.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/材质.1-0.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/材质.2-7.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/UnnamedSkeleton-0.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/Running.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/材质.2-5.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/大扣子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/衣领.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/UnnamedSkeleton-5.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/面部.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/UnnamedSkeleton-2.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/胡子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/UnnamedSkeleton-6.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/材质.2-1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/Default_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/裤子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/欧拉马术服.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/UnnamedSkeleton-9.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/UnnamedSkeleton-3.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/UnnamedSkeleton-7.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/材质.2-6.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/材质.2-2.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/领带.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/鞋子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/材质.2-4.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/UnnamedSkeleton-1.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running.fbx/手.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/9.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/新增ui/游戏说明.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/选择框（选错）.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/密码盒1切图和规范/密码盒1预览图.jpg/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/game start（未按）.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/铲子.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/返回游戏标题（未按）.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/第二关/背景图.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/物品框.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/5.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/地图3背景.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/播放按钮.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/font/FZLTCHJW.TTF)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/audio/eulerFirst/clickbtn.mp3)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/密码盒1切图和规范/方形.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/提问框.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/数 独 解 密.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/树1.fbx/WoodFine06_GLOSS_6K.jpg.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/SCRATCHES_small_03_base_tiled_8b_inv.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/骨架.fbx/SCRATCHES_small_03_base_tiled.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/带圈木框.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景三盒子.png/textureCube)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景三盒子.png/textureCube/back)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景三盒子.png/textureCube/right)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景三盒子.png/textureCube/bottom)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景三盒子.png/textureCube/left)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景三盒子.png/textureCube/top)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个场景盒/场景三盒子.png/textureCube/front)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/audio/eulerFirst/win.wav)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/新增ui/关闭icon.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/草地02.fbx/草地02.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/materials/green.mtl)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/木头02.fbx/木头.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/神秘人剪影.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/font/PangMenZhengDaoBiaoTiTi-1.ttf)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/地图2背景.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/新增ui/游戏说明icon.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/材质-3.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/mixamo.com.animation)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/头发.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/UnnamedSkeleton-4.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/UnnamedSkeleton-8.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/材质.1-0.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/材质.2-7.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/UnnamedSkeleton-0.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/材质.2-5.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/大扣子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/衣领.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/UnnamedSkeleton-5.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/面部.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/UnnamedSkeleton-2.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/胡子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/UnnamedSkeleton-6.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/材质.2-1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/Default_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/裤子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/欧拉马术服.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/Jump.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/UnnamedSkeleton-9.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/UnnamedSkeleton-3.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/UnnamedSkeleton-7.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/材质.2-6.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/材质.2-2.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/领带.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/鞋子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/材质.2-4.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/UnnamedSkeleton-1.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Jump.fbx/手.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/提示_物品_互动框.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/返回大世界icon（按下）.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/beiban.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/我：.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/8.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/材质-3.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/mixamo.com.animation)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/头发.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/UnnamedSkeleton-4.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/UnnamedSkeleton-8.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/材质.1-0.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/材质.2-7.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/UnnamedSkeleton-0.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/材质.2-5.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/大扣子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/衣领.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/Running Slide.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/UnnamedSkeleton-5.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/面部.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/UnnamedSkeleton-2.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/胡子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/UnnamedSkeleton-6.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/材质.2-1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/Default_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/裤子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/欧拉马术服.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/UnnamedSkeleton-9.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/UnnamedSkeleton-3.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/UnnamedSkeleton-7.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/材质.2-6.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/材质.2-2.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/领带.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/鞋子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/材质.2-4.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/UnnamedSkeleton-1.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/people/Running Slide.fbx/手.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/沙漠02.fbx/沙漠02.png-0.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/沙漠02.fbx/沙漠02.png-1.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefabs/场景/folder/3.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/木头.fbx/d32186692a26e4987520fc57618e970766cdc3f3173c8-eREXW8.jpg.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/木头.fbx/木头.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/放弃回答icon.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/sudoku/6.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/神秘人：.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/山.fbx/场景三-山02.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景三（fbx）/山.fbx/场景三-山01.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/路面03.fbx/路面02.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/场景1.jpg/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/audio/eulerFirst/right.wav)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/audio/eulerFirst/magic.mp3)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/返回大世界icon（未按）.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景一（fbx）/树3.fbx/树3.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/提示icon（按下）.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/8号球.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/audio/eulerFirst/go.mp3)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/Animes/1/DownCount3.anim)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/audio/eulerFirst/321.mp3)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/fbx打包/场景二（fbx）/路面02.fbx/路面02.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/取消icon.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/密码盒1切图和规范/圆形.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/ui切图/回到上一个场景icon（按下）.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/audio/eulerFirst/fail.wav)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/蜂蜜.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/三个原画场景/跑酷游戏地图1.jpg/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/第二关/玩具桶.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/剪刀.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/Animes/1/DownCount2.anim)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/未选择框.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/跑酷游戏ui切图/再来一次icon.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/audio/eulerFirst/gold.wav)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/sprite/道具png（第一部分）/糖.png/spriteFrame)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/materials/wudi.mtl)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/primitives.fbx/sphere.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/primitives.fbx/plane.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/primitives.fbx/box.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/材质-3.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/头发.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/UnnamedSkeleton-4.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/UnnamedSkeleton-8.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/材质.1-0.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/材质.2-7.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/UnnamedSkeleton-0.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/材质.2-5.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/大扣子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/衣领.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/UnnamedSkeleton-5.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/面部.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/UnnamedSkeleton-2.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/胡子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/UnnamedSkeleton-6.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/材质.2-1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/Default_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/裤子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/Jump.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/UnnamedSkeleton-9.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/UnnamedSkeleton-3.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/UnnamedSkeleton-7.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/材质.2-6.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/材质.2-2.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/领带.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/jumping.animation)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/鞋子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/材质.2-4.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/UnnamedSkeleton-1.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/手.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/materials/bg1.mtl)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/materials/didang.mtl)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/materials/bg3.mtl)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/materials/xiqu.mtl)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/effects/builtin-unlit.effect)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/materials/bg2.mtl)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default-material.mtl)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/材质-3.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/头发.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/UnnamedSkeleton-4.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/UnnamedSkeleton-8.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/材质.1-0.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/材质.2-7.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/UnnamedSkeleton-0.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/材质.2-5.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/大扣子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/衣领.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/Running Slide.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/sliding.animation)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/UnnamedSkeleton-5.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/面部.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/UnnamedSkeleton-2.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/胡子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/UnnamedSkeleton-6.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/材质.2-1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/Default_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/裤子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/UnnamedSkeleton-9.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/UnnamedSkeleton-3.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/UnnamedSkeleton-7.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/材质.2-6.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/材质.2-2.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/领带.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/鞋子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/材质.2-4.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/UnnamedSkeleton-1.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/手.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/scenes/parkour.scene)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/材质-3.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/头发.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/UnnamedSkeleton-4.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/UnnamedSkeleton-8.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/材质.1-0.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/材质.2-7.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/UnnamedSkeleton-0.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/Running.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/材质.2-5.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/大扣子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/衣领.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/UnnamedSkeleton-5.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/面部.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/UnnamedSkeleton-2.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/胡子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/UnnamedSkeleton-6.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/材质.2-1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/Default_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/裤子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/UnnamedSkeleton-9.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/UnnamedSkeleton-3.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/UnnamedSkeleton-7.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/材质.2-6.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/材质.2-2.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/领带.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/鞋子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/running.animation)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/材质.2-4.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/UnnamedSkeleton-1.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/手.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/材质-3.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/头发.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/UnnamedSkeleton-4.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/UnnamedSkeleton-8.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/材质.1-0.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/材质.2-7.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/UnnamedSkeleton-0.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/材质.2-5.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/大扣子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/衣领.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/UnnamedSkeleton-5.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/面部.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/UnnamedSkeleton-2.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/胡子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/UnnamedSkeleton-6.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/材质.2-1.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/Default_1.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/裤子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/UnnamedSkeleton-9.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/dodging.animation)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/UnnamedSkeleton-3.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/UnnamedSkeleton-7.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/材质.2-6.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/材质.2-2.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/领带.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/左右闪避动作.prefab)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/鞋子.mesh)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/材质.2-4.material)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/UnnamedSkeleton-1.skeleton)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/手.mesh)})
+2021-11-2 09:34-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/欧拉马术服.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/欧拉马术服.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/欧拉马术服.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/欧拉马术服.png.texture)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Jump.fbx/欧拉马术服.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running Slide.fbx/欧拉马术服.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/Running.fbx/欧拉马术服.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/res/model/新建文件夹/people/左右闪避动作.fbx/欧拉马术服.png.image)})
+2021-11-2 09:34-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_renderpipeline/builtin-forward.rpp)})
+2021-11-2 09:34-debug: 将分组后的 json 与散文件构建到指定位置 √58%
+2021-11-2 09:34-debug: 压缩 zip bundle start58%
+2021-11-2 09:34-log: // ---- 压缩 zip bundle ----
+2021-11-2 09:34-debug: 给所有的资源加上 md5 后缀 start65%
+2021-11-2 09:34-debug: Process: heapTotal 217.47MB heapUsed 195.79MB rss 265.61MB
+2021-11-2 09:34-debug: Process: heapTotal 217.47MB heapUsed 195.81MB rss 265.61MB
+2021-11-2 09:34-log: // ---- 给所有的资源加上 md5 后缀 ----
+2021-11-2 09:34-debug: 压缩 zip bundle √65%
+2021-11-2 09:34-debug: 初始化 settings 与 config start75%
+2021-11-2 09:34-debug: 给所有的资源加上 md5 后缀 √75%
+2021-11-2 09:34-debug: Process: heapTotal 217.47MB heapUsed 195.84MB rss 265.61MB
+2021-11-2 09:34-log: // ---- 初始化 settings 与 config ----
+2021-11-2 09:34-debug: 初始化 settings 与 config √76%
+2021-11-2 09:34-debug: tasks.settings.macro start76%
+2021-11-2 09:34-debug: tasks.settings.macro 字段未在编辑器多语言内定义
+2021-11-2 09:34-log: // ---- tasks.settings.macro ----
+2021-11-2 09:34-debug: Process: heapTotal 217.47MB heapUsed 195.89MB rss 265.61MB
+2021-11-2 09:34-debug: tasks.settings.macro √76%
+2021-11-2 09:34-debug: 使用缓存 settings start76%
+2021-11-2 09:34-debug: Process: heapTotal 217.47MB heapUsed 195.95MB rss 265.61MB
+2021-11-2 09:34-log: // ---- 使用缓存 settings ----
+2021-11-2 09:34-debug: 使用缓存 settings √77%
+2021-11-2 09:34-debug: custom joint texture layouts start77%
+2021-11-2 09:34-log: // ---- custom joint texture layouts ----
+2021-11-2 09:34-debug: Process: heapTotal 217.47MB heapUsed 196.02MB rss 265.66MB
+2021-11-2 09:34-debug: custom joint texture layouts √77%
+2021-11-2 09:34-debug: custom joint physics start77%
+2021-11-2 09:34-log: // ---- custom joint physics ----
+2021-11-2 09:34-debug: Process: heapTotal 217.47MB heapUsed 196.06MB rss 265.66MB
+2021-11-2 09:34-debug: 填充脚本数据到 settings start78%
+2021-11-2 09:34-log: // ---- 填充脚本数据到 settings ----
+2021-11-2 09:34-debug: Process: heapTotal 217.47MB heapUsed 196.08MB rss 265.66MB
+2021-11-2 09:34-debug: custom joint physics √78%
+2021-11-2 09:34-debug: 填充脚本数据到 settings √78%
+2021-11-2 09:34-debug: 填充场景数据到 settings start78%
+2021-11-2 09:34-log: // ---- 填充场景数据到 settings ----
+2021-11-2 09:34-debug: Process: heapTotal 217.47MB heapUsed 196.10MB rss 265.66MB
+2021-11-2 09:34-debug: 填充场景数据到 settings √79%
+2021-11-2 09:34-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 start79%
+2021-11-2 09:34-log: // ---- 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 ----
+2021-11-2 09:34-debug: Process: heapTotal 217.47MB heapUsed 196.13MB rss 265.66MB
+2021-11-2 09:34-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 √79%
+2021-11-2 09:34-debug: 从 suffixMap 生成 md5AssetsMap 到 settings start79%
+2021-11-2 09:34-log: // ---- 从 suffixMap 生成 md5AssetsMap 到 settings ----
+2021-11-2 09:34-debug: 从 suffixMap 生成 md5AssetsMap 到 settings √80%
+2021-11-2 09:34-debug: // ---- web-mobile:(onBeforeCompressSettings) ----
+2021-11-2 09:34-debug: Process: heapTotal 217.47MB heapUsed 196.38MB rss 265.66MB
+2021-11-2 09:34-debug: options.md5Cache is false.
+2021-11-2 09:34-debug: Process: heapTotal 217.47MB heapUsed 196.35MB rss 265.66MB
+2021-11-2 09:34-debug: web-mobile:(onBeforeCompressSettings) start...80%
+2021-11-2 09:34-debug: // ---- web-mobile:(onBeforeCompressSettings) success ----
+2021-11-2 09:34-debug: web-mobile:(onBeforeCompressSettings)82%
+2021-11-2 09:34-debug: cocos-service:(onBeforeCompressSettings) start...82%
+2021-11-2 09:34-debug: // ---- cocos-service:(onBeforeCompressSettings) ----
+2021-11-2 09:34-debug: Process: heapTotal 217.47MB heapUsed 196.41MB rss 265.66MB
+2021-11-2 09:34-debug: // ---- cocos-service:(onBeforeCompressSettings) success ----
+2021-11-2 09:34-debug: cocos-service:(onBeforeCompressSettings)85%
+2021-11-2 09:34-debug: 压缩 config.json 与 settings.js start85%
+2021-11-2 09:34-log: // ---- 压缩 config.json 与 settings.js ----
+2021-11-2 09:34-debug: 压缩 config.json 与 settings.js √86%
+2021-11-2 09:34-debug: 保存 config.json start86%
+2021-11-2 09:34-debug: Process: heapTotal 217.47MB heapUsed 196.52MB rss 265.66MB
+2021-11-2 09:34-log: // ---- 保存 config.json ----
+2021-11-2 09:34-debug: 保存 config.json √87%
+2021-11-2 09:34-debug: Process: heapTotal 217.47MB heapUsed 197.38MB rss 265.68MB
+2021-11-2 09:34-debug: 保存 settings.json start87%
+2021-11-2 09:34-log: // ---- 保存 settings.json ----
+2021-11-2 09:34-debug: Process: heapTotal 217.47MB heapUsed 197.75MB rss 265.68MB
+2021-11-2 09:34-debug: 整理静态模板文件 start89%
+2021-11-2 09:34-log: // ---- 整理静态模板文件 ----
+2021-11-2 09:34-debug: 保存 settings.json √89%
+2021-11-2 09:34-debug: cocos-service:(onAfterCompressSettings) start...90%
+2021-11-2 09:34-debug: Process: heapTotal 217.47MB heapUsed 197.87MB rss 265.68MB
+2021-11-2 09:34-debug: // ---- cocos-service:(onAfterCompressSettings) ----
+2021-11-2 09:34-debug: 整理静态模板文件 √90%
+2021-11-2 09:34-debug: Process: heapTotal 215.39MB heapUsed 193.38MB rss 263.82MB
+2021-11-2 09:34-debug: // ---- cocos-service:(onAfterCompressSettings) success ----
+2021-11-2 09:34-debug: cocos-service:(onAfterCompressSettings)92%
+2021-11-2 09:34-debug: web-mobile:(onAfterBuild) start...92%
+2021-11-2 09:34-debug: // ---- web-mobile:(onAfterBuild) success ----
+2021-11-2 09:34-debug: // ---- web-mobile:(onAfterBuild) ----
+2021-11-2 09:34-debug: Process: heapTotal 215.39MB heapUsed 198.69MB rss 263.86MB
+2021-11-2 09:34-debug: web-mobile:(onAfterBuild)95%
+2021-11-2 09:34-debug: cocos-service:(onAfterBuild) start...95%
+2021-11-2 09:34-debug: // ---- cocos-service:(onAfterBuild) ----
+2021-11-2 09:34-debug: Process: heapTotal 216.14MB heapUsed 194.24MB rss 264.22MB
+2021-11-2 09:34-debug: // ---- cocos-service:(onAfterBuild) success ----
+2021-11-2 09:34-debug: cocos-service:(onAfterBuild)97%
+2021-11-2 09:34-debug: ================================ Build Task (web-mobile) Finished ===============================

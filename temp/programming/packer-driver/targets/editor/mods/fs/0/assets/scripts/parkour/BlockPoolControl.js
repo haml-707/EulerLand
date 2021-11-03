@@ -255,11 +255,6 @@ System.register(["cce:/internal/code-quality/cr.mjs", "cc", "./PlayerControl"], 
         }
 
         update(deltaTime) {
-          console.log(this.barPerfabs);
-          console.log(this._barPools);
-          console.log(this.node);
-          console.log(this.index);
-
           if (this.player.position.z > 2750) {
             director.getScene().globals.skybox.envmap = this.skyBoxes[1];
             director.getScene().globals.ambient.skyIllum = 20000;
@@ -317,8 +312,6 @@ System.register(["cce:/internal/code-quality/cr.mjs", "cc", "./PlayerControl"], 
                   this.block1.setPosition(position);
                 }
               }
-
-              console.log(this.index);
 
               if (this.index == 1) {
                 let a1 = Number(this.block2.name);

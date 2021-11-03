@@ -220,10 +220,6 @@ export class BuildBlockPool extends Component {
 
     update(deltaTime: number)
     {
-        console.log(this.barPerfabs);
-        console.log(this._barPools);
-        console.log(this.node);
-        console.log(this.index);
         if (this.player.position.z>2750) {
             director.getScene()!.globals.skybox.envmap = this.skyBoxes[1];
             director.getScene()!.globals.ambient.skyIllum = 20000;
@@ -275,8 +271,6 @@ export class BuildBlockPool extends Component {
                         this.block1.setPosition(position);
                     }
                 }
-                console.log(this.index);
-                
                 if (this.index == 1) {
                     let a1 = Number(this.block2!.name);
                     this._barPools[a1].put(this.block2!);
